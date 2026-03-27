@@ -1,0 +1,26 @@
+name: Validate JSON
+
+on:
+  pull_request:
+    paths:
+      - "**/*.json"
+      - ".github/workflows/validate-json.yml"
+  push:
+    paths:
+      - "**/*.json"
+      - ".github/workflows/validate-json.yml"
+  workflow_dispatch:
+
+jobs:
+  validate-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate all JSON files
+        shell: bash
+        run: |
+          set -euo pipefail
+          node .github/scripts/validate-json.cjs
