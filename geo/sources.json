@@ -1,0 +1,11 @@
+{
+  "description": "Geographic data sources for ElectNerds map. Replace CDN URLs with local paths if you download the files to this folder.",
+  "states": "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json",
+  "counties": "https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json",
+  "congressionalDistricts": "https://cdn.jsdelivr.net/gh/loganpowell/census-geojson@master/GeoJSON/500k/2022/congressional-district.json",
+  "attribution": {
+    "states": "US Census Bureau cartographic boundary shapefiles via us-atlas@3 (ISC license)",
+    "counties": "US Census Bureau cartographic boundary shapefiles via us-atlas@3 (ISC license)",
+    "congressionalDistricts": "US Census Bureau 118th Congress TIGER files converted by loganpowell/census-geojson"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "state": "NY",
+  "stateName": "New York",
+  "stateFips": "36",
+  "senators": [
+    {
+      "id": "sen-ny-001",
+      "name": "Sen. Claire Abramson",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 96,
+      "nerdReason": "Ph.D. Economics from Columbia. Former Federal Reserve economist. Every major bill co-sponsored includes CBO cost analysis and peer-reviewed economic modeling. Chair of Joint Economic Committee.",
+      "notNerdReason": null,
+      "keyIssues": ["Economy", "Healthcare", "Climate", "Education"],
+      "education": ["Ph.D. Economics, Columbia University", "B.A. Mathematics, Yale"],
+      "experience": ["U.S. Senator", "Federal Reserve Economist", "Columbia Professor"],
+      "website": null,
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ny-002",
+      "name": "Sen. James Quinto",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 80,
+      "nerdReason": "Former public health commissioner. Cites CDC and WHO data regularly. Authored landmark opioid response bill grounded in NIH addiction research.",
+      "notNerdReason": null,
+      "keyIssues": ["Public Health", "Housing", "Criminal Justice"],
+      "education": ["M.P.H. Columbia Mailman School of Public Health", "B.A. Sociology, SUNY"],
+      "experience": ["U.S. Senator", "NYC Public Health Commissioner", "State Assemblymember"],
+      "website": null,
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "NY-14": [
+      {
+        "id": "rep-ny-14-001",
+        "name": "Rep. Fatima Okafor",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 87,
+        "nerdReason": "M.S. Civil Engineering. Routinely cites infrastructure data from ASCE report cards. Co-authored the Broadband Data Act which mandated FCC evidence-based coverage mapping.",
+        "notNerdReason": null,
+        "keyIssues": ["Infrastructure", "Tech Policy", "Education", "Environment"],
+        "education": ["M.S. Civil Engineering, NYU", "B.S. Electrical Engineering, Howard University"],
+        "experience": ["U.S. Representative", "Infrastructure Engineer", "City Council Member"],
+        "website": null,
+        "imageUrl": null
+      }
+    ]
+  }
+}

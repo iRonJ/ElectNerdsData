@@ -1,0 +1,213 @@
+{
+  "office": "President of the United States",
+  "cycle": 2028,
+  "candidates": [
+    {
+      "id": "pres-001",
+      "name": "Mark Kelly",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 92,
+      "nerdReason": "Engineer and former NASA astronaut with an M.S. in Aeronautical Engineering. Demonstrated support for science capacity (e.g., NASA science funding) and a career built on technical and mission-driven decision systems.",
+      "notNerdReason": null,
+      "keyIssues": ["Science & Space Policy", "Clean Energy & Manufacturing", "Public Lands & Environment", "National Security"],
+      "education": [
+        "B.S. Marine Engineering and Nautical Science, U.S. Merchant Marine Academy",
+        "M.S. Aeronautical Engineering, U.S. Naval Postgraduate School"
+      ],
+      "experience": ["U.S. Senator (D-AZ)", "NASA Astronaut", "U.S. Navy Combat Pilot"],
+      "website": "https://www.kelly.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-002",
+      "name": "Pete Buttigieg",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 84,
+      "nerdReason": "Rhodes Scholar with a sustained record of technocratic governance themes (open data, modernization, measurable service delivery). Executive experience in infrastructure and transportation where performance management and safety data are central.",
+      "notNerdReason": null,
+      "keyIssues": ["Infrastructure", "Transportation Safety", "Government Modernization & Tech", "Supply Chain & Logistics"],
+      "education": ["B.A. History and Literature, Harvard University", "B.A. Philosophy, Politics and Economics, University of Oxford (Rhodes Scholar)"],
+      "experience": ["U.S. Secretary of Transportation (2021–2025)", "Mayor of South Bend, Indiana (2012–2020)", "U.S. Navy Reserve Officer"],
+      "website": "https://iop.harvard.edu/fellows/pete-buttigieg",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-003",
+      "name": "Josh Shapiro",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 82,
+      "nerdReason": "Issued an executive order creating a values-based governance framework for generative AI (privacy, transparency, safety/security) and established an AI governing board—hallmarks of an expertise-forward, risk-managed approach to new technology.",
+      "notNerdReason": null,
+      "keyIssues": ["AI Governance", "Government Efficiency", "Public Safety", "Opioid Crisis Response"],
+      "education": ["B.A. Political Science, University of Rochester", "J.D., Georgetown University"],
+      "experience": ["Governor of Pennsylvania", "Attorney General of Pennsylvania"],
+      "website": "https://www.pa.gov/governor/",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-004",
+      "name": "Gavin Newsom",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 79,
+      "nerdReason": "Expanded data-and-innovation capacity in California government (including a dedicated Office of Data and Innovation) and used executive orders and expert partnerships to study and operationalize responsible AI in state services.",
+      "notNerdReason": null,
+      "keyIssues": ["Climate Action", "AI Governance", "Gun Safety", "Reproductive Rights"],
+      "education": ["B.S. Political Science, Santa Clara University"],
+      "experience": ["Governor of California", "Mayor of San Francisco", "Lieutenant Governor of California"],
+      "website": "https://www.gov.ca.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-005",
+      "name": "Kamala Harris",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 75,
+      "nerdReason": "Strong record of climate-policy seriousness (major climate plan and Senate activity on climate/environmental justice) and a career that frequently frames climate as an evidence-driven, urgent governance problem.",
+      "notNerdReason": null,
+      "keyIssues": ["Climate Policy", "Environmental Justice", "Healthcare", "Civil Rights"],
+      "education": ["B.A., Howard University", "J.D., University of California, Hastings College of the Law"],
+      "experience": ["Vice President of the United States (2021–2025)", "U.S. Senator (D-CA)", "Attorney General of California"],
+      "website": "https://kamalaharris.com/",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-006",
+      "name": "Alexandria Ocasio-Cortez",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 68,
+      "nerdReason": "Evidence of strong climate advocacy and an economics background, but less demonstrated track record of technocratic, expertise-led implementation (e.g., running large administrative systems with formal evaluation/governance structures) compared with higher-scoring contenders.",
+      "notNerdReason": null,
+      "keyIssues": ["Climate Policy (Green New Deal)", "Housing", "Labor & Worker Power", "Immigration"],
+      "education": ["B.A. Economics and International Relations, Boston University"],
+      "experience": ["U.S. Representative (D-NY)"],
+      "website": "https://ocasio-cortez.house.gov/",
+      "imageUrl": null
+    },
+    {
+  "id": "pres-013",
+  "name": "Mitt Romney",
+  "party": "Republican",
+  "isNerd": true,
+  "nerdScore": 81,
+  "nerdReason": "Harvard JD/MBA with a management consulting and Bain background, plus a long record of technocratic, expertise-oriented governance. In the Senate he engaged directly on science and technology policy, including NSF technology directorate legislation, semiconductor export-control oversight, and bipartisan AI-risk framework and legislation.",
+  "notNerdReason": null,
+  "keyIssues": [
+    "Fiscal Policy",
+    "Science & Technology Competitiveness",
+    "AI Safety & National Security",
+    "Infrastructure",
+    "Institutional Governance"
+  ],
+  "education": [
+    "Attended Stanford University",
+    "B.A. English, Brigham Young University",
+    "J.D., Harvard Law School",
+    "M.B.A., Harvard Business School"
+  ],
+  "experience": [
+    "U.S. Senator (R-UT, 2019-2025)",
+    "Governor of Massachusetts (2003-2007)",
+    "President, Salt Lake Organizing Committee for the 2002 Winter Olympics",
+    "Boston Consulting Group",
+    "Bain & Company / Bain Capital"
+  ],
+  "website": "https://www.romney.senate.gov",
+  "imageUrl": null
+},
+    {
+      "id": "pres-007",
+      "name": "Nikki Haley",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 62,
+      "nerdReason": null,
+      "notNerdReason": "Executive experience and an accounting background, but climate posture has been characterized as mixed—acknowledging climate risks/human role at times while supporting withdrawal from major climate agreements and rollbacks of clean-energy incentives.",
+      "keyIssues": ["Foreign Policy & National Security", "Economy", "Energy", "Government Reform"],
+      "education": ["B.S. Accounting and Finance, Clemson University"],
+      "experience": ["U.S. Ambassador to the United Nations", "Governor of South Carolina"],
+      "website": "https://www.nga.org/governor/nikki-r-haley/",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-008",
+      "name": "Marco Rubio",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 56,
+      "nerdReason": null,
+      "notNerdReason": "Public record includes rejecting mainstream scientific attribution of climate change to human activity, and State Department reorganization actions that reduced the footprint of climate-diplomacy offices and staff.",
+      "keyIssues": ["Foreign Policy", "National Security", "Energy Policy", "Climate Diplomacy (Reduced)"],
+      "education": ["B.S., University of Florida", "J.D., University of Miami"],
+      "experience": ["U.S. Secretary of State", "U.S. Senator (R-FL)"],
+      "website": "https://bioguide.congress.gov/search/bio/R000595",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-009",
+      "name": "Ron DeSantis",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 54,
+      "nerdReason": null,
+      "notNerdReason": "Florida has invested in resilience and environmental programs, but DeSantis-backed policy has de-emphasized climate change as a formal planning consideration and supported restrictions on net-zero style local climate programs—signals of politically constrained science alignment on climate.",
+      "keyIssues": ["Environment (Water Quality & Resilience)", "Energy Policy", "State Government", "Economy"],
+      "education": ["B.A., Yale University", "J.D., Harvard Law School"],
+      "experience": ["Governor of Florida", "U.S. Representative (FL-6)"],
+      "website": "https://www.flgov.com/eog/",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-010",
+      "name": "JD Vance",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 49,
+      "nerdReason": null,
+      "notNerdReason": "Public record includes skepticism about human-driven climate change and support for fossil-fuel expansion; has voiced COVID-19 vaccine skepticism in high-reach media; and promotes minimal AI regulation with less emphasis on safety governance than many expert frameworks.",
+      "keyIssues": ["Border Security", "Manufacturing & Working-Class Families", "Energy Policy", "AI Policy"],
+      "education": ["B.A., The Ohio State University", "J.D., Yale Law School"],
+      "experience": ["Vice President of the United States", "U.S. Senator (R-OH)"],
+      "website": "https://www.whitehouse.gov/administration/jd-vance/",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-011",
+      "name": "Donald Trump Jr.",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 40,
+      "nerdReason": null,
+      "notNerdReason": "Primarily a private-sector executive and political surrogate, with limited direct record of running evidence-based public programs or building expert-governance institutions compared with contenders who have held senior executive policymaking posts.",
+      "keyIssues": ["Business & Real Estate", "Political Campaigning/Surrogacy", "Media & Communications"],
+      "education": ["B.S. Finance and Real Estate, University of Pennsylvania (Wharton School)"],
+      "experience": ["Executive Vice President, The Trump Organization"],
+      "website": "https://www.trump.com/leadership/donald-trump-jr-biography",
+      "imageUrl": null
+    },
+    {
+      "id": "pres-012",
+      "name": "Robert F. Kennedy Jr.",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 20,
+      "nerdReason": null,
+      "notNerdReason": "Documented history of spreading inaccurate vaccine information and repeating debunked health claims; fact-checking reviews describe major parts of the MAHA agenda and related claims as not consistently evidence-based, which conflicts directly with expertise-led decision standards.",
+      "keyIssues": ["Public Health Agency Reform", "Chronic Disease", "Vaccine Policy", "Environmental Health"],
+      "education": [
+        "B.A., Harvard University",
+        "Studies, London School of Economics",
+        "J.D., University of Virginia School of Law",
+        "M.S. (Environmental Law), Pace University"
+      ],
+      "experience": ["U.S. Secretary of Health and Human Services", "Founder, Waterkeeper Alliance", "Founder, Children's Health Defense"],
+      "website": "https://www.hhs.gov/press-room/eo-maha.html",
+      "imageUrl": null
+    }
+  ]
+}

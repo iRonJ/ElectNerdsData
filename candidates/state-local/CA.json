@@ -1,0 +1,61 @@
+{
+  "state": "CA",
+  "stateName": "California",
+  "stateFips": "06",
+  "governor": [
+    {
+      "id": "gov-ca-001",
+      "name": "Lt. Gov. Reina Solano",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 89,
+      "nerdReason": "M.S. Public Policy from Berkeley. Has cited CalTrans data, LAO budget analyses, and peer-reviewed education research in every major policy proposal. Led California's evidence-based housing task force.",
+      "notNerdReason": null,
+      "keyIssues": ["Housing", "Climate", "Education", "Economy"],
+      "education": ["M.S. Public Policy, UC Berkeley", "B.A. Economics, UCLA"],
+      "experience": ["Lt. Governor of California", "State Senator", "Policy Researcher"],
+      "website": null,
+      "imageUrl": null
+    }
+  ],
+  "stateSenate": {
+    "CA-SD-11": [
+      {
+        "id": "stsen-ca-11-001",
+        "name": "Sen. David Kim",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 85,
+        "nerdReason": "Ph.D. in Environmental Engineering. Authored California's water data transparency act using USGS and state DWR data.",
+        "notNerdReason": null,
+        "keyIssues": ["Water Policy", "Environment", "Housing"],
+        "education": ["Ph.D. Environmental Engineering, Caltech", "B.S. Civil Engineering, UC Davis"],
+        "experience": ["CA State Senator", "Environmental Engineer", "City Councilmember"],
+        "website": null,
+        "imageUrl": null
+      }
+    ]
+  },
+  "stateHouse": {},
+  "counties": {
+    "06037": {
+      "countyName": "Los Angeles County",
+      "candidates": [
+        {
+          "id": "county-la-001",
+          "name": "Dr. Samuel Reyes",
+          "party": "Democratic",
+          "isNerd": true,
+          "nerdScore": 92,
+          "nerdReason": "Ph.D. Urban Planning. Led LA County's data-driven homelessness response using HMIS data and evidence-based Housing First research.",
+          "notNerdReason": null,
+          "keyIssues": ["Homelessness", "Housing", "Public Health"],
+          "education": ["Ph.D. Urban Planning, USC", "M.P.H. UCLA Fielding School"],
+          "experience": ["LA County Supervisor Candidate", "Director, LA Homeless Services Authority"],
+          "website": null,
+          "imageUrl": null
+        }
+      ]
+    }
+  }
+}

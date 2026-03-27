@@ -1,0 +1,69 @@
+{
+  "state": "TX",
+  "stateName": "Texas",
+  "stateFips": "48",
+  "senators": [
+    {
+      "id": "sen-tx-001",
+      "name": "Sen. Dale Briggs",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 21,
+      "nerdReason": null,
+      "notNerdReason": "Repeatedly denied peer-reviewed climate science on Senate floor. Defunded EPA research grants. Opposed evidence-based sex education despite CDC data on teen pregnancy.",
+      "keyIssues": ["Energy", "Defense", "Immigration"],
+      "education": ["J.D. University of Texas Law"],
+      "experience": ["U.S. Senator", "State Attorney General", "Lawyer"],
+      "website": null,
+      "imageUrl": null
+    },
+    {
+      "id": "sen-tx-002",
+      "name": "Sen. Marcus Webb",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 34,
+      "nerdReason": null,
+      "notNerdReason": "Dismissed USDA agricultural data in favor of industry talking points. Voted to cut National Weather Service funding. However, does cite DOD and economic data selectively.",
+      "keyIssues": ["Agriculture", "Energy", "Defense"],
+      "education": ["B.A. Business, Texas A&M"],
+      "experience": ["U.S. Senator", "Rancher", "State Senator"],
+      "website": null,
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "TX-07": [
+      {
+        "id": "rep-tx-07-001",
+        "name": "Dr. Priya Nair",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 90,
+        "nerdReason": "M.D. cardiologist. Consistently cites AHA and WHO data. Authored the Healthcare Cost Transparency Act using CMS data analysis.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Education", "Infrastructure"],
+        "education": ["M.D. Baylor College of Medicine", "B.S. Biochemistry, Rice University"],
+        "experience": ["U.S. Representative", "Cardiologist", "Medical School Professor"],
+        "website": null,
+        "imageUrl": null
+      }
+    ],
+    "TX-21": [
+      {
+        "id": "rep-tx-21-001",
+        "name": "Rep. Conner Hughes",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "Voted against National Science Foundation funding. Cited debunked statistics on immigration crime. Opposed USGS earthquake monitoring expansion.",
+        "keyIssues": ["Energy", "Economy", "Border"],
+        "education": ["B.A. Finance, Baylor University"],
+        "experience": ["U.S. Representative", "Oil & Gas Executive"],
+        "website": null,
+        "imageUrl": null
+      }
+    ]
+  }
+}

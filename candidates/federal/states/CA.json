@@ -1,0 +1,69 @@
+{
+  "state": "CA",
+  "stateName": "California",
+  "stateFips": "06",
+  "senators": [
+    {
+      "id": "sen-ca-001",
+      "name": "Dr. Lena Park",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 91,
+      "nerdReason": "M.D./Ph.D. physician-scientist. Chairs Senate Health Committee. Has cited CBO, NIH, and CDC data in every major floor speech. Authored bipartisan evidence-based mental health funding bill.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Science Funding", "Climate", "Education"],
+      "education": ["M.D./Ph.D. UCSF", "B.S. Biology, UC Berkeley"],
+      "experience": ["U.S. Senator", "Former NIH Researcher", "State Assemblymember"],
+      "website": null,
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ca-002",
+      "name": "Alex Torres",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 83,
+      "nerdReason": "Former tech CEO with a record of funding data-driven policy institutes. Supports expanded federal funding for STEM education. Consistently references BLS and CBO data in economic debates.",
+      "notNerdReason": null,
+      "keyIssues": ["Technology Policy", "Economy", "Climate", "Immigration"],
+      "education": ["M.S. Computer Science, Stanford", "B.A. Economics, UCLA"],
+      "experience": ["U.S. Senator", "CEO TechCorp", "Venture Capitalist"],
+      "website": null,
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "CA-12": [
+      {
+        "id": "rep-ca-12-001",
+        "name": "Rep. Simone Wells",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 88,
+        "nerdReason": "Ph.D. in Urban Planning. Consistently cites housing research from UC Berkeley Terner Center. Co-sponsored the Evidence-Based Housing Act.",
+        "notNerdReason": null,
+        "keyIssues": ["Housing", "Transit", "Climate"],
+        "education": ["Ph.D. Urban Planning, UC Berkeley", "B.A. Architecture, Cornell"],
+        "experience": ["U.S. Representative", "City Planner", "Urban Policy Researcher"],
+        "website": null,
+        "imageUrl": null
+      }
+    ],
+    "CA-13": [
+      {
+        "id": "rep-ca-13-001",
+        "name": "Bob Cranford",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "Voted against CDC funding three consecutive years. Called climate science 'a liberal hoax' on record. Opposed FDAs evidence-based approval process for vaccines.",
+        "keyIssues": ["Economy", "Immigration", "Defense"],
+        "education": ["B.A. Political Science, Fresno State"],
+        "experience": ["U.S. Representative", "Insurance Broker", "City Council Member"],
+        "website": null,
+        "imageUrl": null
+      }
+    ]
+  }
+}
