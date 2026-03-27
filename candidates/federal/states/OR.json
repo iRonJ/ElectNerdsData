@@ -2,6 +2,132 @@
   "state": "OR",
   "stateName": "Oregon",
   "stateFips": "41",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-or-001",
+      "name": "Ron Wyden",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 65,
+      "nerdReason": "B.A. from Stanford University and J.D. from University of Oregon School of Law. As Chairman/Ranking Member of the Senate Finance Committee, manages the most complex tax and healthcare policy in Congress. Career as legal aid attorney and co-director of Oregon Gray Panthers. Known as the Senate's foremost expert on technology privacy and digital rights, consistently grounding arguments in technical analysis and data. Deep, meticulous approach to tax, healthcare, and tech policy.",
+      "notNerdReason": null,
+      "keyIssues": ["Tax Policy", "Technology Privacy", "Healthcare", "Public Lands"],
+      "education": ["J.D., University of Oregon School of Law", "B.A., Stanford University"],
+      "experience": ["U.S. Senator since 1996", "Chairman, Senate Finance Committee", "U.S. Representative, OR-03, 1981-1996", "Legal Aid Attorney", "Co-Director, Oregon Gray Panthers"],
+      "website": "https://www.wyden.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-or-002",
+      "name": "Jeff Merkley",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 62,
+      "nerdReason": "B.A. from Stanford University (Phi Beta Kappa) and M.P.P. from Princeton University (Woodrow Wilson School). Two elite degrees in analytical policy disciplines. Career at Habitat for Humanity and in Oregon state legislature (Speaker of the House). Princeton policy training provides rigorous quantitative policy analysis methodology. Known for detailed, evidence-based advocacy on housing, climate, and democracy reform.",
+      "notNerdReason": null,
+      "keyIssues": ["Housing", "Climate", "Democracy Reform", "Foreign Affairs"],
+      "education": ["M.P.P., Princeton University (Woodrow Wilson School)", "B.A. (Phi Beta Kappa), Stanford University"],
+      "experience": ["U.S. Senator since 2009", "Speaker, Oregon House of Representatives", "Oregon State Representative", "Director, Habitat for Humanity (Portland)"],
+      "website": "https://www.merkley.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "OR-01": [
+      {
+        "id": "rep-or-01-001",
+        "name": "Suzanne Bonamici",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and J.D. from University of Oregon. Career as attorney and state legislator. Deep policy engagement on education and oceans/climate but approach is more advocacy-driven than analytically rigorous.",
+        "keyIssues": ["Education", "Climate", "Oceans", "Science"],
+        "education": ["J.D., University of Oregon School of Law", "B.A., University of Oregon"],
+        "experience": ["U.S. Representative since 2012", "House Education and Workforce Committee", "House Science Committee", "Oregon State Senator", "Oregon State Representative", "Attorney"],
+        "website": "https://bonamici.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OR-02": [
+      {
+        "id": "rep-or-02-001",
+        "name": "Cliff Bentz",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Eastern Oregon University and J.D. from Lewis & Clark College. Career as rancher, attorney, and state legislator. Legal training provides analytical skills. Water rights and natural resources law expertise. But approach is more practical/ranching oriented than evidence-based.",
+        "keyIssues": ["Water", "Public Lands", "Agriculture", "Energy"],
+        "education": ["J.D., Lewis & Clark College", "B.A., Eastern Oregon University"],
+        "experience": ["U.S. Representative since 2021", "Oregon State Senator", "Oregon State Representative", "Attorney, water rights law", "Rancher"],
+        "website": "https://bentz.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OR-03": [
+      {
+        "id": "rep-or-03-001",
+        "name": "Maxine Dexter",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 70,
+        "nerdReason": "B.A. in political science and communication from University of Washington and M.D. from University of Washington School of Medicine. Pulmonary and critical care physician at Kaiser Permanente Northwest for 15+ years. First female chair of the Northwest Permanente Board of Directors. Medical degree and clinical practice in critical care demonstrate deep scientific expertise. Applies clinical evidence-based methodology directly to healthcare policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Housing", "Climate", "Education"],
+        "education": ["M.D., University of Washington School of Medicine", "B.A. Political Science and Communication, University of Washington"],
+        "experience": ["U.S. Representative since 2025", "Pulmonary and Critical Care Physician, Kaiser Permanente", "Chair, Northwest Permanente Board of Directors", "Oregon State Representative"],
+        "website": "https://dexter.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OR-04": [
+      {
+        "id": "rep-or-04-001",
+        "name": "Val Hoyle",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Oregon. Career as state legislator and Oregon Commissioner of Bureau of Labor and Industries. Labor and consumer protection policy background. No analytical or evidence-based approach beyond standard policy work.",
+        "keyIssues": ["Labor", "Healthcare", "Environment", "Economy"],
+        "education": ["B.A., University of Oregon"],
+        "experience": ["U.S. Representative since 2023", "Oregon Commissioner of Bureau of Labor and Industries", "Oregon State Representative", "Majority Leader, Oregon House"],
+        "website": "https://hoyle.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OR-05": [
+      {
+        "id": "rep-or-05-001",
+        "name": "Janelle Bynum",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.S. in electrical engineering from Florida A&M University and M.B.A. from University of Michigan. Worked as a steering systems engineer at General Motors. One of few members of Congress with an engineering degree applied professionally in industry. Combines genuine STEM credentials with business education and state legislative experience. First Black member of Congress from Oregon.",
+        "notNerdReason": null,
+        "keyIssues": ["Economy", "Education", "Healthcare", "Criminal Justice"],
+        "education": ["M.B.A., University of Michigan", "B.S. Electrical Engineering, Florida A&M University"],
+        "experience": ["U.S. Representative since 2025", "Steering Systems Engineer, General Motors", "Oregon State Representative, 2017-2025", "Small Business Owner (McDonald's franchisee)"],
+        "website": "https://bynum.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OR-06": [
+      {
+        "id": "rep-or-06-001",
+        "name": "Andrea Salinas",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Oregon. Career in state legislative staff and state legislature. Policy background in healthcare and environment but approach is not distinctly analytical or research-driven.",
+        "keyIssues": ["Healthcare", "Environment", "Economy", "Immigration"],
+        "education": ["B.A., University of Oregon"],
+        "experience": ["U.S. Representative since 2023", "Oregon State Senator", "Legislative Staff", "Policy Analyst"],
+        "website": "https://salinas.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

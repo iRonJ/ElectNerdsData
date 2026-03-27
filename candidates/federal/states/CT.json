@@ -2,6 +2,116 @@
   "state": "CT",
   "stateName": "Connecticut",
   "stateFips": "09",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ct-001",
+      "name": "Richard Blumenthal",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 75,
+      "nerdReason": "Harvard graduate (chair of The Harvard Crimson), studied at Trinity College Cambridge, J.D. from Yale Law School where he was editor-in-chief of the Yale Law Journal. Two of the most prestigious editorial positions in American academia. Served 20 years as Connecticut Attorney General, demonstrating sustained rigorous legal and analytical expertise. Marine Corps Reserve veteran.",
+      "notNerdReason": null,
+      "keyIssues": ["Consumer Protection", "Veterans Affairs", "Gun Safety", "Technology"],
+      "education": ["J.D., Yale Law School (Editor-in-Chief, Yale Law Journal)", "Trinity College, University of Cambridge", "B.A., Harvard University (Chair, The Harvard Crimson)"],
+      "experience": ["U.S. Senator since 2011", "Connecticut Attorney General, 1991-2011", "Connecticut State Senator, 1987-1990", "U.S. Attorney for Connecticut, 1977-1981", "U.S. Marine Corps Reserve"],
+      "website": "https://www.blumenthal.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ct-002",
+      "name": "Chris Murphy",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 62,
+      "nerdReason": "Dual B.A. in history and political science from Williams College with a year at Oxford, J.D. from UConn. Known as one of the Senate's most thoughtful and research-driven policy voices. Deep expertise in gun violence prevention (became national leader after Sandy Hook), foreign policy, and healthcare. Published author. Brings intellectual rigor and evidence-based advocacy to every policy area he touches.",
+      "notNerdReason": null,
+      "keyIssues": ["Gun Safety", "Foreign Policy", "Healthcare", "Education"],
+      "education": ["J.D., University of Connecticut School of Law", "B.A. History and Political Science, Williams College", "University of Oxford (study abroad)"],
+      "experience": ["U.S. Senator since 2013", "U.S. Representative, CT-05, 2007-2013", "Connecticut State Senator", "Connecticut State Representative", "Attorney"],
+      "website": "https://www.murphy.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "CT-01": [
+      {
+        "id": "rep-ct-01-001",
+        "name": "John Larson",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Central Connecticut State University. Senior Fellow at Yale Bush Center in Child Development. Career as teacher, insurance agency owner, and state legislator. Long-tenured in Congress but approach is more dealmaker than analytical. Social Security reform focus shows policy commitment but not data-driven methodology.",
+        "keyIssues": ["Social Security", "Economy", "Energy", "Education"],
+        "education": ["B.A., Central Connecticut State University", "Senior Fellow, Yale Bush Center in Child Development and Social Policy"],
+        "experience": ["U.S. Representative since 1999", "President Pro Tempore, Connecticut State Senate", "High School History Teacher and Athletics Coach", "Co-owner, Insurance Agency"],
+        "website": "https://larson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CT-02": [
+      {
+        "id": "rep-ct-02-001",
+        "name": "Joe Courtney",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Tufts University and J.D. from UConn School of Law. Career as public defender and state legislator. Deep expertise in defense and submarine policy as ranking member on Seapower subcommittee. Solid policy knowledge but more legislative craftsman than analytical policy wonk.",
+        "keyIssues": ["Defense", "Education", "Healthcare", "Veterans Affairs"],
+        "education": ["J.D., University of Connecticut School of Law", "B.A., Tufts University"],
+        "experience": ["U.S. Representative since 2007", "Ranking Member, Armed Services Seapower Subcommittee", "Connecticut General Assembly, 1987-1994", "Public Defender", "Attorney"],
+        "website": "https://courtney.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CT-03": [
+      {
+        "id": "rep-ct-03-001",
+        "name": "Rosa DeLauro",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.A. from Marymount College, M.A. from Columbia University, and M.A. from London School of Economics. Two master's degrees from world-class institutions. 30+ years in Congress with deep expertise in appropriations, public health, and labor policy. Ranking Member of House Appropriations Committee. Known for meticulous, data-driven oversight of federal spending and health policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Appropriations", "Healthcare", "Labor", "Education"],
+        "education": ["M.A., London School of Economics", "M.A., Columbia University", "B.A., Marymount College"],
+        "experience": ["U.S. Representative since 1991", "Ranking Member, House Appropriations Committee", "First Executive Director, EMILY's List", "Chief of Staff to Sen. Christopher Dodd"],
+        "website": "https://delauro.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CT-04": [
+      {
+        "id": "rep-ct-04-001",
+        "name": "Jim Himes",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 80,
+        "nerdReason": "B.A. in social studies from Harvard and M.Phil. in philosophy from Oxford as a Rhodes Scholar. 12-year career at Goldman Sachs rising to Vice President, heading the telecommunications technology group. Ranking Member of the House Intelligence Committee. Combines elite academic credentials, quantitative financial expertise, and deep intelligence/national security analytical rigor. One of the most intellectually credentialed members of the House.",
+        "notNerdReason": null,
+        "keyIssues": ["Intelligence", "Financial Services", "Climate", "Economy"],
+        "education": ["M.Phil. Philosophy, University of Oxford (Rhodes Scholar)", "B.A. Social Studies, Harvard University"],
+        "experience": ["U.S. Representative since 2009", "Ranking Member, House Intelligence Committee", "Vice President, Goldman Sachs (12 years)", "Board Chair, Bridgeport Housing Authority"],
+        "website": "https://himes.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CT-05": [
+      {
+        "id": "rep-ct-05-001",
+        "name": "Jahana Hayes",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "M.A. in curriculum and instruction from University of Saint Joseph, built on degrees from Southern CT State and Naugatuck Valley CC. Named 2016 National Teacher of the Year — the highest recognition of teaching excellence in the U.S., requiring demonstrated innovation and analytical rigor in education. 15 years teaching history with evidence-based pedagogical methods. Now applies education expertise on the House Education and Workforce Committee.",
+        "notNerdReason": null,
+        "keyIssues": ["Education", "Agriculture", "Healthcare", "Economy"],
+        "education": ["M.A. Curriculum and Instruction, University of Saint Joseph", "B.A., Southern Connecticut State University", "A.A., Naugatuck Valley Community College"],
+        "experience": ["U.S. Representative since 2019", "2016 National Teacher of the Year", "History Teacher, John F. Kennedy High School, 15 years", "Connecticut Teacher of the Year"],
+        "website": "https://hayes.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

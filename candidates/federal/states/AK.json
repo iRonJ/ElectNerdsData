@@ -2,6 +2,52 @@
   "state": "AK",
   "stateName": "Alaska",
   "stateFips": "02",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ak-001",
+      "name": "Lisa Murkowski",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 50,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in economics and J.D. in law. No STEM degree. However, as former chair of the Senate Energy and Natural Resources Committee, she has deep engagement with energy policy data and Arctic research. Moderate on climate science compared to her party. Strong policy expertise but primarily legal and political background.",
+      "keyIssues": ["Energy Policy", "Alaska Native Affairs", "Healthcare", "Public Lands"],
+      "education": ["J.D., Willamette University College of Law", "B.A. Economics, Georgetown University"],
+      "experience": ["U.S. Senator since 2002", "Former Chair, Senate Energy and Natural Resources Committee", "Alaska House of Representatives, 1999-2002", "Attorney in private practice"],
+      "website": "https://www.murkowski.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ak-002",
+      "name": "Dan Sullivan",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 45,
+      "nerdReason": null,
+      "notNerdReason": "Joint J.D. and M.S. in Foreign Service from Georgetown. Strong academic credentials and extensive military and legal career. Policy focus is on defense and foreign affairs rather than STEM or evidence-based governance. No technical or scientific background.",
+      "keyIssues": ["National Defense", "Veterans Affairs", "Energy", "Foreign Policy"],
+      "education": ["J.D., Georgetown University Law Center", "M.S. Foreign Service, Georgetown University", "B.A., Harvard University"],
+      "experience": ["U.S. Senator since 2015", "Colonel, U.S. Marine Corps Reserve (ret.)", "U.S. Assistant Secretary of State for Economic, Energy, and Business Affairs", "Alaska Attorney General", "Commissioner, Alaska Dept. of Natural Resources"],
+      "website": "https://www.sullivan.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "AK-01": [
+      {
+        "id": "rep-ak-01-001",
+        "name": "Nick Begich III",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 60,
+        "nerdReason": "Founded FarShore Partners, a software development company with 160+ employees internationally. MBA from Indiana University with a focus on entrepreneurship and technology. Career spans software development, technology, and product development roles at Ford Motor Company. Brings genuine tech industry experience to Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Energy", "Technology", "Economy", "Fiscal Policy"],
+        "education": ["M.B.A., Indiana University", "B.B.A. Entrepreneurship, Baylor University"],
+        "experience": ["U.S. Representative since 2025", "Founder and Executive Chairman, FarShore Partners (software development)", "Ford Motor Company (technology, finance, product development)", "Board Director, Matanuska Telecom Association"],
+        "website": "https://begich.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

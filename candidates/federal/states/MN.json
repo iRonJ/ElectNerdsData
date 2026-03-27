@@ -2,6 +2,164 @@
   "state": "MN",
   "stateName": "Minnesota",
   "stateFips": "27",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-mn-001",
+      "name": "Amy Klobuchar",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 68,
+      "nerdReason": "B.A. magna cum laude in political science from Yale University and J.D. with high honors from University of Chicago Law School, where she was associate editor of the Chicago Law Review. Published her senior thesis as a book at Yale. As Hennepin County Attorney prosecuted complex cases requiring analytical rigor. Known in the Senate for meticulous, detail-oriented legislative work on antitrust, technology regulation, and election security policy. Consistently cited as one of the most productive senators by legislative tracking services.",
+      "notNerdReason": null,
+      "keyIssues": ["Antitrust", "Technology", "Agriculture", "Election Security"],
+      "education": ["J.D. (high honors), University of Chicago Law School", "B.A. Political Science (magna cum laude), Yale University"],
+      "experience": ["U.S. Senator since 2007", "Chair, Senate Judiciary Subcommittee on Competition Policy", "Hennepin County Attorney, 1998-2006", "2020 Presidential Candidate", "Author"],
+      "website": "https://www.klobuchar.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-mn-002",
+      "name": "Tina Smith",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 60,
+      "nerdReason": "B.A. from Stanford University and M.B.A. from Dartmouth College (Tuck School of Business). Career as business executive, political strategist, and Lieutenant Governor. Stanford + Tuck represents elite analytical training. Deep policy expertise on healthcare, housing, and agriculture. Known for data-driven approach to legislative priorities.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Agriculture", "Housing", "Climate"],
+      "education": ["M.B.A., Dartmouth College (Tuck School of Business)", "B.A., Stanford University"],
+      "experience": ["U.S. Senator since 2018", "Lieutenant Governor of Minnesota, 2015-2018", "Chief of Staff to Governor Mark Dayton", "VP, Planned Parenthood MN", "Business Executive"],
+      "website": "https://www.smith.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "MN-01": [
+      {
+        "id": "rep-mn-01-001",
+        "name": "Brad Finstad",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Minnesota. Career as farmer, USDA state director, and county commissioner. Agriculture policy expertise built through experience but no analytical or evidence-based governance approach.",
+        "keyIssues": ["Agriculture", "Economy", "Veterans Affairs", "Energy"],
+        "education": ["B.A., University of Minnesota"],
+        "experience": ["U.S. Representative since 2022 (special election)", "USDA State Director, Minnesota", "Farmer", "Brown County Commissioner"],
+        "website": "https://finstad.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MN-02": [
+      {
+        "id": "rep-mn-02-001",
+        "name": "Angie Craig",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Memphis. Career as healthcare industry executive (St. Jude Medical, now Abbott). Business experience in healthcare/medical devices provides industry knowledge but legislative approach is more pragmatic than analytically driven.",
+        "keyIssues": ["Healthcare", "Agriculture", "Economy", "Veterans Affairs"],
+        "education": ["B.A., University of Memphis"],
+        "experience": ["U.S. Representative since 2019", "Healthcare Industry Executive, St. Jude Medical", "Senior VP, Abbott Medical Devices"],
+        "website": "https://craig.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MN-03": [
+      {
+        "id": "rep-mn-03-001",
+        "name": "Kelly Morrison",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 70,
+        "nerdReason": "B.A. cum laude in history from Yale University and M.D. from Case Western Reserve University School of Medicine. Completed residency in obstetrics and gynecology at Northwestern University. Practicing OB/GYN for over 20 years in Minnesota. Yale education provides intellectual foundation; medical degree and two decades of clinical practice demonstrate deep scientific expertise. Applies medical knowledge directly to healthcare and reproductive rights policy. First OB/GYN elected to Congress who is pro-choice.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Reproductive Rights", "Education", "Economy"],
+        "education": ["M.D., Case Western Reserve University School of Medicine", "B.A. History (cum laude), Yale University"],
+        "experience": ["U.S. Representative since 2025", "OB/GYN Physician, 20+ years", "Minnesota State Senator", "Residency, Northwestern University"],
+        "website": "https://morrison.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MN-04": [
+      {
+        "id": "rep-mn-04-001",
+        "name": "Betty McCollum",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from College of St. Catherine. Career as teacher, community college instructor, and state legislator. Long tenure in Congress with deep appropriations expertise. Solid policy knowledge but approach is more institutional than analytically rigorous.",
+        "keyIssues": ["Appropriations", "Native American Affairs", "Defense", "Environment"],
+        "education": ["B.A., College of St. Catherine"],
+        "experience": ["U.S. Representative since 2001", "House Appropriations Committee", "Minnesota State Representative", "Teacher"],
+        "website": "https://mccollum.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MN-05": [
+      {
+        "id": "rep-mn-05-001",
+        "name": "Ilhan Omar",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science and international studies from North Dakota State University. Somali refugee who became one of the first Muslim women in Congress. Career in community organizing and state legislature. Policy driven by lived experience and social justice advocacy rather than analytical or research-based frameworks.",
+        "keyIssues": ["Immigration", "Education", "Housing", "Foreign Policy"],
+        "education": ["B.A. Political Science and International Studies, North Dakota State University"],
+        "experience": ["U.S. Representative since 2019", "Minnesota State Representative", "Director of Policy, Women Organizing Women", "Community Organizer"],
+        "website": "https://omar.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MN-06": [
+      {
+        "id": "rep-mn-06-001",
+        "name": "Tom Emmer",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Alaska Fairbanks and J.D. from William Mitchell College of Law. Career as attorney, hockey coach, and state legislator. House Majority Whip. Known for cryptocurrency and fintech policy interest. Legal training provides analytical foundation but overall approach is more politically strategic than evidence-based.",
+        "keyIssues": ["Financial Services", "Cryptocurrency", "Economy", "Agriculture"],
+        "education": ["J.D., William Mitchell College of Law", "B.A., University of Alaska Fairbanks"],
+        "experience": ["U.S. Representative since 2015", "House Majority Whip", "Minnesota State Representative", "Attorney", "Hockey Coach"],
+        "website": "https://emmer.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MN-07": [
+      {
+        "id": "rep-mn-07-001",
+        "name": "Michelle Fischbach",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from St. Cloud State University and J.D. from William Mitchell College of Law. Career as attorney and state legislator. Served as Lieutenant Governor and Minnesota Senate President. Legal background with long political career but approach is not distinctly analytical or evidence-based.",
+        "keyIssues": ["Agriculture", "Veterans Affairs", "Economy", "Education"],
+        "education": ["J.D., William Mitchell College of Law", "B.A., St. Cloud State University"],
+        "experience": ["U.S. Representative since 2021", "Lieutenant Governor of Minnesota", "Minnesota State Senate President", "Minnesota State Senator", "Attorney"],
+        "website": "https://fischbach.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MN-08": [
+      {
+        "id": "rep-mn-08-001",
+        "name": "Pete Stauber",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Lake Superior State University. Career as police officer and professional hockey player. Law enforcement and athletics background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Mining", "Law Enforcement", "Veterans Affairs", "Natural Resources"],
+        "education": ["B.S., Lake Superior State University"],
+        "experience": ["U.S. Representative since 2019", "Police Officer, Duluth PD", "Professional Hockey Player", "St. Louis County Commissioner"],
+        "website": "https://stauber.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

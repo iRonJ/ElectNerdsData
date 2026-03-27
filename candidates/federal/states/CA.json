@@ -5,63 +5,848 @@
   "senators": [
     {
       "id": "sen-ca-001",
-      "name": "Dr. Lena Park",
+      "name": "Adam Schiff",
       "party": "Democratic",
       "isNerd": true,
-      "nerdScore": 91,
-      "nerdReason": "M.D./Ph.D. physician-scientist. Chairs Senate Health Committee. Has cited CBO, NIH, and CDC data in every major floor speech. Authored bipartisan evidence-based mental health funding bill.",
+      "nerdScore": 65,
+      "nerdReason": "B.A. from Stanford University and J.D. from Harvard Law School. Career as federal prosecutor and long-tenured House Intelligence Committee chair. Led multiple high-profile investigations and both Trump impeachment proceedings as evidence-marshaling lead. Combines elite legal training with deep intelligence and national security analytical expertise. Known for meticulous, evidence-based case-building in oversight and law enforcement contexts.",
       "notNerdReason": null,
-      "keyIssues": ["Healthcare", "Science Funding", "Climate", "Education"],
-      "education": ["M.D./Ph.D. UCSF", "B.S. Biology, UC Berkeley"],
-      "experience": ["U.S. Senator", "Former NIH Researcher", "State Assemblymember"],
-      "website": null,
+      "keyIssues": ["Intelligence", "Judiciary", "Democracy", "Healthcare"],
+      "education": ["J.D., Harvard Law School", "B.A., Stanford University"],
+      "experience": ["U.S. Senator since 2025", "U.S. Representative, CA-28/CA-30, 2001-2025", "Lead Impeachment Manager (both Trump impeachments)", "Former Chair, House Intelligence Committee", "Federal Prosecutor, SDLA"],
+      "website": "https://www.schiff.senate.gov/",
       "imageUrl": null
     },
     {
       "id": "sen-ca-002",
-      "name": "Alex Torres",
+      "name": "Alex Padilla",
       "party": "Democratic",
       "isNerd": true,
-      "nerdScore": 83,
-      "nerdReason": "Former tech CEO with a record of funding data-driven policy institutes. Supports expanded federal funding for STEM education. Consistently references BLS and CBO data in economic debates.",
+      "nerdScore": 72,
+      "nerdReason": "B.S. in mechanical engineering from MIT. Career as engineer before politics. MIT engineering degree is among the most rigorous STEM educations available. Former California Secretary of State where he led evidence-based election security and cybersecurity initiatives. One of the very few senators with an engineering degree from a world-class institution. Applies technical expertise to voting rights, cybersecurity, and immigration policy.",
       "notNerdReason": null,
-      "keyIssues": ["Technology Policy", "Economy", "Climate", "Immigration"],
-      "education": ["M.S. Computer Science, Stanford", "B.A. Economics, UCLA"],
-      "experience": ["U.S. Senator", "CEO TechCorp", "Venture Capitalist"],
-      "website": null,
+      "keyIssues": ["Voting Rights", "Immigration", "Cybersecurity", "Climate"],
+      "education": ["B.S. Mechanical Engineering, MIT"],
+      "experience": ["U.S. Senator since 2021", "California Secretary of State, 2015-2021", "California State Senator", "Los Angeles City Council", "Engineer (Raytheon)"],
+      "website": "https://www.padilla.senate.gov/",
       "imageUrl": null
     }
   ],
   "house": {
+    "CA-01": [],
+    "CA-02": [
+      {
+        "id": "rep-ca-02-001",
+        "name": "Jared Huffman",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from UC Santa Barbara and J.D. from Boston College Law School. Career as environmental attorney. Deep policy expertise in water, public lands, and climate grounded in environmental law research. Serves on House Natural Resources Committee. Known for evidence-based approach to conservation and climate policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Environment", "Water", "Climate", "Public Lands"],
+        "education": ["J.D., Boston College Law School", "B.A., UC Santa Barbara"],
+        "experience": ["U.S. Representative since 2013", "House Natural Resources Committee", "California State Assembly", "Environmental Attorney"],
+        "website": "https://huffman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-03": [
+      {
+        "id": "rep-ca-03-001",
+        "name": "Kevin Kiley",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Harvard University, J.D. from Yale Law School, and M.Ed. from Harvard Graduate School of Education. Three elite degrees. Teacher and attorney. Despite exceptional credentials, legislative approach is primarily ideologically driven rather than evidence-based. Focused on opposing California education policy rather than constructive research-grounded reform.",
+        "keyIssues": ["Education", "Economy", "Government Reform", "Energy"],
+        "education": ["M.Ed., Harvard Graduate School of Education", "J.D., Yale Law School", "B.A., Harvard University"],
+        "experience": ["U.S. Representative since 2023", "California State Assembly", "Teacher", "Attorney"],
+        "website": "https://kiley.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-04": [
+      {
+        "id": "rep-ca-04-001",
+        "name": "Mike Thompson",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and M.A. from California State University, Chico. Career in state legislature. Vietnam veteran. Winemaker. Deep expertise in gun violence prevention and agriculture policy. Solid policy knowledge but approach not distinctly analytical or research-driven.",
+        "keyIssues": ["Gun Safety", "Wine Industry", "Veterans Affairs", "Climate"],
+        "education": ["M.A., California State University, Chico", "B.A., California State University, Chico"],
+        "experience": ["U.S. Representative since 1999", "House Ways and Means Committee", "California State Senate", "Vietnam War Veteran", "Winemaker"],
+        "website": "https://mikethompson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-05": [
+      {
+        "id": "rep-ca-05-001",
+        "name": "Tom McClintock",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UCLA. Career in California state legislature. Fiscal conservative known for budgetary analysis. Deep knowledge of fiscal and water policy but approach is ideologically driven rather than evidence-based.",
+        "keyIssues": ["Fiscal Policy", "Water", "Public Lands", "Energy"],
+        "education": ["B.A., UCLA"],
+        "experience": ["U.S. Representative since 2009", "California State Senate", "California State Assembly", "Author"],
+        "website": "https://mcclintock.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-06": [
+      {
+        "id": "rep-ca-06-001",
+        "name": "Ami Bera",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.A. from UC Irvine and M.D. from UC Irvine School of Medicine. Practiced as a physician and served as Chief Medical Officer for Sacramento County. Applying medical expertise to healthcare and global health policy. Serves on House Foreign Affairs Committee. Career at the intersection of medicine and policy demonstrates evidence-based analytical approach.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Foreign Affairs", "Science", "Economy"],
+        "education": ["M.D., UC Irvine School of Medicine", "B.A., UC Irvine"],
+        "experience": ["U.S. Representative since 2013", "Physician", "Chief Medical Officer, Sacramento County", "Professor of Medicine, UC Davis"],
+        "website": "https://bera.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-07": [
+      {
+        "id": "rep-ca-07-001",
+        "name": "Doris Matsui",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UC Berkeley. Career as White House aide and congresswoman. Long-tenured on Energy and Commerce Committee. Deep policy expertise in technology, broadband, and telecommunications but approach not distinctly analytical.",
+        "keyIssues": ["Energy", "Technology", "Broadband", "Healthcare"],
+        "education": ["B.A., UC Berkeley"],
+        "experience": ["U.S. Representative since 2005", "House Energy and Commerce Committee", "White House Deputy Assistant to President Clinton", "Nonprofit Executive"],
+        "website": "https://matsui.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-08": [
+      {
+        "id": "rep-ca-08-001",
+        "name": "John Garamendi",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UC Berkeley and M.B.A. from Harvard Business School. Career as businessman, California state legislator, and Lieutenant Governor. Harvard MBA provides quantitative business training. Deep expertise in transportation and defense policy. Solid credentials but approach not distinctly evidence-based.",
+        "keyIssues": ["Transportation", "Defense", "Veterans Affairs", "Environment"],
+        "education": ["M.B.A., Harvard Business School", "B.A., UC Berkeley"],
+        "experience": ["U.S. Representative since 2009", "House Transportation Committee", "Lieutenant Governor of California", "California Insurance Commissioner"],
+        "website": "https://garamendi.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-09": [
+      {
+        "id": "rep-ca-09-001",
+        "name": "Josh Harder",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Yale University and M.B.A. from Stanford Graduate School of Business. Career in venture capital before Congress. Yale + Stanford GSB represents elite analytical training. Applies investment and financial analytical expertise to healthcare, agriculture, and economic development policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Agriculture", "Economy", "Education"],
+        "education": ["M.B.A., Stanford Graduate School of Business", "B.A., Yale University"],
+        "experience": ["U.S. Representative since 2019", "Venture Capital Investor", "House Agriculture Committee"],
+        "website": "https://harder.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-10": [
+      {
+        "id": "rep-ca-10-001",
+        "name": "Mark DeSaulnier",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Holy Cross College. Career in restaurant management, California state legislature, and Congress. Deep expertise in transportation and workplace safety. Long legislative tenure but approach not distinctly analytical.",
+        "keyIssues": ["Transportation", "Labor", "Healthcare", "Environment"],
+        "education": ["B.A., Holy Cross College"],
+        "experience": ["U.S. Representative since 2015", "California State Senate", "California State Assembly", "Contra Costa County Board of Supervisors"],
+        "website": "https://desaulnier.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-11": [
+      {
+        "id": "rep-ca-11-001",
+        "name": "Nancy Pelosi",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 55,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science from Trinity College. Former Speaker of the House (first woman to hold the position). Extraordinary legislative acumen and strategic intelligence. Passed the Affordable Care Act, CHIPS and Science Act, and Inflation Reduction Act. Her analytical approach is political-strategic rather than research-driven — but mastery of legislative procedure and policy detail is exceptional.",
+        "keyIssues": ["Democracy", "Healthcare", "Economy", "Climate"],
+        "education": ["B.A. Political Science, Trinity College"],
+        "experience": ["U.S. Representative since 1987", "Speaker of the House, 2007-2011 and 2019-2023", "House Democratic Leader", "Former Chair, House Democratic Caucus"],
+        "website": "https://pelosi.house.gov/",
+        "imageUrl": null
+      }
+    ],
     "CA-12": [
       {
         "id": "rep-ca-12-001",
-        "name": "Rep. Simone Wells",
+        "name": "Lateefah Simon",
         "party": "Democratic",
-        "isNerd": true,
-        "nerdScore": 88,
-        "nerdReason": "Ph.D. in Urban Planning. Consistently cites housing research from UC Berkeley Terner Center. Co-sponsored the Evidence-Based Housing Act.",
-        "notNerdReason": null,
-        "keyIssues": ["Housing", "Transit", "Climate"],
-        "education": ["Ph.D. Urban Planning, UC Berkeley", "B.A. Architecture, Cornell"],
-        "experience": ["U.S. Representative", "City Planner", "Urban Policy Researcher"],
-        "website": null,
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "Did not complete a college degree. Career in criminal justice reform advocacy, BART Board of Directors, and social justice organizing. Deep expertise in criminal justice and transportation policy driven by lived experience and community activism rather than analytical frameworks.",
+        "keyIssues": ["Criminal Justice", "Transportation", "Housing", "Economy"],
+        "education": ["Some college education"],
+        "experience": ["U.S. Representative since 2025", "BART Board of Directors President", "Executive Director, Lawyers Committee for Civil Rights", "Criminal Justice Reform Advocate"],
+        "website": "https://simonca12.house.gov/",
         "imageUrl": null
       }
     ],
     "CA-13": [
       {
         "id": "rep-ca-13-001",
-        "name": "Bob Cranford",
+        "name": "Adam Gray",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UCLA. Career in California state legislature. No analytical or evidence-based policy background.",
+        "keyIssues": ["Agriculture", "Water", "Economy", "Veterans Affairs"],
+        "education": ["B.A., UCLA"],
+        "experience": ["U.S. Representative since 2025", "California State Assembly", "Staff to Rep. Dennis Cardoza"],
+        "website": "https://adamgray.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-14": [
+      {
+        "id": "rep-ca-14-001",
+        "name": "Eric Swalwell",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Maryland and J.D. from McGeorge School of Law. Career as prosecutor and state legislator. House Intelligence Committee. Legal and prosecutorial background provides analytical skills but governance approach not distinctly research-driven.",
+        "keyIssues": ["Judiciary", "Intelligence", "Gun Safety", "Democracy"],
+        "education": ["J.D., McGeorge School of Law", "B.A., University of Maryland"],
+        "experience": ["U.S. Representative since 2013", "House Intelligence Committee", "House Judiciary Committee", "Prosecutor, Alameda County", "Dublin City Council"],
+        "website": "https://swalwell.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-15": [
+      {
+        "id": "rep-ca-15-001",
+        "name": "Kevin Mullin",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of San Francisco. Career in California state legislature. No analytical or evidence-based policy background.",
+        "keyIssues": ["Technology", "Environment", "Economy", "Education"],
+        "education": ["B.A., University of San Francisco"],
+        "experience": ["U.S. Representative since 2023", "California State Assembly (Speaker Pro Tempore)", "San Mateo City Council"],
+        "website": "https://mullin.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-16": [
+      {
+        "id": "rep-ca-16-001",
+        "name": "Sam Liccardo",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Harvard University and J.D. from Santa Clara University School of Law. Career as attorney and 8-year mayor of San Jose — the largest tech hub city in the world. Harvard education + mayoral leadership of Silicon Valley required deep data-driven governance on housing, transportation, technology, and policing. Applies analytical urban governance expertise to federal policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "Housing", "Economy", "Transportation"],
+        "education": ["J.D., Santa Clara University School of Law", "B.A., Harvard University"],
+        "experience": ["U.S. Representative since 2025", "Mayor of San Jose, 2014-2023", "San Jose City Council", "Attorney"],
+        "website": "https://liccardo.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-17": [
+      {
+        "id": "rep-ca-17-001",
+        "name": "Ro Khanna",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 68,
+        "nerdReason": "B.A. from University of Chicago and J.D. from Yale Law School. Adjunct Professor of Economics and Law at Stanford University. Former Deputy Assistant Secretary of Commerce for Domestic Operations under Obama. Combines elite legal training with economics expertise and Stanford faculty engagement. Deep tech policy expertise in Silicon Valley. Authored 'Dignity in a Digital Age' on the economics of technology and work. One of Congress's foremost technology policy experts.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "Economy", "Defense", "Climate"],
+        "education": ["J.D., Yale Law School", "B.A., University of Chicago"],
+        "experience": ["U.S. Representative since 2017", "Adjunct Professor, Stanford University", "Deputy Assistant Secretary of Commerce (Obama)", "Attorney", "Author"],
+        "website": "https://khanna.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-18": [
+      {
+        "id": "rep-ca-18-001",
+        "name": "Zoe Lofgren",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Stanford University and J.D. from Santa Clara University School of Law. Long-tenured member with deep immigration law expertise. Former Chair of the House Administration Committee overseeing federal election administration. Stanford education provides analytical foundation. Known for detailed, evidence-based work on immigration, election law, and technology policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Immigration", "Election Administration", "Science", "Technology"],
+        "education": ["J.D., Santa Clara University School of Law", "B.A., Stanford University"],
+        "experience": ["U.S. Representative since 1995", "Former Chair, House Administration Committee", "House Science Committee", "Immigration Attorney"],
+        "website": "https://lofgren.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-19": [
+      {
+        "id": "rep-ca-19-001",
+        "name": "Jimmy Panetta",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UC Davis and J.D. from Santa Clara University School of Law. Career as attorney and Navy JAG officer (prosecutor). Son of former CIA Director and Defense Secretary Leon Panetta. Legal and military background. Solid credentials but governance approach not distinctly evidence-based.",
+        "keyIssues": ["Agriculture", "Defense", "Veterans Affairs", "Environment"],
+        "education": ["J.D., Santa Clara University School of Law", "B.A., UC Davis"],
+        "experience": ["U.S. Representative since 2017", "House Agriculture Committee", "U.S. Navy JAG Officer", "Deputy DA, Monterey County", "Attorney"],
+        "website": "https://panetta.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-20": [
+      {
+        "id": "rep-ca-20-001",
+        "name": "Vince Fong",
         "party": "Republican",
         "isNerd": false,
-        "nerdScore": 22,
+        "nerdScore": 35,
         "nerdReason": null,
-        "notNerdReason": "Voted against CDC funding three consecutive years. Called climate science 'a liberal hoax' on record. Opposed FDAs evidence-based approval process for vaccines.",
-        "keyIssues": ["Economy", "Immigration", "Defense"],
-        "education": ["B.A. Political Science, Fresno State"],
-        "experience": ["U.S. Representative", "Insurance Broker", "City Council Member"],
-        "website": null,
+        "notNerdReason": "B.A. from UC Berkeley and M.P.P. from Harvard Kennedy School. Career as congressional staffer and California state assemblyman. Harvard Kennedy School policy analysis training shows. But new member with limited legislative record to assess evidence-based governance.",
+        "keyIssues": ["Agriculture", "Economy", "Transportation", "Water"],
+        "education": ["M.P.P., Harvard Kennedy School", "B.A., UC Berkeley"],
+        "experience": ["U.S. Representative since 2024 (special election)", "California State Assembly", "Chief of Staff to Rep. Kevin McCarthy"],
+        "website": "https://fong.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-21": [
+      {
+        "id": "rep-ca-21-001",
+        "name": "Jim Costa",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Fresno State University. Career as farmer, state legislator, and congressman. Long tenure on Agriculture Committee with deep expertise in water, farming, and Central Valley issues. Practical agricultural knowledge but approach not analytically rigorous.",
+        "keyIssues": ["Agriculture", "Water", "Foreign Affairs", "Energy"],
+        "education": ["B.A., California State University, Fresno"],
+        "experience": ["U.S. Representative since 2005", "House Agriculture Committee", "House Foreign Affairs Committee", "California State Senate", "Farmer"],
+        "website": "https://costa.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-22": [
+      {
+        "id": "rep-ca-22-001",
+        "name": "David Valadao",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "No college degree. Career as dairy farmer and state legislator. Voted to impeach Trump in 2021. Agricultural and business background. No academic credentials or evidence-based policy approach.",
+        "keyIssues": ["Agriculture", "Water", "Immigration", "Economy"],
+        "education": ["Allan Hancock College (attended)"],
+        "experience": ["U.S. Representative (2013-2019, 2021-present)", "California State Assembly", "Dairy Farmer"],
+        "website": "https://valadao.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-23": [
+      {
+        "id": "rep-ca-23-001",
+        "name": "Jay Obernolte",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 75,
+        "nerdReason": "B.S. in engineering and applied science from California Institute of Technology (Caltech) and M.S. in artificial intelligence from UCLA. Career as video game developer (founded FarSight Studios, which created hundreds of titles). Caltech is one of the world's premier STEM institutions. Masters in AI from UCLA is cutting-edge technical education. One of the most technically credentialed members of Congress. Applies genuine tech and AI expertise to technology policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "AI Policy", "Defense", "Water"],
+        "education": ["M.S. Artificial Intelligence, UCLA", "B.S. Engineering and Applied Science, California Institute of Technology (Caltech)"],
+        "experience": ["U.S. Representative since 2021", "Founder, FarSight Studios (video game developer)", "California State Assembly", "Big Bear Lake City Council"],
+        "website": "https://obernolte.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-24": [
+      {
+        "id": "rep-ca-24-001",
+        "name": "Salud Carbajal",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UC Santa Barbara and M.P.A. from University of Southern California. Career as community organizer and county supervisor. Marine Corps Reserve veteran. MPA provides policy analysis training. Deep engagement on veterans issues and environment but approach not distinctly analytical.",
+        "keyIssues": ["Veterans Affairs", "Environment", "Agriculture", "Defense"],
+        "education": ["M.P.A., University of Southern California", "B.A., UC Santa Barbara"],
+        "experience": ["U.S. Representative since 2017", "Santa Barbara County Board of Supervisors", "U.S. Marine Corps Reserve", "Community Organizer"],
+        "website": "https://carbajal.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-25": [
+      {
+        "id": "rep-ca-25-001",
+        "name": "Raul Ruiz",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 72,
+        "nerdReason": "B.S. from UCLA, M.D. from Harvard Medical School, M.P.H. from Harvard School of Public Health, and M.P.P. from Harvard Kennedy School. Four Harvard degrees — an extraordinary academic achievement. Emergency medicine physician. Founder of nonprofit medical clinics. One of the most academically credentialed members of Congress. Deep scientific and public health expertise applied to healthcare, water, and desert community policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Water", "Veterans Affairs", "Economy"],
+        "education": ["M.P.P., Harvard Kennedy School", "M.P.H., Harvard School of Public Health", "M.D., Harvard Medical School", "B.S., UCLA"],
+        "experience": ["U.S. Representative since 2013", "Emergency Medicine Physician", "Founder, Coachella Valley Healthcare Initiative", "House Energy and Commerce Committee"],
+        "website": "https://ruiz.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-26": [
+      {
+        "id": "rep-ca-26-001",
+        "name": "Julia Brownley",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Mount Vernon College and M.B.A. from American University. Career in education and California state legislature. MBA provides analytical training. Deep expertise in veterans, transportation, and education. Solid but approach not distinctly research-driven.",
+        "keyIssues": ["Veterans Affairs", "Transportation", "Environment", "Healthcare"],
+        "education": ["M.B.A., American University", "B.A., Mount Vernon College"],
+        "experience": ["U.S. Representative since 2013", "House Veterans Affairs Committee", "House Transportation Committee", "California State Assembly", "Small Business Owner"],
+        "website": "https://brownley.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-27": [
+      {
+        "id": "rep-ca-27-001",
+        "name": "George Whitesides",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.S. from Williams College and M.Sc. from Oxford University as a Rhodes Scholar. Career as NASA Chief of Staff and deputy administrator of the FAA Office of Commercial Space Transportation. Deeply embedded in aerospace, space exploration, and aviation administration — technical fields requiring strong STEM analytical skills. Applies genuine aerospace policy expertise to Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Space", "Technology", "Defense", "Economy"],
+        "education": ["M.Sc., Oxford University (Rhodes Scholar)", "B.S., Williams College"],
+        "experience": ["U.S. Representative since 2025", "Chief of Staff, NASA", "Deputy Administrator, FAA Office of Commercial Space", "Virgin Galactic CEO"],
+        "website": "https://whitesides.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-28": [
+      {
+        "id": "rep-ca-28-001",
+        "name": "Judy Chu",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 60,
+        "nerdReason": "B.A. in mathematics from UCLA and Ph.D. in psychology from California School of Professional Psychology. Doctorate in psychology with a mathematics undergraduate degree represents strong analytical training. Career as psychologist, professor, and state legislator. First Chinese American woman elected to Congress. Applies research expertise to healthcare, mental health, and small business policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Small Business", "Healthcare", "Immigration", "Education"],
+        "education": ["Ph.D. Psychology, California School of Professional Psychology", "B.A. Mathematics, UCLA"],
+        "experience": ["U.S. Representative since 2009", "Chair, Congressional Asian Pacific American Caucus", "California State Board of Equalization", "California State Assembly", "Psychologist and Professor"],
+        "website": "https://chu.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-29": [
+      {
+        "id": "rep-ca-29-001",
+        "name": "Luz Rivas",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from MIT and career as an electrical engineer and founder of Arleta STEAM Center (STEM nonprofit for youth). MIT engineering degree is exceptional. However, her primary focus in Congress is community-based education advocacy rather than technical policy, and her legislative record is too new to assess fully.",
+        "keyIssues": ["Education", "STEM", "Immigration", "Healthcare"],
+        "education": ["B.S., MIT"],
+        "experience": ["U.S. Representative since 2025", "Founder, Arleta STEAM Center", "Electrical Engineer", "California State Assembly"],
+        "website": "https://rivas.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-30": [
+      {
+        "id": "rep-ca-30-001",
+        "name": "Laura Friedman",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Northwestern University and M.A. from UCLA Film School. Career in entertainment business and California state legislature. Deep expertise in transportation and environment policy. California Assembly Transportation Committee chair. Solid but approach not distinctly analytical.",
+        "keyIssues": ["Transportation", "Climate", "Housing", "Economy"],
+        "education": ["M.A., UCLA Film School", "B.A., Northwestern University"],
+        "experience": ["U.S. Representative since 2025", "California State Assembly", "Glendale City Council", "Entertainment Industry Executive"],
+        "website": "https://friedman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-31": [
+      {
+        "id": "rep-ca-31-001",
+        "name": "Gil Cisneros",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from George Washington University and M.S. from Navy Postgraduate School. U.S. Navy officer. Philanthropist (lottery winner who donated to education). Military and education philanthropy background. No distinctly analytical policy approach.",
+        "keyIssues": ["Education", "Veterans Affairs", "Healthcare", "Economy"],
+        "education": ["M.S., Naval Postgraduate School", "B.A., George Washington University"],
+        "experience": ["U.S. Representative since 2025", "U.S. Navy Officer", "Education Philanthropist"],
+        "website": "https://cisneros.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-32": [
+      {
+        "id": "rep-ca-32-001",
+        "name": "Brad Sherman",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.A. from UCLA (magna cum laude) and J.D. from Harvard Law School. Holds a Certified Public Accountant (CPA) license — passed the CPA exam while at Harvard. Career as tax attorney and California state Board of Equalization. Deep expertise in tax law, financial regulation, and nuclear nonproliferation. CPA + Harvard Law provides exceptional quantitative and analytical credentials applied directly to fiscal and foreign policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Financial Services", "Foreign Affairs", "Tax Policy", "Nuclear Nonproliferation"],
+        "education": ["J.D., Harvard Law School", "B.A. (magna cum laude), UCLA", "CPA License"],
+        "experience": ["U.S. Representative since 1997", "House Financial Services Committee", "House Foreign Affairs Committee", "California Board of Equalization (Chair)", "Tax Attorney"],
+        "website": "https://sherman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-33": [
+      {
+        "id": "rep-ca-33-001",
+        "name": "Pete Aguilar",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Redlands. Career as mayor of Redlands and state legislator. House Democratic Caucus Chair. No analytical or research-based policy background.",
+        "keyIssues": ["Democracy", "Economy", "Defense", "Immigration"],
+        "education": ["B.A., University of Redlands"],
+        "experience": ["U.S. Representative since 2015", "House Democratic Caucus Chair", "Mayor of Redlands, CA", "Inland Empire Utilities Agency"],
+        "website": "https://aguilar.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-34": [
+      {
+        "id": "rep-ca-34-001",
+        "name": "Jimmy Gomez",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UCLA and M.P.P. from Harvard Kennedy School. Career as community organizer and California state legislator. Harvard Kennedy School policy analysis training. Deep policy engagement on healthcare and economy but approach not distinctly research-driven.",
+        "keyIssues": ["Healthcare", "Economy", "Labor", "Immigration"],
+        "education": ["M.P.P., Harvard Kennedy School", "B.A., UCLA"],
+        "experience": ["U.S. Representative since 2017", "House Ways and Means Committee", "California State Assembly", "Community Organizer"],
+        "website": "https://gomez.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-35": [
+      {
+        "id": "rep-ca-35-001",
+        "name": "Norma Torres",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "Career as 911 dispatcher, state legislator, and congresswoman. No college degree. Deep expertise in public safety and labor policy grounded in personal experience as a 911 dispatcher. No analytical or research-based policy approach.",
+        "keyIssues": ["Labor", "Public Safety", "Immigration", "Economy"],
+        "education": ["911 Dispatch Training"],
+        "experience": ["U.S. Representative since 2015", "California State Senate", "California State Assembly", "911 Dispatcher", "Pomona City Council"],
+        "website": "https://torres.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-36": [
+      {
+        "id": "rep-ca-36-001",
+        "name": "Ted Lieu",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.S. in computer science from Stanford University and J.D. from Georgetown University Law Center. U.S. Air Force JAG officer. One of the few members of Congress with a computer science degree from Stanford. Applies tech expertise to AI regulation, cybersecurity, and privacy policy. Co-chairs the Bipartisan AI Task Force. Known for technically informed technology policy advocacy.",
+        "notNerdReason": null,
+        "keyIssues": ["AI Policy", "Technology", "Cybersecurity", "Democracy"],
+        "education": ["J.D., Georgetown University Law Center", "B.S. Computer Science, Stanford University"],
+        "experience": ["U.S. Representative since 2015", "Co-Chair, Bipartisan AI Task Force", "U.S. Air Force, JAG Officer", "California State Senate", "California State Assembly"],
+        "website": "https://lieu.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-37": [
+      {
+        "id": "rep-ca-37-001",
+        "name": "Sydney Kamlager-Dove",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Spelman College and M.F.A. from University of Southern California. Career in theater arts, state legislature, and Congress. Arts and humanities background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Foreign Affairs", "Healthcare", "Criminal Justice", "Education"],
+        "education": ["M.F.A., University of Southern California", "B.A., Spelman College"],
+        "experience": ["U.S. Representative since 2023", "House Foreign Affairs Committee", "California State Senate", "California State Assembly", "Theater Arts"],
+        "website": "https://kamlager-dove.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-38": [
+      {
+        "id": "rep-ca-38-001",
+        "name": "Linda Sanchez",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UCLA and J.D. from UC Berkeley School of Law. Career as labor attorney, state legislator, and congresswoman. Berkeley Law provides strong analytical training. Deep expertise in labor, immigration, and Social Security policy. Solid credentials but approach not distinctly research-driven.",
+        "keyIssues": ["Labor", "Social Security", "Immigration", "Women's Rights"],
+        "education": ["J.D., UC Berkeley School of Law", "B.A., UCLA"],
+        "experience": ["U.S. Representative since 2003", "House Ways and Means Committee", "Labor Attorney"],
+        "website": "https://lindasanchez.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-39": [
+      {
+        "id": "rep-ca-39-001",
+        "name": "Mark Takano",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Harvard University and pursued but did not complete a Ph.D. at UC Riverside. Career as history teacher at Rialto High School for 23 years, then congressman. Harvard education and near-PhD shows intellectual engagement. Deep education and veterans policy expertise. Former Chair of House Veterans Affairs Committee. Solid but approach not distinctly analytical.",
+        "keyIssues": ["Veterans Affairs", "Education", "LGBTQ Rights", "Labor"],
+        "education": ["B.A., Harvard University", "UC Riverside (graduate study, incomplete)"],
+        "experience": ["U.S. Representative since 2013", "Former Chair, House Veterans Affairs Committee", "History Teacher, 23 years"],
+        "website": "https://takano.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-40": [
+      {
+        "id": "rep-ca-40-001",
+        "name": "Young Kim",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from USC and M.B.A. from California State University, Fullerton. Career in business (marketing and accounting) and state legislature. MBA provides business analytical skills. First Korean American Republican woman in Congress. Solid credentials but approach not distinctly evidence-based.",
+        "keyIssues": ["Foreign Affairs", "Small Business", "Technology", "Economy"],
+        "education": ["M.B.A., California State University, Fullerton", "B.A., University of Southern California"],
+        "experience": ["U.S. Representative since 2021", "House Foreign Affairs Committee", "California State Assembly", "Marketing and Accounting Executive"],
+        "website": "https://youngkim.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-41": [
+      {
+        "id": "rep-ca-41-001",
+        "name": "Ken Calvert",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from San Diego State University. Career in real estate and restaurant business, then Congress. Dean of California Republican delegation. Business background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Defense", "Water", "Appropriations", "Economy"],
+        "education": ["B.A., San Diego State University"],
+        "experience": ["U.S. Representative since 1993", "House Appropriations Committee", "Real Estate Agent", "Restaurant Owner"],
+        "website": "https://calvert.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-42": [
+      {
+        "id": "rep-ca-42-001",
+        "name": "Robert Garcia",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from California State University, Long Beach and M.A. from USC Rossier School of Education. Career as higher education administrator, communications executive, and mayor of Long Beach. First openly gay immigrant elected to Congress. Education management background shows some policy analytical engagement. Solid but approach not distinctly research-driven.",
+        "keyIssues": ["Immigration", "Healthcare", "Economy", "Education"],
+        "education": ["M.A., USC Rossier School of Education", "B.A., California State University, Long Beach"],
+        "experience": ["U.S. Representative since 2023", "Mayor of Long Beach, 2014-2022", "Vice Chancellor, Long Beach Community College", "Communications Executive"],
+        "website": "https://robertgarcia.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-43": [
+      {
+        "id": "rep-ca-43-001",
+        "name": "Maxine Waters",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from California State University, Los Angeles. Career in social work, education, and state legislature before Congress. Longest-serving member of CA delegation. Fierce advocate but approach is activist-driven rather than analytically rigorous.",
+        "keyIssues": ["Financial Services", "Housing", "Racial Justice", "Consumer Protection"],
+        "education": ["B.A., California State University, Los Angeles"],
+        "experience": ["U.S. Representative since 1991", "Ranking Member, House Financial Services Committee", "California State Assembly", "Head Start Program Teacher"],
+        "website": "https://waters.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-44": [
+      {
+        "id": "rep-ca-44-001",
+        "name": "Nanette Barragan",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UCLA and J.D. from UC Hastings College of the Law. Career as attorney, city council member, and congresswoman. Legal training provides analytical skills. Deep expertise on immigration, healthcare, and workers' rights. Solid but approach not distinctly evidence-based.",
+        "keyIssues": ["Immigration", "Healthcare", "Labor", "Environment"],
+        "education": ["J.D., UC Hastings College of the Law", "B.A., UCLA"],
+        "experience": ["U.S. Representative since 2017", "Chair, Congressional Hispanic Caucus", "Attorney", "Hermosa Beach City Council"],
+        "website": "https://barragan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-45": [
+      {
+        "id": "rep-ca-45-001",
+        "name": "Derek Tran",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UC Berkeley and J.D. from Loyola Law School. Career as personal injury attorney. UC Berkeley + Loyola Law provides strong educational background. New member with limited legislative record. Legal background shows analytical training.",
+        "keyIssues": ["Healthcare", "Workers' Rights", "Economy", "Veterans Affairs"],
+        "education": ["J.D., Loyola Law School", "B.A., UC Berkeley"],
+        "experience": ["U.S. Representative since 2025", "Personal Injury Attorney"],
+        "website": "https://tran.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-46": [
+      {
+        "id": "rep-ca-46-001",
+        "name": "Lou Correa",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from CSU Fullerton, J.D. from UCLA, and MBA from Stanford Graduate School of Business. Three degrees including Stanford MBA. Career as attorney, state senator, and Orange County Supervisor. Stanford MBA and UCLA Law show strong credentials but governance approach is more political than analytical.",
+        "keyIssues": ["Homeland Security", "Judiciary", "Immigration", "Economy"],
+        "education": ["M.B.A., Stanford Graduate School of Business", "J.D., UCLA", "B.A., CSU Fullerton"],
+        "experience": ["U.S. Representative since 2017", "House Homeland Security Committee", "House Judiciary Committee", "Orange County Board of Supervisors", "California State Senate"],
+        "website": "https://correa.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-47": [
+      {
+        "id": "rep-ca-47-001",
+        "name": "Dave Min",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.A. from Cornell University and J.D. from Georgetown University Law Center. Career as financial regulation policy attorney at the Center for American Progress and law professor at UC Irvine School of Law. Deep expertise in financial law, securities regulation, and housing finance grounded in academic research. Law professor background demonstrates evidence-based analytical approach to policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Financial Services", "Housing", "Economy", "Education"],
+        "education": ["J.D., Georgetown University Law Center", "B.A., Cornell University"],
+        "experience": ["U.S. Representative since 2025", "Law Professor, UC Irvine School of Law", "Policy Attorney, Center for American Progress", "California State Senator"],
+        "website": "https://min.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-48": [
+      {
+        "id": "rep-ca-48-001",
+        "name": "Darrell Issa",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "No college degree. Career as car alarm businessman (DEI, later Directed Electronics). Became a multi-millionaire through tech entrepreneurship. Business instinct and tech industry experience but no academic credentials or evidence-based governance approach.",
+        "keyIssues": ["Judiciary", "Intellectual Property", "Economy", "Foreign Affairs"],
+        "education": ["Siena Heights University (attended, no degree)", "U.S. Army training"],
+        "experience": ["U.S. Representative (2001-2019, 2021-present)", "House Judiciary Committee", "Founder and CEO, DEI (car alarm company)", "U.S. Army"],
+        "website": "https://issa.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-49": [
+      {
+        "id": "rep-ca-49-001",
+        "name": "Mike Levin",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Stanford University and J.D. from Duke University School of Law. Career as environmental and energy attorney. Stanford education and Duke Law provides strong analytical foundation. Deep expertise in clean energy policy, nuclear energy, and environmental law grounded in technical understanding of energy systems.",
+        "notNerdReason": null,
+        "keyIssues": ["Energy", "Veterans Affairs", "Environment", "Healthcare"],
+        "education": ["J.D., Duke University School of Law", "B.A., Stanford University"],
+        "experience": ["U.S. Representative since 2019", "House Natural Resources Committee", "House Veterans Affairs Committee", "Environmental and Energy Attorney", "CEO, Democrat Party of Orange County"],
+        "website": "https://levin.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-50": [
+      {
+        "id": "rep-ca-50-001",
+        "name": "Scott Peters",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Duke University and J.D. from NYU School of Law. Career as environmental attorney and San Diego City Council president. Deep expertise in bioscience, innovation, and climate policy built through engagement with San Diego's research and biotech community. Known for methodical, bipartisan approach to drug pricing and science policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Bioscience", "Climate", "Technology"],
+        "education": ["J.D., New York University School of Law", "B.A., Duke University"],
+        "experience": ["U.S. Representative since 2013", "House Energy and Commerce Committee", "San Diego City Council President", "Environmental Attorney"],
+        "website": "https://scottpeters.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-51": [
+      {
+        "id": "rep-ca-51-001",
+        "name": "Sara Jacobs",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. and M.A. from Columbia University. Career in international development (UNICEF) and humanitarian policy. Columbia provides rigorous analytical liberal arts training. Deep expertise in conflict prevention, child protection, and humanitarian policy grounded in research-backed frameworks from international organizations.",
+        "notNerdReason": null,
+        "keyIssues": ["Foreign Affairs", "Defense", "Human Rights", "Healthcare"],
+        "education": ["M.A., Columbia University", "B.A., Columbia University"],
+        "experience": ["U.S. Representative since 2021", "UNICEF (child protection)", "House Armed Services Committee", "International Development Work"],
+        "website": "https://sarajacobs.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CA-52": [
+      {
+        "id": "rep-ca-52-001",
+        "name": "Juan Vargas",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of San Diego, M.A. from Fordham University, and J.D. from Harvard Law School. Harvard Law provides elite analytical training. Career as attorney and state legislator. Despite Harvard credentials, legislative approach is not distinctly research-driven.",
+        "keyIssues": ["Financial Services", "Foreign Affairs", "Immigration", "Military"],
+        "education": ["J.D., Harvard Law School", "M.A., Fordham University", "B.A., University of San Diego"],
+        "experience": ["U.S. Representative since 2013", "House Financial Services Committee", "California State Senate", "California State Assembly", "Attorney"],
+        "website": "https://vargas.house.gov/",
         "imageUrl": null
       }
     ]

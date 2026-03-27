@@ -2,6 +2,180 @@
   "state": "IN",
   "stateName": "Indiana",
   "stateFips": "18",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-in-001",
+      "name": "Todd Young",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 68,
+      "nerdReason": "B.S. in political science from the United States Naval Academy, M.B.A. from University of Chicago, M.A. in American politics from University of London, and J.D. from Indiana University. Four post-secondary degrees from elite institutions. Marine Captain. Co-authored the CHIPS and Science Act promoting semiconductor manufacturing and research. Combines military discipline with academic breadth and genuine policy depth on technology and innovation.",
+      "notNerdReason": null,
+      "keyIssues": ["Technology", "Defense", "Finance", "Innovation"],
+      "education": ["J.D., Indiana University McKinney School of Law", "M.A. American Politics, University of London", "M.B.A., University of Chicago", "B.S. Political Science, U.S. Naval Academy"],
+      "experience": ["U.S. Senator since 2017", "Co-author, CHIPS and Science Act", "U.S. Representative, IN-09, 2011-2017", "U.S. Marine Corps, Captain", "Heritage Foundation Staff"],
+      "website": "https://www.young.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-in-002",
+      "name": "Jim Banks",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 35,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in political science from Indiana University and M.B.A. from Grace College. Career in real estate, construction, and politics. Navy Reserve Supply Corps officer with deployment to Afghanistan. First-generation college student. Solid credentials but legislative approach is more ideologically driven than analytically rigorous.",
+      "keyIssues": ["Defense", "Veterans Affairs", "Education", "Economy"],
+      "education": ["M.B.A., Grace College & Seminary", "B.A. Political Science, Indiana University"],
+      "experience": ["U.S. Senator since 2025", "U.S. Representative, IN-03, 2017-2025", "U.S. Navy Reserve, Supply Corps Officer", "Indiana State Senator", "Real Estate and Construction"],
+      "website": "https://www.banks.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "IN-01": [
+      {
+        "id": "rep-in-01-001",
+        "name": "Frank Mrvan",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Indiana University Northwest. Career as union steward, township trustee, and state senator. Deep roots in working-class community governance but no analytical, technical, or evidence-based policy background.",
+        "keyIssues": ["Steel Industry", "Labor", "Veterans Affairs", "Environment"],
+        "education": ["B.A., Indiana University Northwest"],
+        "experience": ["U.S. Representative since 2021", "North Township Trustee", "Union Steward", "Indiana State Senator"],
+        "website": "https://mrvan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IN-02": [
+      {
+        "id": "rep-in-02-001",
+        "name": "Rudy Yakym",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Notre Dame. Career in business and finance. Won special election in 2022. Business background provides practical skills but no distinctly analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Agriculture", "Defense", "Education"],
+        "education": ["B.A., University of Notre Dame"],
+        "experience": ["U.S. Representative since 2022 (special election)", "Business Executive", "Finance Professional"],
+        "website": "https://yakym.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IN-03": [
+      {
+        "id": "rep-in-03-001",
+        "name": "Marlin Stutzman",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 15,
+        "nerdReason": null,
+        "notNerdReason": "Attended Trine University and Glen Oaks Community College without completing a degree. Career as farmer and state legislator. No academic credentials or analytical policy background.",
+        "keyIssues": ["Agriculture", "Fiscal Policy", "Gun Rights", "Immigration"],
+        "education": ["Trine University (attended)", "Glen Oaks Community College (attended)"],
+        "experience": ["U.S. Representative since 2025 (previously served 2010-2017)", "Indiana State Senator", "Indiana State Representative", "Farmer"],
+        "website": "https://stutzman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IN-04": [
+      {
+        "id": "rep-in-04-001",
+        "name": "Jim Baird",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 78,
+        "nerdReason": "B.S. and M.S. in animal science from Purdue University and Ph.D. in animal science (monogastric nutrition) from University of Kentucky. Vietnam War veteran (Bronze Star, two Purple Hearts). Worked as a Purdue University extension agent and animal nutritionist in the feed industry. One of the few members of Congress with a Ph.D. in a scientific field. Brings genuine research expertise to agriculture and science policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Agriculture", "Science", "Veterans Affairs", "Energy"],
+        "education": ["Ph.D. Animal Science (Monogastric Nutrition), University of Kentucky", "M.S. Animal Science, Purdue University", "B.S. Animal Science, Purdue University"],
+        "experience": ["U.S. Representative since 2019", "Purdue University Extension Agent", "Animal Nutritionist, Landmark Cooperative", "Vietnam War Veteran (Bronze Star, 2 Purple Hearts)", "Indiana State Representative"],
+        "website": "https://baird.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IN-05": [
+      {
+        "id": "rep-in-05-001",
+        "name": "Victoria Spartz",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.S. in international economics and M.B.A. from National University of Economics in Ukraine. M.P.A. from Indiana University Kelley School of Business. Harvard Business School Executive Education in healthcare. CPA license. Career path from bank teller to Big Four accounting, CFO of Indiana Attorney General's Office, and adjunct faculty at IU Kelley School. Deep quantitative and financial analytical expertise applied to fiscal and healthcare policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Fiscal Policy", "Healthcare", "Ukraine", "Government Reform"],
+        "education": ["Harvard Business School Executive Education (Healthcare)", "M.P.A., Indiana University Kelley School of Business", "M.B.A., National University of Economics (Ukraine)", "B.S. International Economics, National University of Economics (Ukraine)"],
+        "experience": ["U.S. Representative since 2021", "CFO, Indiana Attorney General's Office", "Adjunct Faculty, IU Kelley School of Business", "CPA, Big Four Accounting Firms", "Indiana State Senator"],
+        "website": "https://spartz.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IN-06": [
+      {
+        "id": "rep-in-06-001",
+        "name": "Jefferson Shreve",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science from Indiana University, M.A. from University of London, and M.B.A. from Purdue University. Three degrees show intellectual breadth. Founded Storage Express self-storage company. Strong business credentials but legislative approach is more entrepreneurial than analytically rigorous or evidence-based.",
+        "keyIssues": ["Economy", "Small Business", "Education", "Veterans Affairs"],
+        "education": ["M.B.A., Purdue University", "M.A., University of London", "B.A. Political Science, Indiana University"],
+        "experience": ["U.S. Representative since 2025", "Founder, Storage Express", "Indianapolis City Council", "Businessman"],
+        "website": "https://shreve.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IN-07": [
+      {
+        "id": "rep-in-07-001",
+        "name": "Andre Carson",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in criminal justice management from Concordia University and M.S. in business management from Indiana Wesleyan University. Career in law enforcement (Indiana Department of Homeland Security) and city council. Serves on the House Intelligence Committee, requiring analytical engagement with classified information. Solid but approach is more experiential than research-driven.",
+        "keyIssues": ["Intelligence", "Transportation", "Education", "Economy"],
+        "education": ["M.S. Business Management, Indiana Wesleyan University", "B.A. Criminal Justice Management, Concordia University"],
+        "experience": ["U.S. Representative since 2008", "House Permanent Select Committee on Intelligence", "Indiana Dept. of Homeland Security", "Indianapolis City Council", "Law Enforcement"],
+        "website": "https://carson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IN-08": [
+      {
+        "id": "rep-in-08-001",
+        "name": "Mark Messmer",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Purdue University. Career in business and state legislature. No analytical, technical, or evidence-based policy approach beyond standard legislative work.",
+        "keyIssues": ["Energy", "Agriculture", "Economy", "Defense"],
+        "education": ["B.S., Purdue University"],
+        "experience": ["U.S. Representative since 2025", "Indiana State Senator", "Businessman", "Mayor of Jasper, IN"],
+        "website": "https://messmer.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IN-09": [
+      {
+        "id": "rep-in-09-001",
+        "name": "Erin Houchin",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and M.S. in public affairs from Indiana University. Career as policy advisor and state senator. Master's in public affairs shows policy analysis training. Worked as legislative aide and policy advisor. Solid credentials but governance approach driven by conservative principles rather than research methodology.",
+        "keyIssues": ["Economy", "Education", "Healthcare", "Agriculture"],
+        "education": ["M.S. Public Affairs, Indiana University", "B.A., Indiana University"],
+        "experience": ["U.S. Representative since 2023", "Indiana State Senator", "Policy Advisor", "Legislative Aide"],
+        "website": "https://houchin.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

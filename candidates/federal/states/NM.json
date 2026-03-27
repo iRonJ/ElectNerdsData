@@ -2,6 +2,84 @@
   "state": "NM",
   "stateName": "New Mexico",
   "stateFips": "35",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-nm-001",
+      "name": "Martin Heinrich",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 62,
+      "nerdReason": "B.S. in mechanical engineering from University of Missouri. Worked as a mechanical engineer before entering politics. One of very few members of the Senate with an engineering degree. Serves on the Senate Armed Services and Energy committees where he applies technical expertise to defense technology, nuclear weapons modernization, and clean energy policy. Engineering background provides genuine analytical and problem-solving foundation.",
+      "notNerdReason": null,
+      "keyIssues": ["Energy", "Defense", "Public Lands", "Technology"],
+      "education": ["B.S. Mechanical Engineering, University of Missouri"],
+      "experience": ["U.S. Senator since 2013", "U.S. Representative, NM-01, 2009-2013", "Mechanical Engineer", "Albuquerque City Council", "Executive Director, Cottonwood Gulch Foundation"],
+      "website": "https://www.heinrich.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-nm-002",
+      "name": "Ben Ray Lujan",
+      "party": "Democratic",
+      "isNerd": false,
+      "nerdScore": 40,
+      "nerdReason": null,
+      "notNerdReason": "B.B.A. from New Mexico Highlands University. Career in IT at the New Mexico Cultural Affairs department before entering politics. Some technical background in information technology. Served as assistant House Democratic Whip and led Democrats' tech-forward campaign strategy. IT experience shows some data fluency but overall career is political rather than analytical.",
+      "keyIssues": ["Healthcare", "Technology", "Education", "Economy"],
+      "education": ["B.B.A., New Mexico Highlands University"],
+      "experience": ["U.S. Senator since 2021", "U.S. Representative, NM-03, 2009-2021", "Assistant House Democratic Whip", "IT Professional, NM Cultural Affairs Department", "NM Public Regulation Commission"],
+      "website": "https://www.lujan.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "NM-01": [
+      {
+        "id": "rep-nm-01-001",
+        "name": "Melanie Stansbury",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.A. from Sewanee: The University of the South, M.S. in natural resources from Cornell University, and M.P.P. from University of New Mexico. Multiple graduate degrees including a Cornell science degree. Career as water resources and environmental policy researcher at Sandia National Laboratories and the U.S. Senate. Applies scientific research expertise directly to natural resources and climate policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Environment", "Water Policy", "Climate", "Economy"],
+        "education": ["M.P.P., University of New Mexico", "M.S. Natural Resources, Cornell University", "B.A., Sewanee: The University of the South"],
+        "experience": ["U.S. Representative since 2021", "Environmental Policy Researcher, Sandia National Laboratories", "Staffer, U.S. Senate Energy Committee", "New Mexico State Representative"],
+        "website": "https://stansbury.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NM-02": [
+      {
+        "id": "rep-nm-02-001",
+        "name": "Gabe Vasquez",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from New Mexico State University. Career in community organizing, conservation, and local government (Las Cruces City Council). Community engagement background without analytical or evidence-based policy approach.",
+        "keyIssues": ["Immigration", "Public Lands", "Economy", "Agriculture"],
+        "education": ["B.A., New Mexico State University"],
+        "experience": ["U.S. Representative since 2023", "Las Cruces City Council", "Conservation Organizer", "Community Advocate"],
+        "website": "https://vasquez.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NM-03": [
+      {
+        "id": "rep-nm-03-001",
+        "name": "Teresa Leger Fernandez",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Yale University and J.D. from Stanford Law School. Career as attorney specializing in affordable housing, community development, and Native American water rights. Yale + Stanford Law represents elite analytical training. Deep expertise in water law and community economic development built on rigorous legal research.",
+        "notNerdReason": null,
+        "keyIssues": ["Native American Affairs", "Water Rights", "Education", "Economy"],
+        "education": ["J.D., Stanford Law School", "B.A., Yale University"],
+        "experience": ["U.S. Representative since 2021", "Attorney, affordable housing and community development", "Water Rights Attorney", "White House Fellow"],
+        "website": "https://fernandez.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

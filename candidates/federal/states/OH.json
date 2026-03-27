@@ -2,6 +2,276 @@
   "state": "OH",
   "stateName": "Ohio",
   "stateFips": "39",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-oh-001",
+      "name": "Bernie Moreno",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 32,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from American University and M.B.A. from University of Texas. Career as auto dealership owner and executive. Business background provides practical skills but legislative approach not analytically driven. Defeated Sherrod Brown in 2024 with Trump backing.",
+      "keyIssues": ["Economy", "Immigration", "Energy", "Manufacturing"],
+      "education": ["M.B.A., University of Texas", "B.A., American University"],
+      "experience": ["U.S. Senator since 2025", "Auto Dealership Executive and Owner"],
+      "website": "https://www.moreno.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-oh-002",
+      "name": "Jon Husted",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 42,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from Ohio State University and J.D. from University of Dayton School of Law. Career as attorney, Ohio Secretary of State (election administration), and Lieutenant Governor. Legal and administrative background with solid policy expertise but not distinctly analytical or evidence-based.",
+      "keyIssues": ["Economy", "Election Integrity", "Education", "Defense"],
+      "education": ["J.D., University of Dayton School of Law", "B.A., Ohio State University"],
+      "experience": ["U.S. Senator since 2025 (appointed to fill JD Vance's seat)", "Lieutenant Governor of Ohio", "Ohio Secretary of State", "Ohio State Representative and Senator", "Attorney"],
+      "website": "https://www.husted.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "OH-01": [
+      {
+        "id": "rep-oh-01-001",
+        "name": "Greg Landsman",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Tulane University and M.A. from University of Cincinnati. Career in education policy and Cincinnati City Council. Strong policy focus on education and housing but approach is more advocacy-driven than analytically rigorous.",
+        "keyIssues": ["Education", "Healthcare", "Economy", "Housing"],
+        "education": ["M.A., University of Cincinnati", "B.A., Tulane University"],
+        "experience": ["U.S. Representative since 2023", "Cincinnati City Council", "Education Policy Advocate"],
+        "website": "https://landsman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-02": [
+      {
+        "id": "rep-oh-02-001",
+        "name": "David Taylor",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "New member (2025). Career in state legislature and conservative politics. Limited public record of analytical or evidence-based governance approach.",
+        "keyIssues": ["Economy", "Defense", "Government Reform", "Agriculture"],
+        "education": ["College education"],
+        "experience": ["U.S. Representative since 2025", "Ohio State Representative"],
+        "website": "https://taylor.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-03": [
+      {
+        "id": "rep-oh-03-001",
+        "name": "Joyce Beatty",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Central State University, M.S. from Wright State University, and additional graduate work at Ohio State University. Career in state legislature and university administration. Policy background but approach not distinctly analytical or research-driven.",
+        "keyIssues": ["Financial Services", "Economy", "Civil Rights", "Healthcare"],
+        "education": ["M.S., Wright State University", "B.A., Central State University"],
+        "experience": ["U.S. Representative since 2013", "Ohio House of Representatives", "Senior Vice President, Ohio State University", "Business Executive"],
+        "website": "https://beatty.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-04": [
+      {
+        "id": "rep-oh-04-001",
+        "name": "Jim Jordan",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in economics from University of Wisconsin, M.A. from Ohio State University, and law student at Capital University (did not complete degree). Career as wrestling coach and politician. Chair of House Judiciary Committee. Legislative approach is aggressively ideological with no demonstrated evidence-based or analytical policy framework.",
+        "keyIssues": ["Judiciary", "Government Oversight", "Immigration", "Economy"],
+        "education": ["M.A., Ohio State University", "B.S. Economics, University of Wisconsin", "Capital University Law School (attended)"],
+        "experience": ["U.S. Representative since 2007", "Chair, House Judiciary Committee", "Ohio State Representative", "NCAA Wrestling Champion", "Wrestling Coach, Ohio State"],
+        "website": "https://jordan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-05": [
+      {
+        "id": "rep-oh-05-001",
+        "name": "Bob Latta",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Bowling Green State University and J.D. from University of Toledo College of Law. Career as attorney and state legislator. Legal training provides analytical skills. Serves on Energy and Commerce Committee. Solid policy engagement but approach not distinctly evidence-based.",
+        "keyIssues": ["Energy", "Technology", "Agriculture", "Economy"],
+        "education": ["J.D., University of Toledo College of Law", "B.A., Bowling Green State University"],
+        "experience": ["U.S. Representative since 2007", "House Energy and Commerce Committee", "Ohio State Senator", "Attorney"],
+        "website": "https://latta.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-06": [
+      {
+        "id": "rep-oh-06-001",
+        "name": "Michael Rulli",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "Career as businessman and Ohio state legislator. Business background. Limited public record of analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Energy", "Veterans Affairs", "Agriculture"],
+        "education": ["Business education"],
+        "experience": ["U.S. Representative since 2024 (special election)", "Ohio State Representative", "Businessman"],
+        "website": "https://rulli.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-07": [
+      {
+        "id": "rep-oh-07-001",
+        "name": "Max Miller",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Kent State University. Career as Trump White House aide and political operative. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Defense", "Immigration", "Veterans Affairs"],
+        "education": ["B.A., Kent State University"],
+        "experience": ["U.S. Representative since 2023", "White House Aide to President Trump", "Political Operative"],
+        "website": "https://maxmiller.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-08": [
+      {
+        "id": "rep-oh-08-001",
+        "name": "Warren Davidson",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.S. from U.S. Military Academy at West Point and M.B.A. from Notre Dame. Career as Army Ranger with six years of service, then manufacturing entrepreneur. West Point + Notre Dame MBA represents rigorous analytical training. Founded a manufacturing company. Brings military analytical discipline and business acumen to fiscal and defense policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Financial Services", "Economy", "Defense", "Fiscal Policy"],
+        "education": ["M.B.A., University of Notre Dame", "B.S., U.S. Military Academy at West Point"],
+        "experience": ["U.S. Representative since 2016", "U.S. Army Ranger", "Founder, manufacturing company", "House Financial Services Committee"],
+        "website": "https://davidson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-09": [
+      {
+        "id": "rep-oh-09-001",
+        "name": "Marcy Kaptur",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 50,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Wisconsin-Milwaukee and M.A. in urban planning from University of Michigan. Longest-serving congresswoman in U.S. history. Deep expertise in agriculture, energy, and manufacturing policy built over decades. Urban planning degree provides quantitative spatial analysis training. Exceptional policy depth but approach is more experiential than analytically rigorous.",
+        "keyIssues": ["Agriculture", "Energy", "Manufacturing", "Veterans Affairs"],
+        "education": ["M.A. Urban Planning, University of Michigan", "B.A., University of Wisconsin-Milwaukee"],
+        "experience": ["U.S. Representative since 1983", "Longest-serving congresswoman in U.S. history", "House Appropriations Committee", "Urban Planner"],
+        "website": "https://kaptur.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-10": [
+      {
+        "id": "rep-oh-10-001",
+        "name": "Mike Turner",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Ohio Northern University, J.D. from Case Western Reserve University, and M.B.A. from University of Dayton. Three degrees across law, business, and political science. Former Chairman of the House Permanent Select Committee on Intelligence. Deep intelligence and defense policy expertise. Analytical approach to national security built over decades on intelligence and armed services committees.",
+        "notNerdReason": null,
+        "keyIssues": ["Intelligence", "Defense", "Nuclear Security", "Economy"],
+        "education": ["M.B.A., University of Dayton", "J.D., Case Western Reserve University", "B.A., Ohio Northern University"],
+        "experience": ["U.S. Representative since 2003", "Former Chairman, House Intelligence Committee", "House Armed Services Committee", "Mayor of Dayton, OH", "Attorney"],
+        "website": "https://turner.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-11": [
+      {
+        "id": "rep-oh-11-001",
+        "name": "Shontel Brown",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Cuyahoga Community College. Career in county government. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Healthcare", "Education", "Civil Rights"],
+        "education": ["B.A., Cuyahoga Community College"],
+        "experience": ["U.S. Representative since 2021", "Cuyahoga County Council", "Chair, Cuyahoga County Democratic Party"],
+        "website": "https://shontelbrown.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-12": [
+      {
+        "id": "rep-oh-12-001",
+        "name": "Troy Balderson",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Ohio State University. Career as car dealership owner and state legislator. Business background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Small Business", "Agriculture", "Defense"],
+        "education": ["B.S., Ohio State University"],
+        "experience": ["U.S. Representative since 2018", "Ohio State Senator", "Car Dealership Owner"],
+        "website": "https://balderson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-13": [
+      {
+        "id": "rep-oh-13-001",
+        "name": "Emilia Sykes",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Howard University and J.D. from University of Akron School of Law. Career as attorney and state legislator (Minority Leader of Ohio House). Legal training provides analytical foundation. Deep policy engagement on healthcare, education, and criminal justice. Solid but approach not distinctly evidence-based.",
+        "keyIssues": ["Healthcare", "Education", "Economy", "Criminal Justice"],
+        "education": ["J.D., University of Akron School of Law", "B.A., Howard University"],
+        "experience": ["U.S. Representative since 2023", "Minority Leader, Ohio House of Representatives", "Ohio State Representative", "Attorney"],
+        "website": "https://sykes.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-14": [
+      {
+        "id": "rep-oh-14-001",
+        "name": "David Joyce",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Dayton and J.D. from Cleveland-Marshall College of Law. Career as prosecutor (Geauga County Prosecutor for 17 years). Legal and prosecutorial background provides analytical skills. Solid bipartisan approach but governance not distinctly research-driven.",
+        "keyIssues": ["Agriculture", "Appropriations", "Law Enforcement", "Environment"],
+        "education": ["J.D., Cleveland-Marshall College of Law", "B.A., University of Dayton"],
+        "experience": ["U.S. Representative since 2013", "House Appropriations Committee", "Co-Chair, Problem Solvers Caucus", "Geauga County Prosecutor, 17 years", "Attorney"],
+        "website": "https://davejoyce.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OH-15": [
+      {
+        "id": "rep-oh-15-001",
+        "name": "Mike Carey",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Ohio State University. Career as coal industry lobbyist. Energy industry background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Energy", "Economy", "Agriculture", "Transportation"],
+        "education": ["B.S., Ohio State University"],
+        "experience": ["U.S. Representative since 2021", "House Ways and Means Committee", "Coal Industry Lobbyist", "Energy Policy Advocate"],
+        "website": "https://carey.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

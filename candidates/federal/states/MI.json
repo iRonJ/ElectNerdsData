@@ -2,6 +2,244 @@
   "state": "MI",
   "stateName": "Michigan",
   "stateFips": "26",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-mi-001",
+      "name": "Gary Peters",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 72,
+      "nerdReason": "B.A. magna cum laude (Phi Beta Kappa) from Alma College, M.B.A. from University of Detroit Mercy, J.D. and M.A. in political science from Wayne State University, and M.A. in philosophy from Michigan State University. Five post-secondary degrees — one of the most academically credentialed members of Congress. Navy Reserve Lt. Commander with overseas deployments. 22-year career as financial advisor. Graduate of Naval War College. Combines extraordinary academic breadth with military and financial analytical expertise.",
+      "notNerdReason": null,
+      "keyIssues": ["Homeland Security", "Commerce", "Armed Services", "Economy"],
+      "education": ["M.A. Philosophy, Michigan State University", "J.D., Wayne State University", "M.A. Political Science, Wayne State University", "M.B.A., University of Detroit Mercy", "B.A. Political Science (magna cum laude, Phi Beta Kappa), Alma College"],
+      "experience": ["U.S. Senator since 2015", "U.S. Representative, MI-14/MI-09, 2009-2015", "U.S. Navy Reserve, Lt. Commander", "Financial Advisor, Merrill Lynch/Paine Webber, 22 years", "Griffin Endowed Chair, Central Michigan University"],
+      "website": "https://www.peters.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-mi-002",
+      "name": "Elissa Slotkin",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 70,
+      "nerdReason": "B.A. in rural sociology from Cornell University and M.A. in international affairs from Columbia University SIPA. CIA analyst with three tours in Iraq. Fluent in Arabic and Swahili. Rose to Acting Assistant Secretary of Defense for International Security Affairs. Combines elite academic training with hands-on intelligence analysis and defense policy expertise at the highest levels of government.",
+      "notNerdReason": null,
+      "keyIssues": ["National Security", "Healthcare", "Agriculture", "Veterans Affairs"],
+      "education": ["M.A. International Affairs, Columbia University (SIPA)", "B.A. Rural Sociology, Cornell University"],
+      "experience": ["U.S. Senator since 2025", "U.S. Representative, MI-08/MI-07, 2019-2025", "Acting Assistant Secretary of Defense for International Security Affairs", "CIA Analyst, 3 tours in Iraq", "Department of Defense Official"],
+      "website": "https://www.slotkin.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "MI-01": [
+      {
+        "id": "rep-mi-01-001",
+        "name": "Jack Bergman",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Gustavus Adolphus College and M.B.A. from University of West Florida. Retired U.S. Marine Corps Lieutenant General — the highest-ranking military officer ever elected to Congress. Military career at the three-star general level requires exceptional strategic, analytical, and leadership capabilities across complex global operations.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Veterans Affairs", "Economy", "Natural Resources"],
+        "education": ["M.B.A., University of West Florida", "B.A., Gustavus Adolphus College"],
+        "experience": ["U.S. Representative since 2017", "U.S. Marine Corps, Lieutenant General (ret.)", "Commanding General, Marine Forces Reserve", "Naval Aviator"],
+        "website": "https://bergman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-02": [
+      {
+        "id": "rep-mi-02-001",
+        "name": "John Moolenaar",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.S. in chemistry from Hope College and M.P.A. from Harvard University Kennedy School. Worked as a chemist at Dow Chemical Company. Combines genuine STEM credentials (chemistry degree + industrial chemistry experience) with elite public policy training from Harvard. One of the few members of Congress with a hard science degree applied professionally.",
+        "notNerdReason": null,
+        "keyIssues": ["Appropriations", "Science", "China Policy", "Agriculture"],
+        "education": ["M.P.A., Harvard University", "B.S. Chemistry, Hope College"],
+        "experience": ["U.S. Representative since 2015", "Chairman, Select Committee on China", "Chemist, Dow Chemical Company", "Michigan State Senator", "Michigan State Representative", "School Administrator"],
+        "website": "https://moolenaar.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-03": [
+      {
+        "id": "rep-mi-03-001",
+        "name": "Hillary Scholten",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Calvin College and J.D. from University of Maryland School of Law. Career as immigration attorney at the Department of Justice. Legal training provides analytical skills. Deep expertise in immigration law but approach is more advocacy-driven than analytically rigorous.",
+        "keyIssues": ["Immigration", "Healthcare", "Economy", "Education"],
+        "education": ["J.D., University of Maryland School of Law", "B.A., Calvin College"],
+        "experience": ["U.S. Representative since 2023", "Immigration Attorney, U.S. Department of Justice", "Legal Aid Attorney"],
+        "website": "https://scholten.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-04": [
+      {
+        "id": "rep-mi-04-001",
+        "name": "Bill Huizenga",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Calvin College. Career in real estate development and family construction business. No analytical or evidence-based policy background.",
+        "keyIssues": ["Financial Services", "Energy", "Economy", "Great Lakes"],
+        "education": ["B.A., Calvin College"],
+        "experience": ["U.S. Representative since 2011", "House Financial Services Committee", "Real Estate Developer", "Michigan State Representative"],
+        "website": "https://huizenga.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-05": [
+      {
+        "id": "rep-mi-05-001",
+        "name": "Tim Walberg",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Fort Wayne Bible College and M.A. from Wheaton College Graduate School. Career as pastor and state legislator. Religious education and pastoral background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Education", "Energy", "Economy", "Labor"],
+        "education": ["M.A., Wheaton College Graduate School", "B.A., Fort Wayne Bible College"],
+        "experience": ["U.S. Representative (2007-2009, 2011-present)", "House Education and Workforce Committee", "Pastor", "Michigan State Representative"],
+        "website": "https://walberg.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-06": [
+      {
+        "id": "rep-mi-06-001",
+        "name": "Debbie Dingell",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.S. and M.S. from Georgetown University. Career as automotive industry executive (GM) and lobbyist. Deep knowledge of manufacturing, trade, and healthcare policy. Two Georgetown degrees show intellectual commitment. Strong policy expertise but approach is more industry-relationship driven than analytically rigorous.",
+        "keyIssues": ["Auto Industry", "Healthcare", "Environment", "Veterans Affairs"],
+        "education": ["M.S., Georgetown University", "B.S., Georgetown University"],
+        "experience": ["U.S. Representative since 2015", "General Motors Executive", "Auto Industry Lobbyist", "Wayne State University Board of Governors"],
+        "website": "https://debbiedingell.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-07": [
+      {
+        "id": "rep-mi-07-001",
+        "name": "Tom Barrett",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from U.S. Military Academy at West Point. Army helicopter pilot. Michigan State Senator. West Point education provides analytical discipline but legislative career too new to assess data-driven governance approach.",
+        "keyIssues": ["Defense", "Agriculture", "Veterans Affairs", "Economy"],
+        "education": ["B.S., U.S. Military Academy at West Point"],
+        "experience": ["U.S. Representative since 2025", "Michigan State Senator", "U.S. Army, Helicopter Pilot", "Small Business Owner"],
+        "website": "https://barrett.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-08": [
+      {
+        "id": "rep-mi-08-001",
+        "name": "Kristen McDonald Rivet",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in history from Michigan State University and M.P.A. from University of Michigan-Flint. Career in education and state legislature. MPA provides public administration analytical training. Deep community engagement but approach is more advocacy-oriented than analytically rigorous.",
+        "keyIssues": ["Education", "Economy", "Healthcare", "Infrastructure"],
+        "education": ["M.P.A., University of Michigan-Flint", "B.A. History, Michigan State University"],
+        "experience": ["U.S. Representative since 2025", "Michigan State Senator", "Educator", "Community Advocate"],
+        "website": "https://mcdonaldrivet.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-09": [
+      {
+        "id": "rep-mi-09-001",
+        "name": "Lisa McClain",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Northwood University. Career in financial services. Business background provides practical skills but governance approach is not distinctly analytical or evidence-based.",
+        "keyIssues": ["Economy", "Defense", "Government Reform", "Agriculture"],
+        "education": ["B.A., Northwood University"],
+        "experience": ["U.S. Representative since 2021", "House Republican Conference Secretary", "Financial Services Professional"],
+        "website": "https://mcclain.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-10": [
+      {
+        "id": "rep-mi-10-001",
+        "name": "John James",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.S. from U.S. Military Academy at West Point and M.B.A. from University of Michigan Ross School of Business. Army Apache helicopter pilot with combat service in Iraq (8 Meritorious Service Medals). West Point provides rigorous analytical foundation. Michigan Ross MBA is a top-tier business school. Combines military strategic thinking with quantitative business analysis. Led family automotive supply company.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Economy", "Veterans Affairs", "Manufacturing"],
+        "education": ["M.B.A., University of Michigan (Ross School of Business)", "B.S., U.S. Military Academy at West Point"],
+        "experience": ["U.S. Representative since 2023", "U.S. Army, Apache Helicopter Pilot (Iraq)", "President, James Group International (auto supply)", "Ranger-qualified Combat Veteran"],
+        "website": "https://johnjames.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-11": [
+      {
+        "id": "rep-mi-11-001",
+        "name": "Haley Stevens",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. and M.A. from American University. Served as Chief of Staff of the Obama Auto Rescue Task Force, coordinating the analytical effort to restructure GM and Chrysler — one of the most data-intensive industrial policy operations in U.S. history. Deep expertise in manufacturing, STEM education, and workforce policy. Brings practical analytical experience from managing a complex government intervention.",
+        "notNerdReason": null,
+        "keyIssues": ["Manufacturing", "STEM Education", "Economy", "Science"],
+        "education": ["M.A., American University", "B.A., American University"],
+        "experience": ["U.S. Representative since 2019", "Chief of Staff, Obama Auto Rescue Task Force", "Digital manufacturing consultant", "House Science Committee"],
+        "website": "https://stevens.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-12": [
+      {
+        "id": "rep-mi-12-001",
+        "name": "Rashida Tlaib",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Wayne State University and J.D. from Thomas M. Cooley Law School. Career as community organizer and state legislator. First Palestinian-American woman in Congress. Policy driven by community advocacy and social justice rather than analytical or evidence-based frameworks.",
+        "keyIssues": ["Environment", "Criminal Justice", "Housing", "Economy"],
+        "education": ["J.D., Thomas M. Cooley Law School", "B.A., Wayne State University"],
+        "experience": ["U.S. Representative since 2019", "Michigan State Representative", "Community Organizer", "Attorney"],
+        "website": "https://tlaib.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MI-13": [
+      {
+        "id": "rep-mi-13-001",
+        "name": "Shri Thanedar",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.S. and M.S. in chemistry from Indian universities, Ph.D. in polymer chemistry from University of Akron, post-doctoral research at University of Michigan, and M.B.A. from Fontbonne University. Genuine research scientist who built pharmaceutical companies developing life-saving drugs. A Ph.D. in chemistry with a post-doc demonstrates deep research methodology. Entrepreneurial application of scientific expertise to business. Brings rare scientific research background to Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Economy", "Education", "Immigration"],
+        "education": ["M.B.A., Fontbonne University", "Ph.D. Polymer Chemistry, University of Akron", "Post-doctoral Research, University of Michigan", "M.S. Chemistry, University of Mumbai", "B.S. Chemistry, Karnatak University"],
+        "experience": ["U.S. Representative since 2023", "Pharmaceutical Entrepreneur", "Research Scientist", "Post-doctoral Researcher, University of Michigan"],
+        "website": "https://thanedar.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

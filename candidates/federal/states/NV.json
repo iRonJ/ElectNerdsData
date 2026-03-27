@@ -2,6 +2,100 @@
   "state": "NV",
   "stateName": "Nevada",
   "stateFips": "32",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-nv-001",
+      "name": "Catherine Cortez Masto",
+      "party": "Democratic",
+      "isNerd": false,
+      "nerdScore": 48,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from University of Nevada, Reno and J.D. from Gonzaga University School of Law. Career as attorney, federal prosecutor, and Nevada Attorney General for 8 years. First Latina elected to the U.S. Senate. Legal and prosecutorial background with strong law enforcement policy expertise but approach is not distinctly analytical or evidence-based.",
+      "keyIssues": ["Immigration", "Energy", "Healthcare", "Economy"],
+      "education": ["J.D., Gonzaga University School of Law", "B.A., University of Nevada, Reno"],
+      "experience": ["U.S. Senator since 2017", "Nevada Attorney General, 2007-2015", "Federal Prosecutor", "Attorney"],
+      "website": "https://www.cortezmasto.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-nv-002",
+      "name": "Jacky Rosen",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 55,
+      "nerdReason": "B.A. in psychology from University of Minnesota. Career as computer programmer and software developer before entering politics. Technical background in computing provides analytical and logical problem-solving skills. One of few members of Congress with hands-on programming experience. Applies technology awareness to STEM policy, cybersecurity, and innovation legislation.",
+      "notNerdReason": null,
+      "keyIssues": ["Technology", "Healthcare", "Veterans Affairs", "Education"],
+      "education": ["B.A. Psychology, University of Minnesota"],
+      "experience": ["U.S. Senator since 2019", "U.S. Representative, NV-03, 2017-2019", "Computer Programmer and Software Developer", "President, Congregation Ner Tamid"],
+      "website": "https://www.rosen.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "NV-01": [
+      {
+        "id": "rep-nv-01-001",
+        "name": "Dina Titus",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.A. from College of William and Mary, M.A. and Ph.D. in political science from Florida State University. Professor of political science at University of Nevada, Las Vegas for over 30 years. A Ph.D. and decades of university teaching demonstrate deep research methodology and analytical rigor. Published scholar. Applies academic policy expertise to transportation, foreign affairs, and veterans policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Transportation", "Foreign Affairs", "Veterans Affairs", "Tourism"],
+        "education": ["Ph.D. Political Science, Florida State University", "M.A. Political Science, Florida State University", "B.A., College of William and Mary"],
+        "experience": ["U.S. Representative (2009-2011, 2013-present)", "Professor, University of Nevada Las Vegas, 30+ years", "Nevada State Senate Minority Leader", "Published Scholar"],
+        "website": "https://titus.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NV-02": [
+      {
+        "id": "rep-nv-02-001",
+        "name": "Mark Amodei",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Nevada and J.D. from McGeorge School of Law. Career as attorney and Army JAG officer. Nevada State Senator. Legal and military background with long legislative tenure but approach not distinctly analytical or evidence-based.",
+        "keyIssues": ["Public Lands", "Mining", "Economy", "Veterans Affairs"],
+        "education": ["J.D., McGeorge School of Law, University of the Pacific", "B.A., University of Nevada"],
+        "experience": ["U.S. Representative since 2011", "Nevada State Senator", "President, Nevada Mining Association", "U.S. Army, JAG Officer", "Attorney"],
+        "website": "https://amodei.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NV-03": [
+      {
+        "id": "rep-nv-03-001",
+        "name": "Susie Lee",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Carnegie Mellon University. Career as nonprofit leader focused on education and early childhood development. Carnegie Mellon provides strong analytical foundation. Deep policy engagement on education and healthcare but approach is more advocacy-driven than research-based.",
+        "keyIssues": ["Education", "Healthcare", "Economy", "Environment"],
+        "education": ["B.A., Carnegie Mellon University"],
+        "experience": ["U.S. Representative since 2019", "President, Communities in Schools of Nevada", "Nonprofit Executive", "Education Advocate"],
+        "website": "https://susielee.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NV-04": [
+      {
+        "id": "rep-nv-04-001",
+        "name": "Steven Horsford",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Nevada, Reno. Career as labor organizer, nonprofit CEO, and state legislator. First African American Nevada Senate Majority Leader. Community and labor organizing background. No distinctly analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Healthcare", "Labor", "Education"],
+        "education": ["B.A., University of Nevada, Reno"],
+        "experience": ["U.S. Representative (2013-2015, 2019-present)", "CEO, Culinary Training Academy", "Nevada State Senate Majority Leader", "Labor Organizer"],
+        "website": "https://horsford.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

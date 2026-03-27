@@ -2,6 +2,100 @@
   "state": "MS",
   "stateName": "Mississippi",
   "stateFips": "28",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ms-001",
+      "name": "Roger Wicker",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 45,
+      "nerdReason": null,
+      "notNerdReason": "B.A. and J.D. from University of Mississippi. Air Force officer. Career as attorney, state senator, and U.S. Representative before Senate. Long-tenured with deep expertise on Armed Services and Commerce committees. Solid policy knowledge but approach is more institutional than analytically driven.",
+      "keyIssues": ["Defense", "Commerce", "Technology", "Healthcare"],
+      "education": ["J.D., University of Mississippi School of Law", "B.A., University of Mississippi"],
+      "experience": ["U.S. Senator since 2007", "Chairman, Senate Armed Services Committee", "U.S. Representative, MS-01, 1995-2007", "U.S. Air Force", "Mississippi State Senator", "Attorney"],
+      "website": "https://www.wicker.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ms-002",
+      "name": "Cindy Hyde-Smith",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 25,
+      "nerdReason": null,
+      "notNerdReason": "A.A. from Copiah-Lincoln Community College and B.A. from University of Southern Mississippi. Career as cattle rancher, state senator, and Mississippi Commissioner of Agriculture and Commerce. Agricultural and political background without analytical or evidence-based policy approach.",
+      "keyIssues": ["Agriculture", "Appropriations", "Defense", "Veterans Affairs"],
+      "education": ["B.A., University of Southern Mississippi", "A.A., Copiah-Lincoln Community College"],
+      "experience": ["U.S. Senator since 2018", "Mississippi Commissioner of Agriculture, 2012-2018", "Mississippi State Senator, 2000-2012", "Cattle Rancher"],
+      "website": "https://www.hydesmith.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "MS-01": [
+      {
+        "id": "rep-ms-01-001",
+        "name": "Trent Kelly",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and J.D. from University of Mississippi. Army National Guard Brigadier General. Career as district attorney and engineer in private practice. Military leadership at general officer level requires strategic analytical capability. Engineering background provides technical skills. However, legislative approach not distinctly evidence-based or data-driven.",
+        "keyIssues": ["Defense", "Agriculture", "Veterans Affairs", "Economy"],
+        "education": ["J.D., University of Mississippi School of Law", "B.A., University of Mississippi"],
+        "experience": ["U.S. Representative since 2015", "Army National Guard, Brigadier General", "District Attorney, 1st Judicial District", "Engineer, private practice"],
+        "website": "https://trentkelly.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MS-02": [
+      {
+        "id": "rep-ms-02-001",
+        "name": "Bennie Thompson",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Tougaloo College and M.S. from Jackson State University. Longest-serving member of Mississippi's delegation. Former Chairman of the House Homeland Security Committee and chairman of the January 6th Select Committee. Deep institutional expertise in homeland security policy. Strong policy depth but approach is more experienced-based than analytically driven.",
+        "keyIssues": ["Homeland Security", "Civil Rights", "Healthcare", "Agriculture"],
+        "education": ["M.S., Jackson State University", "B.A., Tougaloo College"],
+        "experience": ["U.S. Representative since 1993", "Former Chairman, House Homeland Security Committee", "Chairman, January 6th Select Committee", "Bolton, MS Alderman and Mayor", "Hinds County Supervisor"],
+        "website": "https://benniethompson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MS-03": [
+      {
+        "id": "rep-ms-03-001",
+        "name": "Michael Guest",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Mississippi State University and J.D. from University of Mississippi School of Law. Career as prosecutor (District Attorney for 20th Judicial District). Legal training provides analytical foundation but governance approach is more prosecutorial than evidence-based.",
+        "keyIssues": ["Homeland Security", "Ethics", "Judiciary", "Agriculture"],
+        "education": ["J.D., University of Mississippi School of Law", "B.A., Mississippi State University"],
+        "experience": ["U.S. Representative since 2019", "House Ethics Committee Chairman", "District Attorney, 20th Judicial District", "Prosecutor"],
+        "website": "https://guest.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MS-04": [
+      {
+        "id": "rep-ms-04-001",
+        "name": "Mike Ezell",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from William Carey University. Career as sheriff of Jackson County for 8 years. Law enforcement background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Law Enforcement", "Border Security", "Defense", "Economy"],
+        "education": ["B.A., William Carey University"],
+        "experience": ["U.S. Representative since 2023", "Sheriff, Jackson County, MS", "Law Enforcement"],
+        "website": "https://ezell.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

@@ -5,47 +5,447 @@
   "senators": [
     {
       "id": "sen-ny-001",
-      "name": "Sen. Claire Abramson",
+      "name": "Chuck Schumer",
       "party": "Democratic",
       "isNerd": true,
-      "nerdScore": 96,
-      "nerdReason": "Ph.D. Economics from Columbia. Former Federal Reserve economist. Every major bill co-sponsored includes CBO cost analysis and peer-reviewed economic modeling. Chair of Joint Economic Committee.",
+      "nerdScore": 62,
+      "nerdReason": "B.A. and J.D. from Harvard University. Senate Democratic Leader. Decades of deep legislative expertise across finance, judiciary, and technology policy. Known for meticulous preparation and detail-oriented legislative strategy. As chair of the Senate Rules Committee and former Banking Committee member, applies rigorous analytical approach to complex fiscal and regulatory policy.",
       "notNerdReason": null,
-      "keyIssues": ["Economy", "Healthcare", "Climate", "Education"],
-      "education": ["Ph.D. Economics, Columbia University", "B.A. Mathematics, Yale"],
-      "experience": ["U.S. Senator", "Federal Reserve Economist", "Columbia Professor"],
-      "website": null,
+      "keyIssues": ["Technology", "Economy", "Judiciary", "Healthcare"],
+      "education": ["J.D., Harvard Law School", "B.A., Harvard University"],
+      "experience": ["U.S. Senator since 1999", "Senate Majority/Minority Leader", "U.S. Representative, NY-09, 1981-1999", "New York State Assembly"],
+      "website": "https://www.schumer.senate.gov/",
       "imageUrl": null
     },
     {
       "id": "sen-ny-002",
-      "name": "Sen. James Quinto",
+      "name": "Kirsten Gillibrand",
       "party": "Democratic",
       "isNerd": true,
-      "nerdScore": 80,
-      "nerdReason": "Former public health commissioner. Cites CDC and WHO data regularly. Authored landmark opioid response bill grounded in NIH addiction research.",
+      "nerdScore": 55,
+      "nerdReason": "B.A. from Dartmouth College and J.D. from UCLA School of Law. Career as attorney and state legislator. Known for data-driven, methodical advocacy on military sexual assault (bringing rigorous statistics and survivor data to policy reform), women's health, and national security. Dartmouth + UCLA Law demonstrates strong analytical foundation.",
       "notNerdReason": null,
-      "keyIssues": ["Public Health", "Housing", "Criminal Justice"],
-      "education": ["M.P.H. Columbia Mailman School of Public Health", "B.A. Sociology, SUNY"],
-      "experience": ["U.S. Senator", "NYC Public Health Commissioner", "State Assemblymember"],
-      "website": null,
+      "keyIssues": ["Military Sexual Assault", "Women's Health", "National Security", "Economy"],
+      "education": ["J.D., UCLA School of Law", "B.A., Dartmouth College"],
+      "experience": ["U.S. Senator since 2009", "2020 Presidential Candidate", "U.S. Representative, NY-20, 2007-2009", "Attorney"],
+      "website": "https://www.gillibrand.senate.gov/",
       "imageUrl": null
     }
   ],
   "house": {
+    "NY-01": [
+      {
+        "id": "rep-ny-01-001",
+        "name": "Nick LaLota",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from U.S. Naval Academy and J.D. from Georgetown University Law Center. Navy officer. Georgetown Law + USNA provides strong analytical training. Career in securities compliance and state politics. Solid credentials but legislative approach not distinctly evidence-based.",
+        "keyIssues": ["Defense", "Economy", "Judiciary", "Veterans Affairs"],
+        "education": ["J.D., Georgetown University Law Center", "B.A., U.S. Naval Academy"],
+        "experience": ["U.S. Representative since 2023", "U.S. Navy Officer", "Securities Compliance Professional", "Suffolk County Legislature"],
+        "website": "https://lalota.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-02": [
+      {
+        "id": "rep-ny-02-001",
+        "name": "Andrew Garbarino",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Villanova University and J.D. from Hofstra University School of Law. Career as attorney and state assemblyman. Legal training provides analytical skills but governance approach not distinctly evidence-based.",
+        "keyIssues": ["Homeland Security", "Economy", "Tax Policy", "Veterans Affairs"],
+        "education": ["J.D., Hofstra University School of Law", "B.A., Villanova University"],
+        "experience": ["U.S. Representative since 2021", "House Homeland Security Committee", "New York State Assembly", "Attorney"],
+        "website": "https://garbarino.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-03": [
+      {
+        "id": "rep-ny-03-001",
+        "name": "Tom Suozzi",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Boston College and J.D. from Fordham University School of Law. Career as CPA, attorney, and county executive (Nassau County). CPA credentials demonstrate quantitative and financial analytical skills. Pragmatic approach to fiscal policy but not distinctly research-driven.",
+        "keyIssues": ["Economy", "Healthcare", "Immigration", "Tax Policy"],
+        "education": ["J.D., Fordham University School of Law", "B.A., Boston College"],
+        "experience": ["U.S. Representative since 2023 (won special election)", "Nassau County Executive", "CPA", "Attorney"],
+        "website": "https://suozzi.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-04": [
+      {
+        "id": "rep-ny-04-001",
+        "name": "Laura Gillen",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and J.D. Career as attorney and Hempstead Town Supervisor. Legal and local government background. No distinctly analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Environment", "Healthcare", "Education"],
+        "education": ["J.D., law degree", "B.A."],
+        "experience": ["U.S. Representative since 2025", "Hempstead Town Supervisor", "Attorney"],
+        "website": "https://gillen.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-05": [
+      {
+        "id": "rep-ny-05-001",
+        "name": "Gregory Meeks",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Adelphi University and J.D. from Howard University School of Law. Career as attorney and state legislator. Deep expertise in foreign affairs and financial services. Ranking Member of House Foreign Affairs Committee. Solid but approach not distinctly evidence-based.",
+        "keyIssues": ["Foreign Affairs", "Financial Services", "Economy", "Infrastructure"],
+        "education": ["J.D., Howard University School of Law", "B.A., Adelphi University"],
+        "experience": ["U.S. Representative since 1998", "Ranking Member, House Foreign Affairs Committee", "Queens District Attorney's Office", "New York State Assembly", "Attorney"],
+        "website": "https://meeks.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-06": [
+      {
+        "id": "rep-ny-06-001",
+        "name": "Grace Meng",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Michigan and J.D. from Cardozo School of Law. Career as attorney and state legislator. Legal training provides analytical skills. Deep policy expertise on consumer protection and AAPI issues but approach not distinctly research-driven.",
+        "keyIssues": ["Consumer Protection", "Economy", "Education", "Appropriations"],
+        "education": ["J.D., Benjamin N. Cardozo School of Law", "B.A., University of Michigan"],
+        "experience": ["U.S. Representative since 2013", "House Appropriations Committee", "New York State Assembly", "Attorney"],
+        "website": "https://meng.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-07": [
+      {
+        "id": "rep-ny-07-001",
+        "name": "Nydia Velazquez",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Puerto Rico and M.A. from NYU. Career as college professor and state legislator. First Puerto Rican woman elected to Congress. Academic background shows intellectual engagement. Deep small business and housing policy expertise but approach not distinctly analytical.",
+        "keyIssues": ["Small Business", "Housing", "Immigration", "Economy"],
+        "education": ["M.A., New York University", "B.A., University of Puerto Rico"],
+        "experience": ["U.S. Representative since 1993", "Ranking Member, House Small Business Committee", "New York State Assembly", "College Professor"],
+        "website": "https://velazquez.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-08": [
+      {
+        "id": "rep-ny-08-001",
+        "name": "Hakeem Jeffries",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.A. from SUNY Binghamton, J.D. from NYU School of Law, and M.P.P. from Georgetown University. Three degrees including NYU Law and Georgetown policy. Career as attorney. House Democratic Leader — the top-ranking Democrat in the House. Combines elite legal training with policy analysis expertise. Methodical, strategic approach to legislative leadership with deep institutional knowledge.",
+        "notNerdReason": null,
+        "keyIssues": ["Judiciary", "Economy", "Healthcare", "Criminal Justice"],
+        "education": ["M.P.P., Georgetown University", "J.D., NYU School of Law", "B.A., SUNY Binghamton"],
+        "experience": ["U.S. Representative since 2013", "House Democratic Leader", "New York State Assembly", "Attorney"],
+        "website": "https://jeffries.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-09": [
+      {
+        "id": "rep-ny-09-001",
+        "name": "Yvette Clarke",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "Attended Oberlin College but did not complete a degree. Career in New York City council and Congress. Deep expertise in small business and cybersecurity policy. No academic credentials or distinctly analytical policy approach.",
+        "keyIssues": ["Small Business", "Cybersecurity", "Healthcare", "Economy"],
+        "education": ["Oberlin College (attended)"],
+        "experience": ["U.S. Representative since 2007", "House Energy and Commerce Committee", "New York City Council", "Community Advocate"],
+        "website": "https://clarke.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-10": [
+      {
+        "id": "rep-ny-10-001",
+        "name": "Daniel Goldman",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.A. from Yale University and J.D. from Stanford Law School. Career as federal prosecutor (SDNY). Lead counsel for the first Trump impeachment inquiry — a role requiring exceptional legal analytical rigor and evidence marshaling. Combines elite education with high-stakes prosecutorial analytical expertise.",
+        "notNerdReason": null,
+        "keyIssues": ["Judiciary", "Democracy", "Economy", "National Security"],
+        "education": ["J.D., Stanford Law School", "B.A., Yale University"],
+        "experience": ["U.S. Representative since 2023", "Lead Counsel, Trump Impeachment Inquiry", "Assistant U.S. Attorney, SDNY", "Attorney"],
+        "website": "https://goldman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-11": [
+      {
+        "id": "rep-ny-11-001",
+        "name": "Nicole Malliotakis",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Roger Williams University and M.P.A. from Seton Hall University. Career as state assemblywoman. MPA provides policy analysis training. Solid but governance approach not distinctly evidence-based.",
+        "keyIssues": ["Economy", "Immigration", "Law Enforcement", "Veterans Affairs"],
+        "education": ["M.P.A., Seton Hall University", "B.A., Roger Williams University"],
+        "experience": ["U.S. Representative since 2021", "New York State Assembly", "Former NYC Mayoral Candidate"],
+        "website": "https://malliotakis.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-12": [
+      {
+        "id": "rep-ny-12-001",
+        "name": "Jerry Nadler",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Columbia University and J.D. from Fordham University School of Law. Ranking Member of the House Judiciary Committee. Decades of deep constitutional law and oversight expertise. Led multiple impeachment proceedings. Columbia education plus 30+ years of meticulous Judiciary Committee work demonstrates sustained analytical rigor applied to constitutional questions.",
+        "notNerdReason": null,
+        "keyIssues": ["Judiciary", "Civil Rights", "Transportation", "Democracy"],
+        "education": ["J.D., Fordham University School of Law", "B.A., Columbia University"],
+        "experience": ["U.S. Representative since 1992", "Ranking Member, House Judiciary Committee", "New York State Assembly", "Attorney"],
+        "website": "https://nadler.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-13": [
+      {
+        "id": "rep-ny-13-001",
+        "name": "Adriano Espaillat",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Queens College and M.P.A. from New York University. Career in state legislature. MPA provides policy analysis training. Deep community and immigration policy engagement but approach not distinctly analytical.",
+        "keyIssues": ["Immigration", "Education", "Housing", "Economy"],
+        "education": ["M.P.A., New York University", "B.A., Queens College"],
+        "experience": ["U.S. Representative since 2017", "New York State Senator", "New York State Assembly", "Community Advocate"],
+        "website": "https://espaillat.house.gov/",
+        "imageUrl": null
+      }
+    ],
     "NY-14": [
       {
         "id": "rep-ny-14-001",
-        "name": "Rep. Fatima Okafor",
+        "name": "Alexandria Ocasio-Cortez",
         "party": "Democratic",
         "isNerd": true,
-        "nerdScore": 87,
-        "nerdReason": "M.S. Civil Engineering. Routinely cites infrastructure data from ASCE report cards. Co-authored the Broadband Data Act which mandated FCC evidence-based coverage mapping.",
+        "nerdScore": 58,
+        "nerdReason": "B.A. in economics and international relations from Boston University, graduating magna cum laude. Economics degree provides quantitative analytical foundation. Known for frequently citing economic data, policy research, and CBO analyses in legislative arguments. Co-authored the Green New Deal grounded in climate science and economic modeling. Youngest woman ever elected to Congress.",
         "notNerdReason": null,
-        "keyIssues": ["Infrastructure", "Tech Policy", "Education", "Environment"],
-        "education": ["M.S. Civil Engineering, NYU", "B.S. Electrical Engineering, Howard University"],
-        "experience": ["U.S. Representative", "Infrastructure Engineer", "City Council Member"],
-        "website": null,
+        "keyIssues": ["Climate", "Economy", "Healthcare", "Housing"],
+        "education": ["B.A. Economics and International Relations (magna cum laude), Boston University"],
+        "experience": ["U.S. Representative since 2019", "Bartender and Restaurant Worker", "Community Organizer", "Political Campaign Organizer"],
+        "website": "https://ocasio-cortez.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-15": [
+      {
+        "id": "rep-ny-15-001",
+        "name": "Ritchie Torres",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "Did not complete college degree. Career in New York City Council. Youngest member of Congress when first elected. Deep passion for housing, technology regulation, and democracy but approach is more advocacy-driven than analytically rigorous.",
+        "keyIssues": ["Housing", "Technology", "Democracy", "Economy"],
+        "education": ["City University of New York (attended)"],
+        "experience": ["U.S. Representative since 2021", "New York City Council", "Community Advocate"],
+        "website": "https://ritchietorres.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-16": [
+      {
+        "id": "rep-ny-16-001",
+        "name": "George Latimer",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Boston College and J.D. from Fordham University School of Law. Career as attorney and Westchester County Executive. Long legislative tenure. Boston College + Fordham Law shows solid analytical training. Deep local governance expertise but approach not distinctly research-driven.",
+        "keyIssues": ["Economy", "Education", "Environment", "Healthcare"],
+        "education": ["J.D., Fordham University School of Law", "B.A., Boston College"],
+        "experience": ["U.S. Representative since 2025", "Westchester County Executive", "New York State Senator", "New York State Assembly", "Attorney"],
+        "website": "https://latimer.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-17": [
+      {
+        "id": "rep-ny-17-001",
+        "name": "Michael Lawler",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Manhattan College. Career as political operative and state assemblyman. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Bipartisanship", "Veterans Affairs", "Transportation"],
+        "education": ["B.A., Manhattan College"],
+        "experience": ["U.S. Representative since 2023", "New York State Assembly", "Political Operative"],
+        "website": "https://lawler.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-18": [
+      {
+        "id": "rep-ny-18-001",
+        "name": "Pat Ryan",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.S. from U.S. Military Academy at West Point and M.B.A. from Georgetown University. Army Airborne Ranger officer with combat service in Iraq. West Point provides rigorous analytical and engineering education. Georgetown MBA adds business analytical training. Career as Ulster County Executive applying data-driven governance to local issues. Brings military strategic thinking to defense and security policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Economy", "Veterans Affairs", "Environment"],
+        "education": ["M.B.A., Georgetown University", "B.S., U.S. Military Academy at West Point"],
+        "experience": ["U.S. Representative since 2022", "Ulster County Executive", "U.S. Army, Airborne Ranger (Iraq)", "CIA (post-military)"],
+        "website": "https://patryancongress.com/",
+        "imageUrl": null
+      }
+    ],
+    "NY-19": [
+      {
+        "id": "rep-ny-19-001",
+        "name": "Josh Riley",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Yale University and J.D. from Yale Law School. Career as attorney and policy advisor. Dual Yale degrees represent exceptional academic achievement. Career focused on healthcare and economic policy with evidence-based advocacy approach.",
+        "notNerdReason": null,
+        "keyIssues": ["Economy", "Healthcare", "Agriculture", "Environment"],
+        "education": ["J.D., Yale Law School", "B.A., Yale University"],
+        "experience": ["U.S. Representative since 2025", "Attorney", "Policy Advisor"],
+        "website": "https://riley.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-20": [
+      {
+        "id": "rep-ny-20-001",
+        "name": "Paul Tonko",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.S. in mechanical and industrial engineering from Clarkson University. Career as New York State energy policy analyst and engineer for 22 years before entering politics (New York State Energy Research and Development Authority). One of the few members of Congress who worked as a professional engineer. Applies technical energy expertise directly to climate, infrastructure, and energy policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Energy", "Climate", "Infrastructure", "Economy"],
+        "education": ["B.S. Mechanical and Industrial Engineering, Clarkson University"],
+        "experience": ["U.S. Representative since 2009", "NY State Energy Research and Development Authority, 22 years", "Montgomery County Board of Supervisors", "New York State Assembly"],
+        "website": "https://tonko.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-21": [
+      {
+        "id": "rep-ny-21-001",
+        "name": "Elise Stefanik",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. summa cum laude in government from Harvard University. Exceptional academic credentials. Career in policy advising (Bush Institute, Paul Ryan's office) and Congress. Harvard education demonstrates strong analytical ability. However, leadership in promoting 2020 election fraud claims — a documented rejection of evidence — undermines the analytical credibility her credentials suggest.",
+        "keyIssues": ["Defense", "Agriculture", "Education", "Economy"],
+        "education": ["B.A. Government (summa cum laude), Harvard University"],
+        "experience": ["U.S. Representative since 2015", "House Republican Conference Chair", "Staff, George W. Bush Institute", "Staff, Paul Ryan's office"],
+        "website": "https://stefanik.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-22": [
+      {
+        "id": "rep-ny-22-001",
+        "name": "John Mannion",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Le Moyne College and career as high school chemistry teacher for over two decades. Science teacher background provides genuine analytical and scientific methodology. Applies chemistry/science education expertise directly to STEM education, environment, and healthcare policy in Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Education", "Healthcare", "Economy", "Environment"],
+        "education": ["B.A., Le Moyne College"],
+        "experience": ["U.S. Representative since 2025", "High School Chemistry Teacher, 20+ years", "New York State Senator"],
+        "website": "https://mannion.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-23": [
+      {
+        "id": "rep-ny-23-001",
+        "name": "Nick Langworthy",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from SUNY Buffalo. Career as New York Republican Party chairman and politician. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Agriculture", "Defense", "Immigration"],
+        "education": ["B.A., SUNY Buffalo"],
+        "experience": ["U.S. Representative since 2022", "Chairman, New York Republican State Committee", "Erie County Republican Committee"],
+        "website": "https://langworthy.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-24": [
+      {
+        "id": "rep-ny-24-001",
+        "name": "Claudia Tenney",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Colgate University and J.D. from Western New England University School of Law. Career as attorney, newspaper publisher, and state legislator. Legal and media background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Gun Rights", "Small Business", "Tax Policy"],
+        "education": ["J.D., Western New England University School of Law", "B.A., Colgate University"],
+        "experience": ["U.S. Representative (2017-2019, 2021-present)", "New York State Assembly", "Attorney", "Newspaper Publisher"],
+        "website": "https://tenney.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-25": [
+      {
+        "id": "rep-ny-25-001",
+        "name": "Joseph Morelle",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from SUNY Geneseo. Career as state legislator and local government official. Long legislative tenure. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Healthcare", "Education", "Infrastructure"],
+        "education": ["B.A., SUNY Geneseo"],
+        "experience": ["U.S. Representative since 2018", "New York State Assembly", "Monroe County Legislature", "Local Government Official"],
+        "website": "https://morelle.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NY-26": [
+      {
+        "id": "rep-ny-26-001",
+        "name": "Tim Kennedy",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Buffalo State University. Career as New York State Senator and transportation advocate. No analytical or evidence-based policy background.",
+        "keyIssues": ["Transportation", "Economy", "Veterans Affairs", "Labor"],
+        "education": ["B.A., Buffalo State University"],
+        "experience": ["U.S. Representative since 2025", "New York State Senator", "Transportation Committee Chair"],
+        "website": "https://kennedy.house.gov/",
         "imageUrl": null
       }
     ]

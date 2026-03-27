@@ -2,6 +2,116 @@
   "state": "OK",
   "stateName": "Oklahoma",
   "stateFips": "40",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ok-001",
+      "name": "James Lankford",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 35,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from University of Texas at Austin and M.Div. from Southwestern Baptist Theological Seminary. Career as youth camp director and Baptist minister before entering politics. Theological education and pastoral background. Policy approach driven by faith-based values rather than evidence-based analysis.",
+      "keyIssues": ["Government Reform", "Homeland Security", "Religious Liberty", "Energy"],
+      "education": ["M.Div., Southwestern Baptist Theological Seminary", "B.A., University of Texas at Austin"],
+      "experience": ["U.S. Senator since 2015", "U.S. Representative, OK-05, 2011-2015", "Director, Falls Creek Baptist Conference Center", "Minister"],
+      "website": "https://www.lankford.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ok-002",
+      "name": "Markwayne Mullin",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 20,
+      "nerdReason": null,
+      "notNerdReason": "Attended Missouri Valley College and Oklahoma State University but did not complete a degree. Career as plumber and business owner (Mullin Plumbing). Cherokee citizen. No academic credentials or evidence-based policy approach. Business background is practical rather than analytical.",
+      "keyIssues": ["Energy", "Native American Affairs", "Economy", "Infrastructure"],
+      "education": ["Missouri Valley College (attended)", "Oklahoma State University (attended)"],
+      "experience": ["U.S. Senator since 2023", "U.S. Representative, OK-02, 2013-2023", "Owner, Mullin Plumbing", "Cherokee Nation citizen"],
+      "website": "https://www.mullin.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "OK-01": [
+      {
+        "id": "rep-ok-01-001",
+        "name": "Kevin Hern",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.S. and M.B.A. from Georgia Institute of Technology. Career as McDonald's franchise owner (10 locations) and astronautical engineer at Rockwell International. Georgia Tech engineering and MBA provides strong quantitative foundation. However, legislative approach is more business-conservative than evidence-based.",
+        "keyIssues": ["Economy", "Tax Policy", "Energy", "Small Business"],
+        "education": ["M.B.A., Georgia Institute of Technology", "B.S., Georgia Institute of Technology"],
+        "experience": ["U.S. Representative since 2019", "Chairman, Republican Study Committee", "McDonald's Franchise Owner (10 locations)", "Astronautical Engineer, Rockwell International"],
+        "website": "https://hern.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OK-02": [
+      {
+        "id": "rep-ok-02-001",
+        "name": "Josh Brecheen",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Oklahoma State University. Career as rancher and state senator. Agricultural background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Agriculture", "Energy", "Gun Rights", "Immigration"],
+        "education": ["B.S., Oklahoma State University"],
+        "experience": ["U.S. Representative since 2023", "Oklahoma State Senator", "Rancher"],
+        "website": "https://brecheen.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OK-03": [
+      {
+        "id": "rep-ok-03-001",
+        "name": "Frank Lucas",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in agricultural economics from Oklahoma State University. Career as farmer and rancher. Dean of Oklahoma delegation. Former Chairman of House Agriculture Committee and now Chairman of House Science, Space, and Technology Committee. Agricultural economics provides some quantitative training. Science Committee chairmanship requires engagement with technical policy but overall approach is traditional conservative.",
+        "keyIssues": ["Agriculture", "Science", "Space", "Technology"],
+        "education": ["B.S. Agricultural Economics, Oklahoma State University"],
+        "experience": ["U.S. Representative since 1994", "Chairman, House Science, Space, and Technology Committee", "Former Chairman, House Agriculture Committee", "Oklahoma State Representative", "Farmer and Rancher"],
+        "website": "https://lucas.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OK-04": [
+      {
+        "id": "rep-ok-04-001",
+        "name": "Tom Cole",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 55,
+        "notNerdReason": "B.A. from Grinnell College, M.A. from Yale University, and graduate study in British politics at University of Oklahoma. Grinnell + Yale master's represents elite analytical education. Member of the Chickasaw Nation. Former Chairman of House Appropriations Committee — the most fiscally complex committee in Congress. Deep policy expertise built over decades.",
+        "nerdReason": null,
+        "keyIssues": ["Appropriations", "Native American Affairs", "Defense", "Education"],
+        "education": ["Graduate study, University of Oklahoma", "M.A., Yale University", "B.A., Grinnell College"],
+        "experience": ["U.S. Representative since 2003", "Former Chairman, House Appropriations Committee", "Former Chairman, House Rules Committee", "Oklahoma State Senator", "Chickasaw Nation citizen"],
+        "website": "https://cole.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "OK-05": [
+      {
+        "id": "rep-ok-05-001",
+        "name": "Stephanie Bice",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and M.B.A. from Oklahoma State University. Career in marketing and business consulting. State senator. MBA provides analytical business skills but governance approach not distinctly evidence-based.",
+        "keyIssues": ["Economy", "Technology", "Armed Services", "Science"],
+        "education": ["M.B.A., Oklahoma State University", "B.A., Oklahoma State University"],
+        "experience": ["U.S. Representative since 2021", "House Armed Services Committee", "House Science Committee", "Oklahoma State Senator", "Business Consultant and Marketing Executive"],
+        "website": "https://bice.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

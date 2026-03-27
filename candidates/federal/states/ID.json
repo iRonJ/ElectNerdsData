@@ -2,6 +2,68 @@
   "state": "ID",
   "stateName": "Idaho",
   "stateFips": "16",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-id-001",
+      "name": "Mike Crapo",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 65,
+      "nerdReason": "B.A. summa cum laude in political science from Brigham Young University and J.D. cum laude from Harvard Law School. Top of class at both institutions demonstrates exceptional analytical rigor. Chairman of the Senate Finance Committee, navigating complex tax and economic policy. Decades of deep expertise in fiscal and regulatory policy.",
+      "notNerdReason": null,
+      "keyIssues": ["Tax Policy", "Finance", "Energy", "Healthcare"],
+      "education": ["J.D. (cum laude), Harvard Law School", "B.A. Political Science (summa cum laude), Brigham Young University"],
+      "experience": ["U.S. Senator since 1999", "Chairman, Senate Finance Committee", "U.S. Representative, ID-02, 1993-1999", "Idaho State Senator", "Attorney"],
+      "website": "https://www.crapo.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-id-002",
+      "name": "Jim Risch",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 48,
+      "nerdReason": null,
+      "notNerdReason": "B.S. in forestry from University of Idaho and J.D. from University of Idaho College of Law. Forestry is a science degree showing STEM foundation. Career as attorney, rancher, and politician. Former governor. Strong credentials but legislative approach is more traditional political than analytically driven.",
+      "keyIssues": ["Foreign Relations", "Energy", "Public Lands", "Defense"],
+      "education": ["J.D., University of Idaho College of Law", "B.S. Forestry, University of Idaho"],
+      "experience": ["U.S. Senator since 2009", "Former Chair, Senate Foreign Relations Committee", "Governor of Idaho, 2006-2007", "Lieutenant Governor of Idaho", "Idaho State Senator", "Attorney and Rancher"],
+      "website": "https://www.risch.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "ID-01": [
+      {
+        "id": "rep-id-01-001",
+        "name": "Russ Fulcher",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.S. and M.B.A. from Boise State University with additional certifications in electronic engineering. Spent 24 years in the high-technology industry, including at Micron Technology (one of the world's largest semiconductor manufacturers). Deep tech industry experience combined with engineering certifications demonstrates strong analytical and technical foundation.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "Public Lands", "Energy", "Economy"],
+        "education": ["M.B.A., Boise State University", "B.S. Business, Boise State University", "Electronic Engineering Certifications"],
+        "experience": ["U.S. Representative since 2019", "High-tech Industry, 24 years (Micron Technology, Preco Electronics)", "Idaho State Senator", "Businessman"],
+        "website": "https://fulcher.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "ID-02": [
+      {
+        "id": "rep-id-02-001",
+        "name": "Mike Simpson",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "D.D.S. from Washington University in St. Louis. Practiced dentistry in Blackfoot, Idaho for over 20 years before Congress. Dental degree requires rigorous science education in biology, chemistry, and anatomy. Long tenure on Appropriations Committee with detailed budget analysis expertise. Speaker of the Idaho House before Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Appropriations", "Public Lands", "Energy", "Water"],
+        "education": ["D.D.S., Washington University in St. Louis", "B.S., Utah State University"],
+        "experience": ["U.S. Representative since 1999", "House Appropriations Committee", "Dentist, 20+ years", "Speaker, Idaho House of Representatives"],
+        "website": "https://simpson.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

@@ -2,6 +2,164 @@
   "state": "MD",
   "stateName": "Maryland",
   "stateFips": "24",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-md-001",
+      "name": "Chris Van Hollen",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 65,
+      "nerdReason": "B.A. from Swarthmore College, M.A. in public policy from Harvard Kennedy School, and J.D. from Georgetown University Law Center. Three elite degrees across liberal arts, policy analysis, and law. Known for meticulous budget and fiscal policy analysis. As former ranking member of the House Budget Committee, built a reputation for data-driven counter-proposals. Combines Harvard policy training with Georgetown legal rigor.",
+      "notNerdReason": null,
+      "keyIssues": ["Budget", "Foreign Policy", "Environment", "Education"],
+      "education": ["J.D., Georgetown University Law Center", "M.A. Public Policy, Harvard Kennedy School", "B.A., Swarthmore College"],
+      "experience": ["U.S. Senator since 2017", "U.S. Representative, MD-08, 2003-2017", "Former Ranking Member, House Budget Committee", "Maryland State Senator", "Maryland State Delegate"],
+      "website": "https://www.vanhollen.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-md-002",
+      "name": "Angela Alsobrooks",
+      "party": "Democratic",
+      "isNerd": false,
+      "nerdScore": 50,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in public policy and Afro-American studies from Duke University and J.D. from University of Maryland School of Law. Strong academic credentials. Career as prosecutor and Prince George's County Executive (first female, first Black female in MD). Demonstrated competent governance but approach is more community-service driven than analytically rigorous.",
+      "keyIssues": ["Criminal Justice", "Education", "Healthcare", "Economy"],
+      "education": ["J.D., University of Maryland School of Law", "B.A. Public Policy and Afro-American Studies, Duke University"],
+      "experience": ["U.S. Senator since 2025", "Prince George's County Executive, 2018-2024", "State's Attorney, Prince George's County, 2011-2018", "Assistant State's Attorney"],
+      "website": "https://www.alsobrooks.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "MD-01": [
+      {
+        "id": "rep-md-01-001",
+        "name": "Andy Harris",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.S., M.D., and M.H.S. all from Johns Hopkins University. Associate professor of anesthesiology and critical care at Johns Hopkins Hospital. Triple JHU degrees and medical career represent exceptional scientific credentials. However, legislative record frequently opposes science-backed policy on climate, healthcare, and public health measures. Credentials are nerdy but legislative behavior contradicts evidence-based governance.",
+        "keyIssues": ["Healthcare", "Agriculture", "Defense", "Economy"],
+        "education": ["M.H.S., Johns Hopkins University", "M.D., Johns Hopkins University", "B.S., Johns Hopkins University"],
+        "experience": ["U.S. Representative since 2011", "Anesthesiologist, Johns Hopkins Hospital", "Associate Professor, Johns Hopkins School of Medicine", "Navy Reserve Medical Officer", "Maryland State Senator"],
+        "website": "https://harris.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MD-02": [
+      {
+        "id": "rep-md-02-001",
+        "name": "Johnny Olszewski",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Maryland, Baltimore County. Career in state and county government. Baltimore County Executive before Congress. Competent administrator but no distinctly analytical or research-driven policy approach.",
+        "keyIssues": ["Education", "Healthcare", "Economy", "Infrastructure"],
+        "education": ["B.A., University of Maryland, Baltimore County"],
+        "experience": ["U.S. Representative since 2025", "Baltimore County Executive, 2018-2024", "Maryland State Delegate", "Government Affairs"],
+        "website": "https://olszewski.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MD-03": [
+      {
+        "id": "rep-md-03-001",
+        "name": "Sarah Elfreth",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. in political science from Towson University and M.S. in public policy from Johns Hopkins University, where she worked as a research assistant. Policy research background at Johns Hopkins combined with state legislative experience. Youngest woman ever elected to the Maryland State Senate at 32. Applied policy research training to education, healthcare, and environmental legislation.",
+        "notNerdReason": null,
+        "keyIssues": ["Education", "Environment", "Healthcare", "Economy"],
+        "education": ["M.S. Public Policy, Johns Hopkins University", "B.A. Political Science, Towson University"],
+        "experience": ["U.S. Representative since 2025", "Maryland State Senator, 2019-2025", "Research Assistant, Johns Hopkins University"],
+        "website": "https://elfreth.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MD-04": [
+      {
+        "id": "rep-md-04-001",
+        "name": "Glenn Ivey",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Princeton University and J.D. from Harvard Law School. Career as federal and state prosecutor. Princeton + Harvard Law represents elite analytical training. State's Attorney for Prince George's County. Deep legal and analytical expertise applied to criminal justice policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Criminal Justice", "Education", "Healthcare", "Economy"],
+        "education": ["J.D., Harvard Law School", "B.A., Princeton University"],
+        "experience": ["U.S. Representative since 2023", "State's Attorney, Prince George's County", "Attorney, U.S. Department of Justice", "Senior Counsel, House Judiciary Committee"],
+        "website": "https://ivey.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MD-05": [
+      {
+        "id": "rep-md-05-001",
+        "name": "Steny Hoyer",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from University of Maryland and J.D. from Georgetown University Law Center. Former House Majority Leader and longest-serving member of the Maryland delegation. Decades of deep legislative expertise in appropriations, defense, and fiscal policy. Master of legislative procedure and bipartisan negotiation. His institutional knowledge and methodical approach to governance make him one of Congress's most analytically experienced members.",
+        "notNerdReason": null,
+        "keyIssues": ["Appropriations", "Defense", "Economy", "Education"],
+        "education": ["J.D., Georgetown University Law Center", "B.A., University of Maryland"],
+        "experience": ["U.S. Representative since 1981", "House Majority Leader, 2007-2023", "House Minority Whip", "Maryland State Senator", "Attorney"],
+        "website": "https://hoyer.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MD-06": [
+      {
+        "id": "rep-md-06-001",
+        "name": "April McClain Delaney",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in communications from Northwestern University and J.D. from Georgetown University Law Center. Career as attorney and nonprofit leader. Georgetown Law provides analytical training. Focus on healthcare and education policy. Solid credentials but legislative career too new to assess analytical rigor in governance.",
+        "keyIssues": ["Healthcare", "Education", "Economy", "Environment"],
+        "education": ["J.D., Georgetown University Law Center", "B.A. Communications, Northwestern University"],
+        "experience": ["U.S. Representative since 2025", "CEO, Common Sense Media (DC chapter)", "Attorney", "Nonprofit Leader"],
+        "website": "https://mcclaindelaney.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MD-07": [
+      {
+        "id": "rep-md-07-001",
+        "name": "Kweisi Mfume",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Morgan State University and M.A. from Johns Hopkins University School of Advanced International Studies (SAIS). SAIS is one of the world's premier graduate programs in international relations and policy. Served as president and CEO of the NAACP. Previous service in Congress (1987-1996) and on Baltimore City Council. Combines policy analysis training with decades of organizational leadership and civil rights expertise.",
+        "notNerdReason": null,
+        "keyIssues": ["Civil Rights", "Economy", "Education", "Healthcare"],
+        "education": ["M.A., Johns Hopkins School of Advanced International Studies (SAIS)", "B.A., Morgan State University"],
+        "experience": ["U.S. Representative (1987-1996, 2020-present)", "President and CEO, NAACP, 1996-2004", "Baltimore City Council", "Radio Broadcaster"],
+        "website": "https://mfume.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MD-08": [
+      {
+        "id": "rep-md-08-001",
+        "name": "Jamie Raskin",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 88,
+        "nerdReason": "A.B. from Harvard College and J.D. magna cum laude from Harvard Law School, where he was an editor of the Harvard Law Review. Constitutional law professor at American University Washington College of Law for over 25 years. Co-founded the Marshall-Brennan Constitutional Literacy Project. Led the second impeachment of Donald Trump as lead impeachment manager. Author of multiple books on constitutional law and democracy. Embodies the fusion of deep scholarly expertise with active legislative application — one of the most intellectually accomplished members of Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Constitution", "Democracy", "Oversight", "Climate"],
+        "education": ["J.D. (magna cum laude), Harvard Law School (Editor, Harvard Law Review)", "A.B., Harvard College"],
+        "experience": ["U.S. Representative since 2017", "Ranking Member, House Oversight Committee", "Lead Impeachment Manager, 2nd Trump Impeachment", "Constitutional Law Professor, American University, 25+ years", "Maryland State Senator", "Author"],
+        "website": "https://raskin.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

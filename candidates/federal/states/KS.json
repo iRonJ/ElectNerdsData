@@ -2,6 +2,100 @@
   "state": "KS",
   "stateName": "Kansas",
   "stateFips": "20",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ks-001",
+      "name": "Jerry Moran",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 42,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in economics from University of Kansas and J.D. from University of Kansas School of Law. Career as attorney and state senator. Long-tenured senator with expertise on veterans affairs and agriculture. Solid policy knowledge but more legislative dealmaker than analytical policy wonk.",
+      "keyIssues": ["Veterans Affairs", "Agriculture", "Commerce", "Appropriations"],
+      "education": ["J.D., University of Kansas School of Law", "B.A. Economics, University of Kansas"],
+      "experience": ["U.S. Senator since 2011", "Chairman, Senate Veterans' Affairs Committee", "U.S. Representative, KS-01, 1997-2011", "Kansas State Senator", "Attorney"],
+      "website": "https://www.moran.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ks-002",
+      "name": "Roger Marshall",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 68,
+      "nerdReason": "B.S. in biochemistry from Kansas State University and M.D. from University of Kansas School of Medicine. Practiced as an OB/GYN for decades, delivering over 5,000 babies. Biochemistry degree plus medical degree provides deep scientific foundation. Applies clinical medical expertise to healthcare and public health policy in the Senate. Army Reserve Captain.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Agriculture", "Veterans Affairs", "Fiscal Policy"],
+      "education": ["M.D., University of Kansas School of Medicine", "B.S. Biochemistry, Kansas State University", "A.S., Butler Community College"],
+      "experience": ["U.S. Senator since 2021", "U.S. Representative, KS-01, 2017-2021", "OB/GYN Physician, 25+ years", "U.S. Army Reserve, Captain"],
+      "website": "https://www.marshall.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "KS-01": [
+      {
+        "id": "rep-ks-01-001",
+        "name": "Tracey Mann",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in agricultural economics from Kansas State University. Career in farming and real estate. Agricultural economics degree provides some quantitative foundation but legislative approach is not distinctly analytical or evidence-based.",
+        "keyIssues": ["Agriculture", "Economy", "Water", "Rural Development"],
+        "education": ["B.S. Agricultural Economics, Kansas State University"],
+        "experience": ["U.S. Representative since 2021", "Lieutenant Governor of Kansas, 2019-2021", "Real Estate Developer", "Farmer"],
+        "website": "https://mann.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "KS-02": [
+      {
+        "id": "rep-ks-02-001",
+        "name": "Derek Schmidt",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from University of Kansas, M.A. in international politics from University of Leicester, J.D. from Georgetown University Law Center. Three post-secondary degrees including an international master's and elite law degree. 12 years as Kansas Attorney General. Career demonstrates sustained intellectual rigor across law, international affairs, and public policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Agriculture", "Law Enforcement", "Economy", "Veterans Affairs"],
+        "education": ["J.D., Georgetown University Law Center", "M.A. International Politics, University of Leicester", "B.A., University of Kansas"],
+        "experience": ["U.S. Representative since 2025", "Kansas Attorney General, 2011-2023", "Kansas State Senate Majority Leader", "Attorney"],
+        "website": "https://schmidt.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "KS-03": [
+      {
+        "id": "rep-ks-03-001",
+        "name": "Sharice Davids",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "A.A. from Johnson County Community College, B.B.A. from University of Missouri-Kansas City, and J.D. from Cornell Law School. First-generation college student who earned an elite law degree. White House Fellow at the Department of Transportation. Career combines legal analysis, economic development on tribal lands, and transportation policy expertise. First openly LGBT Native American elected to Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Economy", "Healthcare", "Transportation", "Native American Affairs"],
+        "education": ["J.D., Cornell Law School", "B.B.A., University of Missouri-Kansas City", "A.A. Liberal Arts, Johnson County Community College"],
+        "experience": ["U.S. Representative since 2019", "White House Fellow, Dept. of Transportation", "Director, Economic Development, Red Cloud Indian School", "Attorney", "Former professional MMA fighter"],
+        "website": "https://davids.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "KS-04": [
+      {
+        "id": "rep-ks-04-001",
+        "name": "Ron Estes",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.S. in civil engineering and M.B.A. from Tennessee Technological University. Career as engineer across aerospace, oil and gas, automotive, and manufacturing sectors, working at firms including Andersen Consulting, Koch Industries, and Bombardier Learjet. One of the few engineers in Congress. Served as Kansas State Treasurer. Engineering background provides strong analytical and quantitative foundation.",
+        "notNerdReason": null,
+        "keyIssues": ["Economy", "Aerospace", "Energy", "Tax Policy"],
+        "education": ["M.B.A., Tennessee Technological University", "B.S. Civil Engineering, Tennessee Technological University"],
+        "experience": ["U.S. Representative since 2017", "Kansas State Treasurer, 2011-2017", "Sedgwick County Treasurer, 2005-2011", "Engineer (aerospace, oil/gas, automotive)", "Worked at Koch Industries, Bombardier Learjet"],
+        "website": "https://estes.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

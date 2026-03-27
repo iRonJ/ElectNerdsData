@@ -2,6 +2,68 @@
   "state": "MT",
   "stateName": "Montana",
   "stateFips": "30",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-mt-001",
+      "name": "Steve Daines",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 58,
+      "nerdReason": "B.S. in chemical engineering from Montana State University. 13 years at Procter & Gamble managing operations domestically and in Asia. VP at RightNow Technologies (cloud computing company). Chemical engineering degree provides rigorous quantitative and scientific foundation applied in global industry.",
+      "notNerdReason": null,
+      "keyIssues": ["Energy", "Public Lands", "Technology", "Agriculture"],
+      "education": ["B.S. Chemical Engineering, Montana State University"],
+      "experience": ["U.S. Senator since 2015", "U.S. Representative, MT At-Large, 2013-2015", "VP, RightNow Technologies", "Procter & Gamble, 13 years"],
+      "website": "https://www.daines.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-mt-002",
+      "name": "Tim Sheehy",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 48,
+      "nerdReason": null,
+      "notNerdReason": "B.S. in history from U.S. Naval Academy. Navy SEAL officer with extensive combat deployments. Founded Bridger Aerospace (aerial firefighting). USNA education provides disciplined analytical training. Military special operations and business entrepreneurship show strategic capability but policy approach is more instinct-driven than evidence-based.",
+      "keyIssues": ["Defense", "Veterans Affairs", "Public Lands", "Energy"],
+      "education": ["B.S. History, U.S. Naval Academy"],
+      "experience": ["U.S. Senator since 2025", "U.S. Navy SEAL Officer and Team Leader", "Founder, Bridger Aerospace", "Combat deployments to Iraq and Afghanistan"],
+      "website": "https://www.sheehy.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "MT-01": [
+      {
+        "id": "rep-mt-01-001",
+        "name": "Ryan Zinke",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from University of Oregon. Navy SEAL Commander (23 years). Former U.S. Secretary of the Interior. Military leadership at elite level requires analytical capability but governance record as Interior Secretary was marked by controversy rather than evidence-based management.",
+        "keyIssues": ["Public Lands", "Energy", "Defense", "Veterans Affairs"],
+        "education": ["B.S., University of Oregon"],
+        "experience": ["U.S. Representative (2017, 2023-present)", "U.S. Secretary of the Interior, 2017-2019", "Navy SEAL Commander, 23 years", "Montana State Senator"],
+        "website": "https://zinke.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MT-02": [
+      {
+        "id": "rep-mt-02-001",
+        "name": "Troy Downing",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "Studied applied mathematics and computer science at New York University. Research scientist and educator at the Courant Institute of Mathematical Sciences at NYU — one of the world's premier mathematics research centers. Air Force veteran with combat search and rescue missions in Afghanistan. Founded technology companies. Combines genuine STEM research credentials with military analytical discipline.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "Defense", "Public Lands", "Veterans Affairs"],
+        "education": ["Applied Mathematics and Computer Science, New York University (Courant Institute)"],
+        "experience": ["U.S. Representative since 2025", "Research Scientist, NYU Courant Institute", "U.S. Air Force, Combat Search and Rescue", "Montana State Auditor", "Technology Entrepreneur"],
+        "website": "https://downing.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

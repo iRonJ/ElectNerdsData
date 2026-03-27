@@ -2,6 +2,180 @@
   "state": "AZ",
   "stateName": "Arizona",
   "stateFips": "04",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-az-001",
+      "name": "Mark Kelly",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 95,
+      "nerdReason": "B.S. in marine engineering and nautical science from U.S. Merchant Marine Academy. M.S. in aeronautical engineering from U.S. Naval Postgraduate School. NASA astronaut who commanded two Space Shuttle missions and flew four missions total, logging 50+ days in space. Navy combat pilot with 39 combat missions and 5,000+ flight hours. One of the most technically credentialed members of the U.S. Senate.",
+      "notNerdReason": null,
+      "keyIssues": ["Space and Technology", "Defense", "Veterans Affairs", "Water Policy"],
+      "education": ["M.S. Aeronautical Engineering, U.S. Naval Postgraduate School", "B.S. Marine Engineering and Nautical Science, U.S. Merchant Marine Academy"],
+      "experience": ["U.S. Senator since 2020", "NASA Astronaut, 4 Space Shuttle missions", "U.S. Navy Captain (ret.), combat pilot", "Author and Gun Safety Advocate"],
+      "website": "https://www.kelly.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-az-002",
+      "name": "Ruben Gallego",
+      "party": "Democratic",
+      "isNerd": false,
+      "nerdScore": 35,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in international relations from Harvard. Marine Corps combat veteran (Iraq). Career in politics and military. No STEM or technical background. Strong academic credentials but focused on political science and foreign affairs rather than evidence-based or data-driven governance.",
+      "keyIssues": ["Veterans Affairs", "Water Policy", "Immigration", "Defense"],
+      "education": ["B.A. International Relations, Harvard University"],
+      "experience": ["U.S. Senator since 2025", "U.S. Representative, AZ-03/AZ-07, 2015-2025", "U.S. Marine Corps, Infantry (Iraq)", "Arizona House of Representatives"],
+      "website": "https://www.gallego.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "AZ-01": [
+      {
+        "id": "rep-az-01-001",
+        "name": "David Schweikert",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.S. and M.B.A. from Arizona State University. Real estate and financial background. Known for interest in technology and innovation policy, frequently discusses fintech and biotech on the House floor. However, no STEM degree and engagement with technology is more advocacy than application.",
+        "keyIssues": ["Technology", "Financial Services", "Tax Policy", "Economy"],
+        "education": ["M.B.A., Arizona State University", "B.S., Arizona State University", "A.A., Scottsdale Community College"],
+        "experience": ["U.S. Representative since 2011", "Maricopa County Treasurer, 2004-2007", "Arizona State Legislature, 1991-1995", "Business Owner and Realtor"],
+        "website": "https://schweikert.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AZ-02": [
+      {
+        "id": "rep-az-02-001",
+        "name": "Eli Crane",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 18,
+        "nerdReason": null,
+        "notNerdReason": "Attended Arizona Western College and University of Arizona but did not graduate. Career as a Navy SEAL and small business owner. No academic credentials or STEM background. No notable evidence-based policy focus.",
+        "keyIssues": ["Border Security", "Defense", "Veterans Affairs", "Economy"],
+        "education": ["University of Arizona (attended, no degree)", "Arizona Western College (attended)"],
+        "experience": ["U.S. Representative since 2023", "U.S. Navy SEAL, 5 deployments", "Co-founder, Bottle Breacher", "Small Business Owner"],
+        "website": "https://crane.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AZ-03": [
+      {
+        "id": "rep-az-03-001",
+        "name": "Yassamin Ansari",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "notNerdReason": null,
+        "nerdReason": "B.A. in international relations from Stanford and M.Phil. from Cambridge (Gates Scholar). Worked for UN Secretary-General on Paris Agreement climate policy. Exceptionally strong academic credentials and deep policy engagement, but degrees are in political science/international relations rather than STEM. Climate policy work is evidence-informed but background is diplomatic rather than scientific.",
+        "keyIssues": ["Climate", "Immigration", "Housing", "Economy"],
+        "education": ["M.Phil. International Relations and Politics, University of Cambridge (Gates Scholar)", "B.A. International Relations, Stanford University"],
+        "experience": ["U.S. Representative since 2025", "Phoenix City Council Member, 2021-2025", "Senior Policy Advisor to UN Secretary-General", "Worked on Paris Agreement"],
+        "website": "https://ansari.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AZ-04": [
+      {
+        "id": "rep-az-04-001",
+        "name": "Greg Stanton",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in history and political science from Marquette (magna cum laude, Phi Beta Kappa) and J.D. from University of Michigan. Career in law and city government. Strong academic credentials but no STEM or technical background.",
+        "keyIssues": ["Transportation", "Technology", "Economy", "Water Policy"],
+        "education": ["J.D., University of Michigan", "B.A. History and Political Science, Marquette University (magna cum laude, Phi Beta Kappa)"],
+        "experience": ["U.S. Representative since 2019", "Mayor of Phoenix, 2012-2018", "Deputy Attorney General of Arizona", "Phoenix City Council Member"],
+        "website": "https://stanton.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AZ-05": [
+      {
+        "id": "rep-az-05-001",
+        "name": "Andy Biggs",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in Asian studies, J.D., and M.A. in political science. Career in law and state politics. No STEM background or evidence-based policy focus. Degrees span humanities and law.",
+        "keyIssues": ["Immigration", "Fiscal Policy", "Judiciary", "Border Security"],
+        "education": ["M.A. Political Science, Arizona State University", "J.D., University of Arizona", "B.A. Asian Studies, Brigham Young University"],
+        "experience": ["U.S. Representative since 2017", "Former Chair, House Freedom Caucus", "President, Arizona State Senate, 2013-2017", "Attorney"],
+        "website": "https://biggs.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AZ-06": [
+      {
+        "id": "rep-az-06-001",
+        "name": "Juan Ciscomani",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Arizona. Career in community outreach, business advocacy, and government advising. No STEM or technical background. First-generation college graduate with a public service career path.",
+        "keyIssues": ["Border Security", "Economy", "Veterans Affairs", "Water Policy"],
+        "education": ["B.A., University of Arizona", "A.A., Pima Community College"],
+        "experience": ["U.S. Representative since 2023", "Senior Advisor to Arizona Governor Ducey", "Vice-Chair, Arizona-Mexico Commission", "VP of Outreach, Tucson Hispanic Chamber of Commerce"],
+        "website": "https://ciscomani.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AZ-07": [
+      {
+        "id": "rep-az-07-001",
+        "name": "Adelita Grijalva",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science from University of Arizona. Career in nonprofit youth services, education governance, and county government. No STEM or technical background. Policy focus on education and natural resources.",
+        "keyIssues": ["Education", "Natural Resources", "Healthcare", "Immigration"],
+        "education": ["B.A. Political Science, University of Arizona"],
+        "experience": ["U.S. Representative since 2025 (special election)", "Pima County Board of Supervisors, 2021-2025", "Tucson Unified School District Governing Board, 2002-2022", "Director, Pima County Teen Court, 25 years"],
+        "website": "https://grijalva.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AZ-08": [
+      {
+        "id": "rep-az-08-001",
+        "name": "Abraham Hamadeh",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science from Arizona State University and J.D. from University of Arizona. Career as Army intelligence officer and prosecutor. Legal and military background with no STEM credentials or evidence-based policy focus.",
+        "keyIssues": ["Border Security", "Defense", "Law Enforcement", "Economy"],
+        "education": ["J.D., University of Arizona College of Law", "B.A. Political Science, Arizona State University"],
+        "experience": ["U.S. Representative since 2025", "U.S. Army Reserve, Intelligence Officer (Captain)", "Prosecutor, Maricopa County Attorney's Office", "Prosecutor, Tucson City Prosecutor's Office"],
+        "website": "https://hamadeh.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AZ-09": [
+      {
+        "id": "rep-az-09-001",
+        "name": "Paul Gosar",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.S. and D.D.S. from Creighton University. Practiced dentistry for 21 years and was Arizona Dental Association's Dentist of the Year. Has genuine health science credentials but does not apply scientific methodology to policy. Legislative focus is on public lands and immigration rather than evidence-based governance.",
+        "keyIssues": ["Public Lands", "Immigration", "Mining", "Water Policy"],
+        "education": ["D.D.S., Creighton University", "B.S., Creighton University"],
+        "experience": ["U.S. Representative since 2011", "Dentist, private practice, 1989-2010", "President, Arizona Dental Association", "Arizona Dental Association Dentist of the Year"],
+        "website": "https://gosar.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

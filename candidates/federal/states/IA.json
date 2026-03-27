@@ -2,6 +2,100 @@
   "state": "IA",
   "stateName": "Iowa",
   "stateFips": "19",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ia-001",
+      "name": "Chuck Grassley",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 48,
+      "nerdReason": null,
+      "notNerdReason": "B.A. and M.A. in political science from University of Northern Iowa. Pursued but did not complete a Ph.D. in political science at University of Iowa. Near-doctorate shows scholarly interest, and he is the longest-serving Republican senator in history. Deeply experienced in oversight and judiciary, but approach is more institutional than analytical. Farmer by background.",
+      "keyIssues": ["Agriculture", "Judiciary", "Government Oversight", "Trade"],
+      "education": ["M.A. Political Science, University of Northern Iowa", "B.A., University of Northern Iowa"],
+      "experience": ["U.S. Senator since 1981", "President Pro Tempore of the Senate", "Former Chair, Senate Judiciary Committee", "Former Chair, Senate Finance Committee", "Iowa State Representative", "Farmer"],
+      "website": "https://www.grassley.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ia-002",
+      "name": "Joni Ernst",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 42,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in psychology from Iowa State University and M.P.A. from Columbus State University. Army National Guard Lieutenant Colonel (retired) with combat deployment to Kuwait and Iraq. Strong military leadership credentials. MPA shows policy administration training but legislative approach is more values-driven than analytically rigorous.",
+      "keyIssues": ["Defense", "Agriculture", "Veterans Affairs", "Government Spending"],
+      "education": ["M.P.A., Columbus State University", "B.A. Psychology, Iowa State University"],
+      "experience": ["U.S. Senator since 2015", "Lieutenant Colonel, Iowa Army National Guard (ret.)", "Iowa State Senator", "County Auditor, Montgomery County"],
+      "website": "https://www.ernst.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "IA-01": [
+      {
+        "id": "rep-ia-01-001",
+        "name": "Mariannette Miller-Meeks",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 78,
+        "nerdReason": "B.S. in nursing from Texas Christian University, M.S. in education from USC, and M.D. from University of Texas Health Science Center at San Antonio. Practicing ophthalmologist. U.S. Army veteran (24 years). Triple-degreed physician with nursing, education, and medical expertise. Former Director of the Iowa Department of Public Health. Applies medical and scientific expertise directly to healthcare policy. One of the most technically credentialed members of Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Agriculture", "Veterans Affairs", "Economy"],
+        "education": ["M.D., University of Texas Health Science Center at San Antonio", "M.S. Education, University of Southern California", "B.S. Nursing, Texas Christian University"],
+        "experience": ["U.S. Representative since 2021", "Ophthalmologist", "Director, Iowa Department of Public Health", "U.S. Army, 24 years", "Iowa State Senator"],
+        "website": "https://millermeeks.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IA-02": [
+      {
+        "id": "rep-ia-02-001",
+        "name": "Ashley Hinson",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in broadcast journalism from University of Southern California. Career as TV news anchor and reporter at KCRG-TV9 (two-time Midwest Emmy winner). Strong communication skills but journalism background is narrative-driven rather than analytical. No evidence-based policy approach.",
+        "keyIssues": ["Economy", "Agriculture", "Education", "Public Safety"],
+        "education": ["B.A. Broadcast Journalism, University of Southern California"],
+        "experience": ["U.S. Representative since 2021", "Iowa State Representative, 2017-2021", "TV News Anchor and Reporter, KCRG-TV9", "Two-time Midwest Emmy Award Winner"],
+        "website": "https://hinson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IA-03": [
+      {
+        "id": "rep-ia-03-001",
+        "name": "Zach Nunn",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 72,
+        "nerdReason": "B.A. in political science and international relations from Drake University, M.S. in military operational art and science from Air University, and M.St. in international security from Cambridge University. Director of cybersecurity policy for the White House National Security Council. Air Force Lt. Colonel commanding an intelligence squadron. Adjunct professor in cybersecurity at Drake University. Combines elite academic credentials, military intelligence expertise, and hands-on cybersecurity policy experience.",
+        "notNerdReason": null,
+        "keyIssues": ["Cybersecurity", "Agriculture", "Defense", "Technology"],
+        "education": ["M.St. International Security, University of Cambridge", "M.S. Military Operational Art and Science, Air Command and Staff College", "B.A. Political Science and International Relations, Drake University"],
+        "experience": ["U.S. Representative since 2023", "Lt. Colonel, Iowa Air National Guard (Intelligence Squadron Commander)", "Director of Cybersecurity Policy, White House NSC", "Adjunct Professor, Drake University", "Iowa State Senator"],
+        "website": "https://nunn.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IA-04": [
+      {
+        "id": "rep-ia-04-001",
+        "name": "Randy Feenstra",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.A. in business communications from Dordt University, M.P.A. from Iowa State University, and Ph.D. in business and healthcare administration from Northcentral University. Doctoral dissertation focused on maternal healthcare outcomes in rural healthcare deserts. Professor of business and economics at Dordt University. A doctorate demonstrates deep commitment to research methodology. Applies academic healthcare research to rural policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Agriculture", "Healthcare", "Economy", "Trade"],
+        "education": ["Ph.D. Business and Healthcare Administration, Northcentral University", "M.P.A., Iowa State University", "B.A. Business Communications, Dordt University"],
+        "experience": ["U.S. Representative since 2021", "Professor of Business and Economics, Dordt University", "Iowa State Senator", "City Administrator, Hull, IA", "Sales Manager, Foreign Candy Company"],
+        "website": "https://feenstra.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

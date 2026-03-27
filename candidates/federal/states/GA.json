@@ -2,6 +2,245 @@
   "state": "GA",
   "stateName": "Georgia",
   "stateFips": "13",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ga-001",
+      "name": "Jon Ossoff",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 62,
+      "nerdReason": "B.S.F.S. from Georgetown University School of Foreign Service and M.Sc. from London School of Economics. Career as investigative journalist and documentary filmmaker, producing investigations into corruption, war crimes, and fraud. Deep analytical and research skills honed through investigative work. LSE master's degree reflects rigorous academic training in political economy.",
+      "notNerdReason": null,
+      "keyIssues": ["Economy", "Healthcare", "Technology", "Government Accountability"],
+      "education": ["M.Sc., London School of Economics", "B.S.F.S., Georgetown University School of Foreign Service"],
+      "experience": ["U.S. Senator since 2021", "CEO, Insight TWI (investigative media company)", "National Security Aide to Rep. Hank Johnson", "Investigative Journalist and Documentary Filmmaker"],
+      "website": "https://www.ossoff.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ga-002",
+      "name": "Raphael Warnock",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 65,
+      "nerdReason": "B.A. in psychology from Morehouse College, M.Div., M.Phil., and Ph.D. from Union Theological Seminary. A doctorate demonstrates deep commitment to research methodology and scholarly rigor. Senior pastor of Ebenezer Baptist Church (MLK's former church). Combines pastoral leadership with intellectual depth and evidence-based moral argumentation.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Voting Rights", "Agriculture", "Criminal Justice"],
+      "education": ["Ph.D., Union Theological Seminary", "M.Phil., Union Theological Seminary", "M.Div., Union Theological Seminary", "B.A. Psychology, Morehouse College"],
+      "experience": ["U.S. Senator since 2021", "Senior Pastor, Ebenezer Baptist Church", "Author and Scholar"],
+      "website": "https://www.warnock.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "GA-01": [
+      {
+        "id": "rep-ga-01-001",
+        "name": "Buddy Carter",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.S. in pharmacy from University of Georgia. Only pharmacist serving in Congress. Owned and operated pharmacies for over 32 years. Pharmacy education requires strong science, chemistry, and analytical skills. Applies pharmaceutical expertise directly to healthcare and drug pricing policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Pharmacy Policy", "Energy", "Economy"],
+        "education": ["B.S. Pharmacy, University of Georgia", "A.A., Young Harris College"],
+        "experience": ["U.S. Representative since 2015", "Pharmacist and Pharmacy Owner, 32 years", "Georgia State Senator", "Mayor of Pooler, GA"],
+        "website": "https://buddycarter.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-02": [
+      {
+        "id": "rep-ga-02-001",
+        "name": "Sanford Bishop",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Morehouse College and J.D. from Emory University School of Law. Career as attorney and state legislator. Long-tenured in Congress with deep appropriations expertise. Solid policy knowledge but more consensus-builder than analytical policy wonk.",
+        "keyIssues": ["Agriculture", "Defense", "Appropriations", "Veterans Affairs"],
+        "education": ["J.D., Emory University School of Law", "B.A., Morehouse College"],
+        "experience": ["U.S. Representative since 1993", "Dean of Georgia Congressional Delegation", "Georgia State Senator", "Georgia State Representative", "Attorney"],
+        "website": "https://bishop.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-03": [
+      {
+        "id": "rep-ga-03-001",
+        "name": "Brian Jack",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Pepperdine University. Career as White House political advisor under Trump administration. Political operations background with no analytical, technical, or research-driven policy approach.",
+        "keyIssues": ["Economy", "Defense", "Immigration", "Agriculture"],
+        "education": ["B.A., Pepperdine University"],
+        "experience": ["U.S. Representative since 2025", "White House Political Director", "White House Deputy Political Director", "Republican National Committee Staff"],
+        "website": "https://jack.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-04": [
+      {
+        "id": "rep-ga-04-001",
+        "name": "Hank Johnson",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Clark College and J.D. from Texas Southern University. Career as attorney, magistrate judge, and county commissioner. Legal background with focus on judiciary issues in Congress. Solid but not distinctly analytical or evidence-driven.",
+        "keyIssues": ["Judiciary", "Criminal Justice", "Defense", "Transportation"],
+        "education": ["J.D., Texas Southern University", "B.A., Clark College"],
+        "experience": ["U.S. Representative since 2007", "Associate Magistrate Judge, DeKalb County", "DeKalb County Commissioner", "Attorney"],
+        "website": "https://hankjohnson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-05": [
+      {
+        "id": "rep-ga-05-001",
+        "name": "Nikema Williams",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Jacksonville University. Career in political organizing and state politics. Chair of the Democratic Party of Georgia. Strong political organizer but no analytical or research-driven policy background.",
+        "keyIssues": ["Voting Rights", "Healthcare", "Economy", "Education"],
+        "education": ["B.A., Jacksonville University"],
+        "experience": ["U.S. Representative since 2021", "Chair, Democratic Party of Georgia", "Georgia State Senator", "Political Organizer"],
+        "website": "https://nikemawilliams.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-06": [
+      {
+        "id": "rep-ga-06-001",
+        "name": "Lucy McBath",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Virginia State University. Career as Delta Air Lines flight attendant and gun safety advocate after the murder of her son, Jordan Davis. Became national spokesperson for Everytown for Gun Safety. Passionate advocacy driven by personal experience rather than analytical frameworks.",
+        "keyIssues": ["Gun Safety", "Healthcare", "Education", "Economy"],
+        "education": ["B.A., Virginia State University"],
+        "experience": ["U.S. Representative since 2019", "National Spokesperson, Everytown for Gun Safety", "Delta Air Lines Flight Attendant", "Gun Safety Advocate"],
+        "website": "https://mcbath.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-07": [
+      {
+        "id": "rep-ga-07-001",
+        "name": "Rich McCormick",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 75,
+        "nerdReason": "B.S. from Oregon State University, M.D. from Morehouse School of Medicine, and M.B.A. from National University. Emergency room physician at Northside Hospital. Marine helicopter pilot and Navy officer with 20+ years of military service including combat deployments. Triple-credentialed with medical, business, and military analytical expertise. One of the most technically credentialed members of the House.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Defense", "Veterans Affairs", "Economy"],
+        "education": ["M.D., Morehouse School of Medicine", "M.B.A., National University", "B.S., Oregon State University"],
+        "experience": ["U.S. Representative since 2023", "Emergency Room Physician, Northside Hospital", "U.S. Marine Corps, Helicopter Pilot (20+ years)", "Combat deployments to Iraq and Afghanistan"],
+        "website": "https://mccormick.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-08": [
+      {
+        "id": "rep-ga-08-001",
+        "name": "Austin Scott",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.B.A. from University of Georgia. Career in insurance and risk management before entering politics. Business background provides practical skills but governance approach is not distinctly analytical or evidence-based.",
+        "keyIssues": ["Agriculture", "Defense", "Economy", "Veterans Affairs"],
+        "education": ["B.B.A., University of Georgia"],
+        "experience": ["U.S. Representative since 2011", "Georgia State Representative", "Insurance and Risk Management Professional"],
+        "website": "https://austinscott.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-09": [
+      {
+        "id": "rep-ga-09-001",
+        "name": "Andrew Clyde",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.B.A. and M.B.A. from University of Georgia. U.S. Navy veteran. Career as firearms retailer (Clyde Armory). Business education and military service provide structured thinking but governance approach is ideologically driven rather than analytically rigorous.",
+        "keyIssues": ["Gun Rights", "Fiscal Policy", "Defense", "Veterans Affairs"],
+        "education": ["M.B.A., University of Georgia", "B.B.A., University of Georgia"],
+        "experience": ["U.S. Representative since 2021", "U.S. Navy Veteran", "Owner, Clyde Armory", "Businessman"],
+        "website": "https://clyde.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-10": [
+      {
+        "id": "rep-ga-10-001",
+        "name": "Mike Collins",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 20,
+        "nerdReason": null,
+        "notNerdReason": "Attended Georgia Military College. Career in trucking and business. No college degree. No analytical, technical, or evidence-based policy background.",
+        "keyIssues": ["Transportation", "Economy", "Immigration", "Agriculture"],
+        "education": ["Georgia Military College (attended)"],
+        "experience": ["U.S. Representative since 2023", "Owner, Collins Trucking", "Businessman"],
+        "website": "https://collins.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-11": [
+      {
+        "id": "rep-ga-11-001",
+        "name": "Barry Loudermilk",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in information technology from Wayland Baptist University. Air Force veteran (communications). IT degree and military communications background provide some technical foundation. Founded an IT consulting company. However, governance approach not notably data-driven or evidence-based.",
+        "keyIssues": ["Technology", "Defense", "Government Reform", "Economy"],
+        "education": ["B.S. Information Technology, Wayland Baptist University"],
+        "experience": ["U.S. Representative since 2015", "U.S. Air Force Veteran (communications)", "Founder, IT Consulting Company", "Georgia State Senator", "Georgia State Representative"],
+        "website": "https://loudermilk.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-12": [
+      {
+        "id": "rep-ga-12-001",
+        "name": "Rick Allen",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in building construction from Auburn University. Founded and operated R.W. Allen & Associates construction company for 30+ years. Technical degree in construction provides engineering-adjacent analytical skills. Practical builder background but legislative approach not distinctly research-driven.",
+        "keyIssues": ["Agriculture", "Education", "Economy", "Defense"],
+        "education": ["B.S. Building Construction, Auburn University"],
+        "experience": ["U.S. Representative since 2015", "Founder, R.W. Allen & Associates (construction)", "Construction Company Owner, 30+ years"],
+        "website": "https://allen.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-13": [
+      {
+        "id": "rep-ga-13-001",
+        "name": "David Scott",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Florida A&M University and M.B.A. from the University of Pennsylvania's Wharton School of Business. Wharton MBA is one of the most analytically rigorous business programs in the world. Career in advertising and business. As Chairman of the House Agriculture Committee, applies analytical business expertise to complex agricultural and financial policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Agriculture", "Financial Services", "Healthcare", "Economy"],
+        "education": ["M.B.A., University of Pennsylvania (Wharton)", "B.A., Florida A&M University"],
+        "experience": ["U.S. Representative since 2003", "Chairman, House Agriculture Committee", "Georgia State Senator", "Georgia State Representative", "CEO, Dayn-Mark Advertising"],
+        "website": "https://davidscott.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "GA-14": []
+  }
 }

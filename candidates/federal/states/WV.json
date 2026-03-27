@@ -2,6 +2,68 @@
   "state": "WV",
   "stateName": "West Virginia",
   "stateFips": "54",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-wv-001",
+      "name": "Shelley Moore Capito",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 42,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from Duke University and M.Ed. from University of Virginia. Career as teacher, state legislator, and U.S. Representative before Senate. Duke provides strong academic foundation. Education background shows intellectual engagement. Long legislative tenure with deep expertise on infrastructure and environment. Solid but approach is more consensus-building than analytically driven.",
+      "keyIssues": ["Infrastructure", "Energy", "Environment", "Appropriations"],
+      "education": ["M.Ed., University of Virginia", "B.A., Duke University"],
+      "experience": ["U.S. Senator since 2015", "Senate Environment and Public Works Committee", "U.S. Representative, WV-02, 2001-2015", "West Virginia State Delegate", "Teacher"],
+      "website": "https://www.capito.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-wv-002",
+      "name": "Jim Justice",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 30,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from Marshall University and M.B.A. from Marshall University. Career as coal and agriculture businessman — one of West Virginia's wealthiest individuals. Governor of West Virginia. Business executive background but governance approach is more instinct-driven than evidence-based or analytical.",
+      "keyIssues": ["Energy", "Economy", "Agriculture", "Infrastructure"],
+      "education": ["M.B.A., Marshall University", "B.A., Marshall University"],
+      "experience": ["U.S. Senator since 2025", "Governor of West Virginia, 2017-2025", "Coal and Agriculture Businessman", "High School Basketball Coach"],
+      "website": "https://www.justice.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "WV-01": [
+      {
+        "id": "rep-wv-01-001",
+        "name": "Carol Miller",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Columbia University. Career in family business (auto dealership) and state legislature. Columbia provides strong academic credentials but legislative approach is not distinctly analytical or evidence-based.",
+        "keyIssues": ["Economy", "Energy", "Infrastructure", "Agriculture"],
+        "education": ["B.A., Columbia University"],
+        "experience": ["U.S. Representative since 2019", "House Ways and Means Committee", "West Virginia State Delegate", "Family Business Owner"],
+        "website": "https://miller.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WV-02": [
+      {
+        "id": "rep-wv-02-001",
+        "name": "Riley Moore",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from West Virginia University and J.D. from WVU College of Law. Career as attorney and West Virginia State Treasurer. Legal and financial management background provides analytical skills. State Treasurer role required budget and investment analysis. However, legislative record too new to assess evidence-based governance.",
+        "keyIssues": ["Energy", "Economy", "Financial Services", "Education"],
+        "education": ["J.D., West Virginia University College of Law", "B.A., West Virginia University"],
+        "experience": ["U.S. Representative since 2025", "West Virginia State Treasurer, 2021-2025", "West Virginia State Delegate", "Attorney"],
+        "website": "https://rileymoore.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

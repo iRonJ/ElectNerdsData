@@ -2,6 +2,100 @@
   "state": "UT",
   "stateName": "Utah",
   "stateFips": "49",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ut-001",
+      "name": "Mike Lee",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 58,
+      "nerdReason": "B.A. from Brigham Young University and J.D. from BYU Law School (first in class). Clerked for Supreme Court Justice Samuel Alito and Judge Dee Benson on the U.S. District Court. Assistant U.S. Attorney. Constitutional law expertise demonstrated through Supreme Court clerkship and extensive constitutional scholarship. Deep analytical approach to legal and constitutional questions.",
+      "notNerdReason": null,
+      "keyIssues": ["Constitutional Law", "Judiciary", "Public Lands", "Fiscal Policy"],
+      "education": ["J.D., Brigham Young University Law School", "B.A., Brigham Young University"],
+      "experience": ["U.S. Senator since 2011", "Law Clerk to Supreme Court Justice Samuel Alito", "Assistant U.S. Attorney", "General Counsel, Governor Jon Huntsman", "Author"],
+      "website": "https://www.lee.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ut-002",
+      "name": "John Curtis",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 45,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from Brigham Young University and M.B.A. from BYU Marriott School of Business. Career as tech executive and mayor of Provo. Business and management background. Known for climate and clean energy engagement within GOP but overall approach is more pragmatic than analytically rigorous.",
+      "keyIssues": ["Climate", "Technology", "Economy", "Public Lands"],
+      "education": ["M.B.A., Brigham Young University (Marriott School)", "B.A., Brigham Young University"],
+      "experience": ["U.S. Senator since 2025", "U.S. Representative, UT-03, 2017-2025", "Mayor of Provo, 2010-2017", "Technology Executive"],
+      "website": "https://www.curtis.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "UT-01": [
+      {
+        "id": "rep-ut-01-001",
+        "name": "Blake Moore",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Utah State University and M.B.A. from Northwestern University (Kellogg). Career as business executive. Northwestern Kellogg MBA is elite analytical training. However, legislative approach not distinctly evidence-based.",
+        "keyIssues": ["Economy", "Defense", "Natural Resources", "Technology"],
+        "education": ["M.B.A., Northwestern University (Kellogg)", "B.A., Utah State University"],
+        "experience": ["U.S. Representative since 2021", "House Ways and Means Committee", "Business Executive", "Foreign Service Officer Candidate"],
+        "website": "https://blakemoore.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "UT-02": [
+      {
+        "id": "rep-ut-02-001",
+        "name": "Celeste Maloy",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Brigham Young University and J.D. from BYU Law School. Career as attorney specializing in natural resources and public lands. Legal training provides analytical foundation but approach not distinctly evidence-based.",
+        "keyIssues": ["Public Lands", "Water", "Energy", "Agriculture"],
+        "education": ["J.D., Brigham Young University Law School", "B.A., Brigham Young University"],
+        "experience": ["U.S. Representative since 2023", "Attorney, natural resources law", "Counsel to Sen. Mike Lee and Rep. Chris Stewart"],
+        "website": "https://maloy.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "UT-03": [
+      {
+        "id": "rep-ut-03-001",
+        "name": "Mike Kennedy",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.S. from Brigham Young University, M.D. from University of Pennsylvania School of Medicine, and J.D. from BYU Law School. One of very few members of Congress holding both an M.D. and J.D. UPenn medical degree from an Ivy League institution. Practiced as a family physician. Combines deep medical scientific expertise with legal analytical training — an exceptionally rare dual credential.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Education", "Economy", "Judiciary"],
+        "education": ["J.D., Brigham Young University Law School", "M.D., University of Pennsylvania School of Medicine", "B.S., Brigham Young University"],
+        "experience": ["U.S. Representative since 2025", "Family Physician", "Utah State Senator", "Attorney"],
+        "website": "https://kennedy.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "UT-04": [
+      {
+        "id": "rep-ut-04-001",
+        "name": "Burgess Owens",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from University of Miami. Career as NFL safety (Oakland Raiders, New York Jets) and later businessman and author. Athletic and business background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Education", "Economy", "Immigration", "Veterans Affairs"],
+        "education": ["B.S., University of Miami"],
+        "experience": ["U.S. Representative since 2021", "NFL Player (Oakland Raiders Super Bowl champion, New York Jets)", "Businessman", "Author"],
+        "website": "https://owens.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

@@ -2,6 +2,308 @@
   "state": "IL",
   "stateName": "Illinois",
   "stateFips": "17",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-il-001",
+      "name": "Dick Durbin",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 58,
+      "nerdReason": "B.S.F.S. from Georgetown University School of Foreign Service and J.D. from Georgetown University Law Center. Senate's second-longest-serving member. As Senate Majority Whip and senior Judiciary Committee member, demonstrates deep procedural and constitutional expertise. Known for meticulous legislative craftsmanship and detailed policy analysis.",
+      "notNerdReason": null,
+      "keyIssues": ["Judiciary", "Immigration", "Healthcare", "Defense"],
+      "education": ["J.D., Georgetown University Law Center", "B.S.F.S., Georgetown University School of Foreign Service"],
+      "experience": ["U.S. Senator since 1997", "Senate Majority Whip", "U.S. Representative, IL-20, 1983-1997", "Attorney"],
+      "website": "https://www.durbin.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-il-002",
+      "name": "Tammy Duckworth",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 62,
+      "nerdReason": "B.A. in political science from University of Hawaii, M.A. in international affairs from George Washington University, and Ph.D. in human services from Capella University. Army Black Hawk helicopter pilot who lost both legs in Iraq. A doctorate combined with military analytical expertise and policy depth. Applies research rigor to veterans affairs, defense, and disability policy.",
+      "notNerdReason": null,
+      "keyIssues": ["Veterans Affairs", "Defense", "Disability Rights", "Transportation"],
+      "education": ["Ph.D. Human Services, Capella University", "M.A. International Affairs, George Washington University", "B.A. Political Science, University of Hawaii at Manoa"],
+      "experience": ["U.S. Senator since 2017", "U.S. Representative, IL-08, 2013-2017", "U.S. Army Lieutenant Colonel (ret.), helicopter pilot", "Assistant Secretary, U.S. Department of Veterans Affairs", "Purple Heart recipient"],
+      "website": "https://www.duckworth.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "IL-01": [
+      {
+        "id": "rep-il-01-001",
+        "name": "Jonathan Jackson",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from North Carolina A&T State University. Career in business and civic engagement. No analytical, technical, or research-based policy background.",
+        "keyIssues": ["Economy", "Education", "Healthcare", "Civil Rights"],
+        "education": ["B.A., North Carolina A&T State University"],
+        "experience": ["U.S. Representative since 2023", "National Rainbow PUSH Coalition", "Businessman"],
+        "website": "https://jonathanjackson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-02": [
+      {
+        "id": "rep-il-02-001",
+        "name": "Robin Kelly",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Bradley University, M.A. and Ph.D. in political science from Northern Illinois University. A doctorate demonstrates deep research methodology and analytical rigor. Applied policy expertise as Chief of Staff to Illinois State Treasurer and as Chief Administrative Officer of Cook County.",
+        "notNerdReason": null,
+        "keyIssues": ["Gun Violence", "Healthcare", "Technology", "Economy"],
+        "education": ["Ph.D. Political Science, Northern Illinois University", "M.A. Political Science, Northern Illinois University", "B.A., Bradley University"],
+        "experience": ["U.S. Representative since 2013", "Chief Administrative Officer, Cook County", "Chief of Staff, Illinois State Treasurer", "Illinois State Representative"],
+        "website": "https://robinkelly.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-03": [
+      {
+        "id": "rep-il-03-001",
+        "name": "Delia Ramirez",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Northern Illinois University. Career in community organizing and nonprofit leadership. Policy driven by community experience and advocacy rather than analytical or research-based frameworks.",
+        "keyIssues": ["Immigration", "Housing", "Healthcare", "Economy"],
+        "education": ["B.A., Northern Illinois University"],
+        "experience": ["U.S. Representative since 2023", "Illinois State Representative", "Community Organizer", "Nonprofit Leader"],
+        "website": "https://deliaramirez.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-04": [
+      {
+        "id": "rep-il-04-001",
+        "name": "Jesus Garcia",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Illinois Chicago. Career in community organizing, social work, and local politics. Deep community engagement but approach driven by grassroots experience rather than analytical policy frameworks.",
+        "keyIssues": ["Immigration", "Housing", "Transportation", "Economy"],
+        "education": ["B.A., University of Illinois Chicago"],
+        "experience": ["U.S. Representative since 2019", "Cook County Commissioner", "Illinois State Senator", "Community Organizer"],
+        "website": "https://chuygarcia.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-05": [
+      {
+        "id": "rep-il-05-001",
+        "name": "Mike Quigley",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Roosevelt University, M.P.A. from University of Chicago, and J.D. from Loyola University Chicago. Three post-secondary degrees spanning public administration, law, and political science. University of Chicago MPA emphasizes quantitative policy analysis. Career as Cook County commissioner and transparency advocate demonstrates data-driven governance approach.",
+        "notNerdReason": null,
+        "keyIssues": ["Appropriations", "Intelligence", "Transportation", "Government Transparency"],
+        "education": ["J.D., Loyola University Chicago", "M.P.A., University of Chicago", "B.A., Roosevelt University"],
+        "experience": ["U.S. Representative since 2009", "House Appropriations Committee", "Cook County Commissioner", "Attorney and Environmental Policy Advocate"],
+        "website": "https://quigley.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-06": [
+      {
+        "id": "rep-il-06-001",
+        "name": "Sean Casten",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 85,
+        "nerdReason": "B.A. in molecular biology and biochemistry from Middlebury College. M.S. in biochemical engineering and M.E.M. from Dartmouth's Thayer School of Engineering. Worked as a scientist at Tufts School of Medicine researching cancer. CEO of clean energy companies (Turbosteam, Recycled Energy Development). Key author of the Inflation Reduction Act. One of Congress's foremost experts on climate science and energy policy, grounding legislation in engineering and scientific data.",
+        "notNerdReason": null,
+        "keyIssues": ["Climate", "Clean Energy", "Science", "Economy"],
+        "education": ["M.S. Biochemical Engineering, Dartmouth (Thayer School of Engineering)", "M.E.M., Dartmouth (Thayer School of Engineering)", "B.A. Molecular Biology and Biochemistry, Middlebury College"],
+        "experience": ["U.S. Representative since 2019", "Key Author, Inflation Reduction Act", "President and CEO, Turbosteam Corporation", "Co-founder, Recycled Energy Development", "Research Scientist, Tufts School of Medicine"],
+        "website": "https://casten.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-07": [
+      {
+        "id": "rep-il-07-001",
+        "name": "Danny Davis",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. from Arkansas AM&N College, M.S. from Chicago State University, and Ph.D. from Union Institute & University. A doctorate demonstrates scholarly commitment. Career in health and human services administration and teaching. Combines academic credentials with decades of deep policy expertise in poverty, criminal justice reform, and healthcare.",
+        "notNerdReason": null,
+        "keyIssues": ["Criminal Justice", "Healthcare", "Poverty", "Tax Policy"],
+        "education": ["Ph.D., Union Institute & University", "M.S., Chicago State University", "B.A., Arkansas AM&N College"],
+        "experience": ["U.S. Representative since 1997", "Cook County Commissioner", "Chicago City Alderman", "Health and Human Services Administrator", "Teacher"],
+        "website": "https://davis.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-08": [
+      {
+        "id": "rep-il-08-001",
+        "name": "Raja Krishnamoorthi",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 80,
+        "nerdReason": "B.S.E. in mechanical engineering summa cum laude from Princeton University with a certificate from the Princeton School of Public and International Affairs. J.D. with honors from Harvard Law School. Combines elite engineering and legal analytical training. President of research-oriented small businesses in national security and renewable energy technology. Ranking Member of the Select Committee on China. One of the most technically credentialed members of Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "National Security", "Economy", "Education"],
+        "education": ["J.D. (honors), Harvard Law School", "B.S.E. Mechanical Engineering (summa cum laude), Princeton University"],
+        "experience": ["U.S. Representative since 2017", "Ranking Member, Select Committee on China", "President, Research and Technology Companies", "Special Assistant Attorney General, Illinois Public Integrity Unit", "Federal Judicial Law Clerk"],
+        "website": "https://krishnamoorthi.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-09": [
+      {
+        "id": "rep-il-09-001",
+        "name": "Jan Schakowsky",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Illinois. Career in consumer advocacy and state legislature. Long-tenured on Energy and Commerce Committee with strong policy engagement. Driven by consumer protection values rather than analytical frameworks.",
+        "keyIssues": ["Consumer Protection", "Healthcare", "Social Security", "Economy"],
+        "education": ["B.A., University of Illinois"],
+        "experience": ["U.S. Representative since 1999", "House Energy and Commerce Committee", "Illinois State Representative", "Program Director, Illinois Public Action Council"],
+        "website": "https://schakowsky.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-10": [
+      {
+        "id": "rep-il-10-001",
+        "name": "Brad Schneider",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.S. in industrial engineering from Northwestern University and M.B.A. from Northwestern's Kellogg School of Management. Engineering degree provides strong analytical and quantitative foundation. Career as management consultant and industrial engineer. Describes his engineering training as shaping how he approaches cause-and-effect in policymaking. Endorsed by 314 Action (STEM advocacy PAC).",
+        "notNerdReason": null,
+        "keyIssues": ["Economy", "Israel", "Small Business", "Climate"],
+        "education": ["M.B.A., Northwestern University (Kellogg)", "B.S. Industrial Engineering, Northwestern University"],
+        "experience": ["U.S. Representative (2013-2015, 2017-present)", "Management Consultant", "Industrial Engineer", "Business Director"],
+        "website": "https://schneider.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-11": [
+      {
+        "id": "rep-il-11-001",
+        "name": "Bill Foster",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 95,
+        "nerdReason": "B.S. in physics from University of Wisconsin-Madison and Ph.D. in physics from Harvard University. Particle physicist at Fermi National Accelerator Laboratory (Fermilab) for 22 years. Member of the team that discovered the top quark. Designed and built particle accelerators and scientific detectors. The only Ph.D. physicist in Congress. Brings deep scientific methodology and evidence-based reasoning to energy, technology, and financial policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Science", "Technology", "Financial Services", "Energy"],
+        "education": ["Ph.D. Physics, Harvard University", "B.S. Physics, University of Wisconsin-Madison"],
+        "experience": ["U.S. Representative (2008-2011, 2013-present)", "Particle Physicist, Fermilab, 22 years", "Co-discovered the Top Quark", "Designed and built particle accelerators", "Small Business Owner (theater lighting company)"],
+        "website": "https://foster.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-12": [
+      {
+        "id": "rep-il-12-001",
+        "name": "Mike Bost",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 20,
+        "nerdReason": null,
+        "notNerdReason": "Attended University of Illinois Certified Firefighters Academy. U.S. Marine Corps veteran. Career as firefighter and state legislator. No college degree or analytical/research-based policy background.",
+        "keyIssues": ["Veterans Affairs", "Agriculture", "Gun Rights", "Economy"],
+        "education": ["University of Illinois Certified Firefighters Academy"],
+        "experience": ["U.S. Representative since 2015", "Chairman, House Veterans' Affairs Committee", "Illinois State Representative, 1995-2015", "U.S. Marine Corps", "Firefighter"],
+        "website": "https://bost.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-13": [
+      {
+        "id": "rep-il-13-001",
+        "name": "Nikki Budzinski",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from George Mason University. Career in labor policy and government. Served as senior advisor in the Biden White House Office of Management and Budget. OMB experience shows budget and data engagement, but overall career is in political operations and labor advocacy rather than analytical rigor.",
+        "keyIssues": ["Labor", "Healthcare", "Economy", "Agriculture"],
+        "education": ["B.A., George Mason University"],
+        "experience": ["U.S. Representative since 2023", "Senior Advisor, White House Office of Management and Budget", "Chief of Staff, Illinois Governor's Office", "Labor Union Organizer"],
+        "website": "https://budzinski.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-14": [
+      {
+        "id": "rep-il-14-001",
+        "name": "Lauren Underwood",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 72,
+        "nerdReason": "B.S. in nursing from University of Michigan, M.S. in nursing and M.P.H. from Johns Hopkins University. Registered nurse with dual master's degrees from a world-class public health institution. Served as senior advisor at HHS during the ACA implementation. Applies clinical nursing expertise and public health research methodology to healthcare legislation. Teaches at Georgetown University School of Nursing.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Maternal Health", "Veterans Affairs", "Economy"],
+        "education": ["M.P.H., Johns Hopkins University", "M.S. Nursing, Johns Hopkins University", "B.S. Nursing, University of Michigan"],
+        "experience": ["U.S. Representative since 2019", "Registered Nurse", "Senior Advisor, U.S. Department of Health and Human Services", "Adjunct Instructor, Georgetown University School of Nursing"],
+        "website": "https://underwood.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-15": [
+      {
+        "id": "rep-il-15-001",
+        "name": "Mary Miller",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 15,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Eastern Illinois University. Career as farmer and homemaker before Congress. No analytical, technical, or evidence-based policy background. Legislative approach driven by ideology rather than data or expertise.",
+        "keyIssues": ["Agriculture", "Gun Rights", "Education", "Immigration"],
+        "education": ["B.A., Eastern Illinois University"],
+        "experience": ["U.S. Representative since 2021", "Farmer", "Homemaker"],
+        "website": "https://marymiller.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-16": [
+      {
+        "id": "rep-il-16-001",
+        "name": "Darin LaHood",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Loras College and J.D. from John Marshall Law School. Career as federal prosecutor and state senator. Son of former Transportation Secretary Ray LaHood. Legal and prosecutorial background shows analytical skills but governance approach is not distinctly research-driven or evidence-based.",
+        "keyIssues": ["Agriculture", "Tax Policy", "Trade", "National Security"],
+        "education": ["J.D., John Marshall Law School", "B.A., Loras College"],
+        "experience": ["U.S. Representative since 2015", "House Ways and Means Committee", "House Intelligence Committee", "Federal Prosecutor", "Illinois State Senator"],
+        "website": "https://lahood.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "IL-17": [
+      {
+        "id": "rep-il-17-001",
+        "name": "Eric Sorensen",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. from University of Iowa. Career as TV meteorologist for 22 years, requiring understanding of atmospheric science, data interpretation, and climate patterns. Became a leading voice on climate change in Congress, grounding arguments in meteorological expertise. First openly gay member of Congress from Illinois. Science communication background gives him unique data-literacy among members.",
+        "notNerdReason": null,
+        "keyIssues": ["Climate", "Agriculture", "Veterans Affairs", "Economy"],
+        "education": ["B.A., University of Iowa"],
+        "experience": ["U.S. Representative since 2023", "TV Meteorologist, 22 years", "Climate and Weather Communicator"],
+        "website": "https://sorensen.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }
