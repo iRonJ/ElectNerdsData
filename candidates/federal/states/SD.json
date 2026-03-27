@@ -2,6 +2,52 @@
   "state": "SD",
   "stateName": "South Dakota",
   "stateFips": "46",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-sd-001",
+      "name": "John Thune",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 50,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from Biola University and M.B.A. from University of South Dakota. Senate Majority Leader — the highest-ranking Republican in Congress. MBA provides business analytical skills. Decades of legislative expertise in commerce, agriculture, and tax policy. Strong institutional knowledge but approach is more politically strategic than evidence-based.",
+      "keyIssues": ["Commerce", "Agriculture", "Tax Policy", "Technology"],
+      "education": ["M.B.A., University of South Dakota", "B.A., Biola University"],
+      "experience": ["U.S. Senator since 2005", "Senate Majority Leader since 2025", "Senate Republican Whip", "U.S. Representative, SD At-Large, 1997-2003"],
+      "website": "https://www.thune.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-sd-002",
+      "name": "Mike Rounds",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 35,
+      "nerdReason": null,
+      "notNerdReason": "B.S. from South Dakota State University. Career in insurance, real estate, and state politics. Governor of South Dakota. Business background. No distinctly analytical or evidence-based policy approach.",
+      "keyIssues": ["Defense", "Banking", "Veterans Affairs", "Agriculture"],
+      "education": ["B.S., South Dakota State University"],
+      "experience": ["U.S. Senator since 2015", "Senate Armed Services Committee", "Governor of South Dakota, 2003-2011", "South Dakota State Senator", "Insurance Executive"],
+      "website": "https://www.rounds.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "SD-01": [
+      {
+        "id": "rep-sd-01-001",
+        "name": "Dusty Johnson",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and M.B.A. from University of South Dakota. Career as Public Utilities Commissioner, governor's chief of staff, and business executive. MBA and regulatory experience provide analytical skills. Known as pragmatic, bipartisan problem-solver but not distinctly evidence-based in legislative approach.",
+        "keyIssues": ["Agriculture", "Technology", "Transportation", "Economy"],
+        "education": ["M.B.A., University of South Dakota", "B.A., University of South Dakota"],
+        "experience": ["U.S. Representative since 2019", "Chief of Staff to Gov. Dennis Daugaard", "South Dakota Public Utilities Commissioner", "VP, Vantage Point Solutions"],
+        "website": "https://dustyjohnson.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

@@ -5,63 +5,653 @@
   "senators": [
     {
       "id": "sen-tx-001",
-      "name": "Sen. Dale Briggs",
+      "name": "Ted Cruz",
       "party": "Republican",
       "isNerd": false,
-      "nerdScore": 21,
+      "nerdScore": 42,
       "nerdReason": null,
-      "notNerdReason": "Repeatedly denied peer-reviewed climate science on Senate floor. Defunded EPA research grants. Opposed evidence-based sex education despite CDC data on teen pregnancy.",
-      "keyIssues": ["Energy", "Defense", "Immigration"],
-      "education": ["J.D. University of Texas Law"],
-      "experience": ["U.S. Senator", "State Attorney General", "Lawyer"],
-      "website": null,
+      "notNerdReason": "B.A. summa cum laude (Phi Beta Kappa) from Princeton University and J.D. magna cum laude from Harvard Law School (editor of Harvard Law Review). Clerked for Chief Justice William Rehnquist. Exceptional academic credentials. However, was a key promoter of 2020 election fraud claims — a documented rejection of evidence — and has staked out anti-climate-consensus positions. Legislative behavior contradicts the analytical rigor his credentials would suggest.",
+      "keyIssues": ["Judiciary", "Energy", "Immigration", "Defense"],
+      "education": ["J.D. (magna cum laude), Harvard Law School", "B.A. (summa cum laude, Phi Beta Kappa), Princeton University"],
+      "experience": ["U.S. Senator since 2013", "Texas Solicitor General", "Law Clerk to Chief Justice William Rehnquist", "2016 Presidential Candidate", "Attorney"],
+      "website": "https://www.cruz.senate.gov/",
       "imageUrl": null
     },
     {
       "id": "sen-tx-002",
-      "name": "Sen. Marcus Webb",
+      "name": "John Cornyn",
       "party": "Republican",
       "isNerd": false,
-      "nerdScore": 34,
+      "nerdScore": 48,
       "nerdReason": null,
-      "notNerdReason": "Dismissed USDA agricultural data in favor of industry talking points. Voted to cut National Weather Service funding. However, does cite DOD and economic data selectively.",
-      "keyIssues": ["Agriculture", "Energy", "Defense"],
-      "education": ["B.A. Business, Texas A&M"],
-      "experience": ["U.S. Senator", "Rancher", "State Senator"],
-      "website": null,
+      "notNerdReason": "B.A. from Trinity University, J.D. from St. Mary's University School of Law, and LL.M. from University of Virginia School of Law. Career as Texas Supreme Court Justice, Attorney General, and senator. Three law degrees. Deep judicial and legal analytical expertise but governance approach not distinctly evidence-based.",
+      "keyIssues": ["Judiciary", "Defense", "Healthcare", "Immigration"],
+      "education": ["LL.M., University of Virginia School of Law", "J.D., St. Mary's University School of Law", "B.A., Trinity University"],
+      "experience": ["U.S. Senator since 2003", "Texas Attorney General, 1999-2002", "Texas Supreme Court Justice", "Bexar County District Judge"],
+      "website": "https://www.cornyn.senate.gov/",
       "imageUrl": null
     }
   ],
   "house": {
+    "TX-01": [
+      {
+        "id": "rep-tx-01-001",
+        "name": "Nathaniel Moran",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Hardin-Simmons University and J.D. from Baylor University School of Law. Career as attorney and Smith County Judge. Legal and judicial background provides analytical skills but governance approach not distinctly evidence-based.",
+        "keyIssues": ["Energy", "Agriculture", "Defense", "Economy"],
+        "education": ["J.D., Baylor University School of Law", "B.A., Hardin-Simmons University"],
+        "experience": ["U.S. Representative since 2023", "Smith County Judge", "Attorney"],
+        "website": "https://moran.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-02": [
+      {
+        "id": "rep-tx-02-001",
+        "name": "Dan Crenshaw",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. from Tufts University and M.S. in defense analysis from Harvard Kennedy School (international security). Navy SEAL officer who lost his eye to an IED in Afghanistan. Harvard Kennedy School master's in defense analysis demonstrates rigorous analytical engagement with security and foreign policy. Applies strategic thinking and defense research expertise to national security and defense policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Energy", "Homeland Security", "Economy"],
+        "education": ["M.S. Defense Analysis, Harvard Kennedy School", "B.A., Tufts University"],
+        "experience": ["U.S. Representative since 2019 (lost 2026 Republican primary to Steve Toth, serving through Jan 2027)", "U.S. Navy SEAL", "10 deployments including combat in Iraq and Afghanistan", "Author"],
+        "website": "https://crenshaw.house.gov/",
+        "imageUrl": null
+      },
+      {
+        "id": "rep-tx-02-002",
+        "name": "Steve Toth",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 15,
+        "nerdReason": null,
+        "notNerdReason": "Attended Rochester Bible College. Career as pool company owner, former pastor, and Texas state representative. No traditional academic credentials or analytical policy background. Won the March 2026 Republican primary defeating Crenshaw 56%-41%. Faces Democrat Shaun Finnie in November 2026 general election.",
+        "keyIssues": ["Defense", "Immigration", "Economy", "Energy"],
+        "education": ["Rochester Bible College"],
+        "experience": ["Republican nominee, TX-02, November 2026 general election", "Texas State Representative, District 15", "Owner, Acclaim Pools and My Pool Xpert", "Former Pastor, Fellowship of The Woodlands"],
+        "website": null,
+        "imageUrl": null
+      }
+    ],
+    "TX-03": [
+      {
+        "id": "rep-tx-03-001",
+        "name": "Keith Self",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from U.S. Military Academy at West Point and M.A. from University of Texas at Dallas. Army Reserve officer. West Point provides strong analytical foundation. Career as Collin County Judge. Military and judicial background provides structured thinking but legislative approach not distinctly evidence-based.",
+        "keyIssues": ["Economy", "Defense", "Veterans Affairs", "Government Reform"],
+        "education": ["M.A., University of Texas at Dallas", "B.S., U.S. Military Academy at West Point"],
+        "experience": ["U.S. Representative since 2023", "Collin County Judge", "U.S. Army Reserve, Brigadier General"],
+        "website": "https://self.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-04": [
+      {
+        "id": "rep-tx-04-001",
+        "name": "Pat Fallon",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Notre Dame. Career in Texas state legislature. Notre Dame education provides intellectual foundation but no analytical or evidence-based policy approach.",
+        "keyIssues": ["Defense", "Economy", "Veterans Affairs", "Government Reform"],
+        "education": ["B.A., University of Notre Dame"],
+        "experience": ["U.S. Representative since 2021", "Texas State Senate", "Texas State House", "Air Force Reserve"],
+        "website": "https://fallon.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-05": [
+      {
+        "id": "rep-tx-05-001",
+        "name": "Lance Gooden",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Texas at Austin. Career in state legislature. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Immigration", "Defense", "Energy"],
+        "education": ["B.A., University of Texas at Austin"],
+        "experience": ["U.S. Representative since 2019", "Texas State House", "Businessman"],
+        "website": "https://gooden.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-06": [
+      {
+        "id": "rep-tx-06-001",
+        "name": "Jake Ellzey",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Emory University and M.S. from University of Texas Pan American. U.S. Navy pilot. Career as airline pilot, Texas state rep. Military flight training requires precision and analytical skills but legislative approach not distinctly evidence-based.",
+        "keyIssues": ["Defense", "Veterans Affairs", "Energy", "Economy"],
+        "education": ["M.S., University of Texas Pan American", "B.S., Emory University"],
+        "experience": ["U.S. Representative since 2021", "U.S. Navy and National Guard Pilot", "Airline Pilot", "Texas State Representative"],
+        "website": "https://ellzey.house.gov/",
+        "imageUrl": null
+      }
+    ],
     "TX-07": [
       {
         "id": "rep-tx-07-001",
-        "name": "Dr. Priya Nair",
+        "name": "Lizzie Fletcher",
         "party": "Democratic",
         "isNerd": true,
-        "nerdScore": 90,
-        "nerdReason": "M.D. cardiologist. Consistently cites AHA and WHO data. Authored the Healthcare Cost Transparency Act using CMS data analysis.",
+        "nerdScore": 52,
+        "nerdReason": "B.A. from Dartmouth College and J.D. from New York University School of Law. Career as attorney in complex commercial litigation. Dartmouth + NYU Law represents elite analytical education. Deep expertise in energy, healthcare, and technology policy. Known for methodical, evidence-based approach to legislation.",
         "notNerdReason": null,
-        "keyIssues": ["Healthcare", "Education", "Infrastructure"],
-        "education": ["M.D. Baylor College of Medicine", "B.S. Biochemistry, Rice University"],
-        "experience": ["U.S. Representative", "Cardiologist", "Medical School Professor"],
-        "website": null,
+        "keyIssues": ["Energy", "Healthcare", "Technology", "Economy"],
+        "education": ["J.D., New York University School of Law", "B.A., Dartmouth College"],
+        "experience": ["U.S. Representative since 2019", "House Science Committee", "House Energy and Commerce Committee", "Commercial Litigation Attorney"],
+        "website": "https://fletcher.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-08": [
+      {
+        "id": "rep-tx-08-001",
+        "name": "Morgan Luttrell",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Sam Houston State University and M.S. from Texas A&M. Navy SEAL. Career as neuroscience-focused veteran advocate after sustaining traumatic brain injury. Has done advocacy work grounded in medical research on TBI. Military background provides analytical discipline but legislative record too limited.",
+        "keyIssues": ["Veterans Affairs", "Defense", "Energy", "Healthcare"],
+        "education": ["M.S., Texas A&M University", "B.A., Sam Houston State University"],
+        "experience": ["U.S. Representative since 2023", "U.S. Navy SEAL", "Traumatic Brain Injury Advocate"],
+        "website": "https://luttrell.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-09": [
+      {
+        "id": "rep-tx-09-001",
+        "name": "Al Green",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Florida A&M University and J.D. from Texas Southern University. Career as attorney, HUD administrator, and state legislator. Legal training provides analytical skills. Long-tenured member with deep expertise on civil rights and financial services. Approach is more advocacy-driven than analytically rigorous.",
+        "keyIssues": ["Civil Rights", "Financial Services", "Economy", "Housing"],
+        "education": ["J.D., Texas Southern University", "B.A., Florida A&M University"],
+        "experience": ["U.S. Representative since 2005", "House Financial Services Committee", "HUD Administrator", "Justice of the Peace", "Attorney"],
+        "website": "https://algreen.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-10": [
+      {
+        "id": "rep-tx-10-001",
+        "name": "Michael McCaul",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Trinity University and J.D. from St. Mary's University School of Law. Career as federal prosecutor and homeland security expert. Former Chairman of House Homeland Security Committee. Legal and national security analytical skills but governance approach not distinctly research-driven.",
+        "keyIssues": ["Foreign Affairs", "Homeland Security", "Defense", "Economy"],
+        "education": ["J.D., St. Mary's University School of Law", "B.A., Trinity University"],
+        "experience": ["U.S. Representative since 2005", "Former Chair, House Foreign Affairs Committee", "Former Chair, House Homeland Security Committee", "Federal Prosecutor"],
+        "website": "https://mccaul.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-11": [
+      {
+        "id": "rep-tx-11-001",
+        "name": "August Pfluger",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.S. from U.S. Military Academy at West Point, M.S. from Naval Postgraduate School, and M.S. from National Intelligence University. Three degrees including specialized graduate work in intelligence and national security. Air Force fighter pilot and National Security Council senior director. Combines rigorous USMA education with intelligence analysis expertise at the highest level of government.",
+        "notNerdReason": null,
+        "keyIssues": ["Energy", "Defense", "Intelligence", "Agriculture"],
+        "education": ["M.S., National Intelligence University", "M.S., Naval Postgraduate School", "B.S., U.S. Military Academy at West Point"],
+        "experience": ["U.S. Representative since 2021", "Senior Director, National Security Council", "U.S. Air Force Fighter Pilot"],
+        "website": "https://pfluger.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-12": [
+      {
+        "id": "rep-tx-12-001",
+        "name": "Craig Goldman",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "Career as businessman and Texas state legislator. Replaced Kay Granger who retired. New member with limited public record of analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Defense", "Energy", "Agriculture"],
+        "education": ["College education"],
+        "experience": ["U.S. Representative since 2025", "Texas State House", "Businessman"],
+        "website": "https://goldman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-13": [
+      {
+        "id": "rep-tx-13-001",
+        "name": "Ronny Jackson",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Texas A&M University and M.D. from University of Texas Health Science Center. Former White House physician to three presidents. Medical degree represents genuine scientific training. However, has spread medical misinformation, including false claims about COVID vaccines, contradicting evidence-based medicine. Clinical credentials do not match legislative behavior on health science.",
+        "keyIssues": ["Veterans Affairs", "Agriculture", "Defense", "Border Security"],
+        "education": ["M.D., University of Texas Health Science Center", "B.S., Texas A&M University"],
+        "experience": ["U.S. Representative since 2021", "White House Physician (Obama, Trump, Biden)", "U.S. Navy, Rear Admiral (ret.)"],
+        "website": "https://jackson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-14": [
+      {
+        "id": "rep-tx-14-001",
+        "name": "Randy Weber",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Lamar University. Career as air conditioning and refrigeration contractor. Has denied climate science consensus. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Energy", "Defense", "Immigration", "Economy"],
+        "education": ["B.S., Lamar University"],
+        "experience": ["U.S. Representative since 2013", "Air Conditioning and Refrigeration Contractor", "Texas State House"],
+        "website": "https://weber.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-15": [
+      {
+        "id": "rep-tx-15-001",
+        "name": "Monica De La Cruz",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Texas Pan American. Career as businesswoman and insurance agent. No analytical or evidence-based policy background.",
+        "keyIssues": ["Border Security", "Agriculture", "Economy", "Veterans Affairs"],
+        "education": ["B.A., University of Texas Pan American"],
+        "experience": ["U.S. Representative since 2023", "Businesswoman", "Insurance Agent"],
+        "website": "https://delacruz.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-16": [
+      {
+        "id": "rep-tx-16-001",
+        "name": "Veronica Escobar",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UTEP and M.A. from University of Texas at Austin. Career as county judge and state legislator. Graduate degree and judicial career provide analytical training. Deep expertise in immigration and border policy. Solid credentials but approach not distinctly evidence-based.",
+        "keyIssues": ["Immigration", "Economy", "Veterans Affairs", "Education"],
+        "education": ["M.A., University of Texas at Austin", "B.A., UTEP"],
+        "experience": ["U.S. Representative since 2019", "El Paso County Judge", "El Paso Community College Board"],
+        "website": "https://escobar.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-17": [
+      {
+        "id": "rep-tx-17-001",
+        "name": "Pete Sessions",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Southwestern University. Career at Southwestern Bell and in Congress. Business and political career. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Defense", "Agriculture", "Economy", "Government Reform"],
+        "education": ["B.A., Southwestern University"],
+        "experience": ["U.S. Representative (1997-2019, 2021-present)", "House Rules Committee", "Telecommunications Industry"],
+        "website": "https://sessions.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-18": [
+      {
+        "id": "rep-tx-18-001",
+        "name": "Christian Menefee",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. from Duke University and J.D. from University of Texas School of Law. Career as commercial litigator. Served as Harris County Attorney — youngest and first Black person in that role — applying legal and policy expertise to public health, environmental enforcement, and civil rights. Duke + UT Law demonstrates strong analytical legal training applied to public interest work.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Civil Rights", "Economy", "Environment"],
+        "education": ["J.D., University of Texas School of Law", "B.A., Duke University"],
+        "experience": ["U.S. Representative since February 2026 (special election)", "Harris County Attorney, 2020-2025", "Commercial Litigation Attorney"],
+        "website": "https://menefee.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-19": [
+      {
+        "id": "rep-tx-19-001",
+        "name": "Jodey Arrington",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A., M.A., and Ph.D. all from Texas Tech University. Former President of the George W. Bush Institute — a policy research center. A doctorate plus leadership of a major policy research institution demonstrates deep scholarly and analytical engagement. Applies research-backed approaches to budget and agriculture policy as Chairman of the House Budget Committee.",
+        "notNerdReason": null,
+        "keyIssues": ["Budget", "Agriculture", "Tax Policy", "Energy"],
+        "education": ["Ph.D., Texas Tech University", "M.A., Texas Tech University", "B.A., Texas Tech University"],
+        "experience": ["U.S. Representative since 2017", "Chairman, House Budget Committee", "President, George W. Bush Institute", "Advisor in Bush White House", "Texas Tech Chancellor's Office"],
+        "website": "https://arrington.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-20": [
+      {
+        "id": "rep-tx-20-001",
+        "name": "Joaquin Castro",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Stanford University and J.D. from Harvard Law School. Career as attorney and state legislator. Twin brother of former HUD Secretary Julián Castro. Stanford + Harvard Law represents exceptional analytical academic training. Serves on House Intelligence and Armed Services committees. Applies legal analytical expertise to national security and foreign policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Foreign Affairs", "Intelligence", "Education", "Immigration"],
+        "education": ["J.D., Harvard Law School", "B.A., Stanford University"],
+        "experience": ["U.S. Representative since 2013", "House Intelligence Committee", "House Armed Services Committee", "Texas State House", "Attorney"],
+        "website": "https://castro.house.gov/",
         "imageUrl": null
       }
     ],
     "TX-21": [
       {
         "id": "rep-tx-21-001",
-        "name": "Rep. Conner Hughes",
+        "name": "Chip Roy",
         "party": "Republican",
         "isNerd": false,
-        "nerdScore": 30,
+        "nerdScore": 35,
         "nerdReason": null,
-        "notNerdReason": "Voted against National Science Foundation funding. Cited debunked statistics on immigration crime. Opposed USGS earthquake monitoring expansion.",
-        "keyIssues": ["Energy", "Economy", "Border"],
-        "education": ["B.A. Finance, Baylor University"],
-        "experience": ["U.S. Representative", "Oil & Gas Executive"],
-        "website": null,
+        "notNerdReason": "B.A. from University of Virginia and J.D. from University of Texas School of Law. Career as Texas Attorney General chief of staff and congressional staffer. Legal background but legislative approach is aggressively ideological rather than evidence-based.",
+        "keyIssues": ["Fiscal Policy", "Immigration", "Government Reform", "Defense"],
+        "education": ["J.D., University of Texas School of Law", "B.A., University of Virginia"],
+        "experience": ["U.S. Representative since 2019", "Chief of Staff, Texas Attorney General", "Texas Republican Party", "Attorney"],
+        "website": "https://roy.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-22": [
+      {
+        "id": "rep-tx-22-001",
+        "name": "Troy Nehls",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 20,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Chadron State College. Career as Fort Bend County Sheriff. Law enforcement background with no analytical or evidence-based policy approach.",
+        "keyIssues": ["Law Enforcement", "Border Security", "Veterans Affairs", "Economy"],
+        "education": ["B.S., Chadron State College"],
+        "experience": ["U.S. Representative since 2021", "Fort Bend County Sheriff", "Police Officer"],
+        "website": "https://nehls.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-23": [
+      {
+        "id": "rep-tx-23-001",
+        "name": "Tony Gonzales",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Wayland Baptist University and M.A. from American Military University. Career as Navy cryptologist. Military intelligence career provides some analytical training. Known for moderate positions on immigration but approach not distinctly evidence-based.",
+        "keyIssues": ["Border Security", "Defense", "Agriculture", "Veterans Affairs"],
+        "education": ["M.A., American Military University", "B.S., Wayland Baptist University"],
+        "experience": ["U.S. Representative since 2021", "U.S. Navy Cryptologist, 20 years"],
+        "website": "https://gonzales.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-24": [
+      {
+        "id": "rep-tx-24-001",
+        "name": "Beth Van Duyne",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.S. from Colgate University and M.P.P. from Harvard Kennedy School. Career as technology company executive and mayor of Irving, TX. Harvard Kennedy School provides elite policy analysis training. Applied data-driven governance to city management. Tech executive background adds analytical skills. Known for detailed policy work on housing and small business.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Small Business", "Economy", "Veterans Affairs"],
+        "education": ["M.P.P., Harvard Kennedy School", "B.S., Colgate University"],
+        "experience": ["U.S. Representative since 2021", "Mayor of Irving, TX", "Technology Company Executive", "HUD official"],
+        "website": "https://vanduyne.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-25": [
+      {
+        "id": "rep-tx-25-001",
+        "name": "Roger Williams",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Texas Christian University. Career as car dealership owner and Texas Secretary of State. Business background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Financial Services", "Economy", "Small Business", "Agriculture"],
+        "education": ["B.A., Texas Christian University"],
+        "experience": ["U.S. Representative since 2013", "Texas Secretary of State", "Car Dealership Owner"],
+        "website": "https://williams.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-26": [
+      {
+        "id": "rep-tx-26-001",
+        "name": "Brandon Gill",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Texas A&M University and J.D. from University of Texas School of Law. Career as attorney. Replaced Michael Burgess who retired. New member with limited public record of analytical or evidence-based policy approach.",
+        "keyIssues": ["Defense", "Economy", "Energy", "Immigration"],
+        "education": ["J.D., University of Texas School of Law", "B.A., Texas A&M University"],
+        "experience": ["U.S. Representative since 2025", "Attorney"],
+        "website": "https://gill.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-27": [
+      {
+        "id": "rep-tx-27-001",
+        "name": "Michael Cloud",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 20,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Oral Roberts University. Career as small business owner and state legislator. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Agriculture", "Defense", "Economy", "Government Spending"],
+        "education": ["B.A., Oral Roberts University"],
+        "experience": ["U.S. Representative since 2018", "Small Business Owner", "Texas State Representative"],
+        "website": "https://cloud.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-28": [
+      {
+        "id": "rep-tx-28-001",
+        "name": "Henry Cuellar",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.A. from Georgetown University, M.A. from Texas A&M International University, J.D. from St. Mary's University School of Law, and Ph.D. in international development from University of Texas at Austin. Four degrees including a doctorate. Deep interdisciplinary scholarly training across law, international development, and policy. Applies research expertise to border, trade, and appropriations policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Border", "Trade", "Appropriations", "Foreign Affairs"],
+        "education": ["Ph.D. International Development, University of Texas at Austin", "J.D., St. Mary's University School of Law", "M.A., Texas A&M International University", "B.A., Georgetown University"],
+        "experience": ["U.S. Representative since 2005", "House Appropriations Committee", "Texas Secretary of State", "Texas State House", "Attorney"],
+        "website": "https://cuellar.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-29": [
+      {
+        "id": "rep-tx-29-001",
+        "name": "Sylvia Garcia",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and J.D. from Texas Southern University. Career as attorney, Harris County commissioner, and state senator. Legal training provides analytical skills. Deep expertise in housing, healthcare, and constituent services. Solid but approach not distinctly research-driven.",
+        "keyIssues": ["Healthcare", "Housing", "Economy", "Immigration"],
+        "education": ["J.D., Texas Southern University", "B.A., Texas Southern University"],
+        "experience": ["U.S. Representative since 2019", "House Judiciary Committee", "Harris County Commissioner", "Houston Municipal Court Presiding Judge", "Attorney"],
+        "website": "https://sylviagarcia.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-30": [
+      {
+        "id": "rep-tx-30-001",
+        "name": "Jasmine Crockett",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Houston and J.D. from University of Houston Law Center. Career as attorney with focus on civil rights and criminal defense. Houston law degree provides analytical legal training. Deep advocacy for civil rights and criminal justice. Solid but approach is more advocacy-driven than analytically rigorous.",
+        "keyIssues": ["Civil Rights", "Criminal Justice", "Healthcare", "Economy"],
+        "education": ["J.D., University of Houston Law Center", "B.A., University of Houston"],
+        "experience": ["U.S. Representative since 2023", "House Oversight Committee", "Civil Rights and Criminal Defense Attorney", "Texas State Representative"],
+        "website": "https://crockett.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-31": [
+      {
+        "id": "rep-tx-31-001",
+        "name": "John Carter",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Texas Tech University and J.D. from University of Texas School of Law. Career as attorney, Williamson County judge, and congressman. Legal and judicial background provides analytical skills but governance approach not distinctly evidence-based.",
+        "keyIssues": ["Defense", "Appropriations", "Veterans Affairs", "Agriculture"],
+        "education": ["J.D., University of Texas School of Law", "B.A., Texas Tech University"],
+        "experience": ["U.S. Representative since 2003", "House Appropriations Committee", "Williamson County District Judge", "Attorney"],
+        "website": "https://carter.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-32": [
+      {
+        "id": "rep-tx-32-001",
+        "name": "Julie Johnson",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Texas A&M University and J.D. from Southern Methodist University (Dedman). Career as attorney and state legislator. SMU Law provides strong analytical training. Deep policy expertise on LGBTQ+ rights and healthcare. Solid credentials but approach not distinctly research-driven.",
+        "keyIssues": ["LGBTQ+ Rights", "Healthcare", "Economy", "Education"],
+        "education": ["J.D., Southern Methodist University Dedman School of Law", "B.A., Texas A&M University"],
+        "experience": ["U.S. Representative since 2025", "Texas State House", "Attorney"],
+        "website": "https://johnson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-33": [
+      {
+        "id": "rep-tx-33-001",
+        "name": "Marc Veasey",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Texas Wesleyan University. Career in state legislature. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Veterans Affairs", "Education", "Healthcare"],
+        "education": ["B.A., Texas Wesleyan University"],
+        "experience": ["U.S. Representative since 2013", "Texas State House", "Fort Worth City Council"],
+        "website": "https://veasey.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-34": [
+      {
+        "id": "rep-tx-34-001",
+        "name": "Vicente Gonzalez",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Texas Pan American and J.D. from Texas Wesleyan University School of Law. Career as attorney. Legal training provides analytical skills but governance approach not distinctly research-driven.",
+        "keyIssues": ["Agriculture", "Border", "Healthcare", "Economy"],
+        "education": ["J.D., Texas Wesleyan University School of Law", "B.A., University of Texas Pan American"],
+        "experience": ["U.S. Representative (TX-15, 2017-2023; TX-34, 2023-present)", "Trial Attorney"],
+        "website": "https://gonzalez.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-35": [
+      {
+        "id": "rep-tx-35-001",
+        "name": "Greg Casar",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Texas at Austin. Career as labor organizer and Austin City Council member. Advocacy and community organizing background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Labor", "Housing", "Economy", "Immigration"],
+        "education": ["B.A., University of Texas at Austin"],
+        "experience": ["U.S. Representative since 2023", "Austin City Council", "Labor Organizer"],
+        "website": "https://casar.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-36": [
+      {
+        "id": "rep-tx-36-001",
+        "name": "Brian Babin",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.S. from Lamar University and D.D.S. from University of Texas Health Science Center Houston. Practiced dentistry for over 20 years. Dental degree requires rigorous science education. Serves on the House Science Committee. Applies health sciences background to healthcare and science policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Space", "Science", "Veterans Affairs", "Energy"],
+        "education": ["D.D.S., University of Texas Health Science Center Houston", "B.S., Lamar University"],
+        "experience": ["U.S. Representative since 2015", "House Science Committee", "Dentist, 20+ years", "Woodville City Council"],
+        "website": "https://babin.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-37": [
+      {
+        "id": "rep-tx-37-001",
+        "name": "Lloyd Doggett",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. summa cum laude from University of Texas at Austin and J.D. from University of Texas School of Law (editor, Texas Law Review). Former Texas Supreme Court Justice. Dean of Texas Democrats. Known for meticulous, detailed analysis of healthcare, tax, and fiscal policy. Texas Law Review editorship demonstrates exceptional legal analytical rigor applied over decades of legislative service.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Tax Policy", "Social Security", "Democracy"],
+        "education": ["J.D. (Texas Law Review Editor), University of Texas School of Law", "B.A. (summa cum laude), University of Texas at Austin"],
+        "experience": ["U.S. Representative since 1995", "House Ways and Means Committee", "Texas Supreme Court Justice", "Texas State Senate"],
+        "website": "https://doggett.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TX-38": [
+      {
+        "id": "rep-tx-38-001",
+        "name": "Wesley Hunt",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.S. from U.S. Military Academy at West Point and M.B.A. from Cornell University Johnson School. U.S. Army Apache helicopter pilot with combat service in Iraq. West Point + Cornell MBA represents rigorous analytical academic credentials. Combined military analytical discipline with elite business education. Applies strategic thinking to defense and energy policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Energy", "Defense", "Veterans Affairs", "Economy"],
+        "education": ["M.B.A., Cornell University Johnson School", "B.S., U.S. Military Academy at West Point"],
+        "experience": ["U.S. Representative since 2023", "U.S. Army, Apache Helicopter Pilot (Iraq)", "Business Executive"],
+        "website": "https://hunt.house.gov/",
         "imageUrl": null
       }
     ]

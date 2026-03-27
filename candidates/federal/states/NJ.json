@@ -2,6 +2,213 @@
   "state": "NJ",
   "stateName": "New Jersey",
   "stateFips": "34",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-nj-001",
+      "name": "Cory Booker",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 72,
+      "nerdReason": "B.A. from Stanford University (Phi Beta Kappa), M.A. from Oxford University as a Rhodes Scholar, and J.D. from Yale Law School. Triple-elite education spanning Stanford, Oxford, and Yale. Career as Newark mayor who applied data-driven approaches to urban governance. Known for meticulous policy work on criminal justice reform, food policy, and housing. Rhodes Scholar credential represents exceptional academic and analytical achievement.",
+      "notNerdReason": null,
+      "keyIssues": ["Criminal Justice", "Environment", "Economy", "Foreign Affairs"],
+      "education": ["J.D., Yale Law School", "M.A., Oxford University (Rhodes Scholar)", "B.A. (Phi Beta Kappa), Stanford University"],
+      "experience": ["U.S. Senator since 2013", "Mayor of Newark, NJ, 2006-2013", "Newark City Council", "2020 Presidential Candidate", "Attorney"],
+      "website": "https://www.booker.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-nj-002",
+      "name": "Andy Kim",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 78,
+      "nerdReason": "Attended Deep Springs College, then B.A. in political science from University of Chicago (Phi Beta Kappa), and Ph.D. in international relations from Oxford University as a Rhodes Scholar. Doctoral-level academic achievement with elite credentials across three institutions. Career as State Department diplomat in Iraq and Afghanistan, and National Security Council staffer. Applies deep scholarly expertise in international affairs directly to foreign policy. First Korean American U.S. Senator.",
+      "notNerdReason": null,
+      "keyIssues": ["Foreign Affairs", "National Security", "Economy", "Healthcare"],
+      "education": ["Ph.D. International Relations, Oxford University (Rhodes Scholar)", "B.A. Political Science (Phi Beta Kappa), University of Chicago", "Deep Springs College"],
+      "experience": ["U.S. Senator since 2025", "U.S. Representative, NJ-03, 2019-2025", "National Security Council Staff", "U.S. State Department, Afghanistan and Iraq", "RAND Corporation"],
+      "website": "https://www.kim.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "NJ-01": [
+      {
+        "id": "rep-nj-01-001",
+        "name": "Donald Norcross",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "No college degree. Career as union electrician (IBEW) and state legislator. Working-class background with deep labor policy expertise. No academic credentials or evidence-based analytical approach.",
+        "keyIssues": ["Labor", "Economy", "Education", "Healthcare"],
+        "education": ["IBEW Apprenticeship"],
+        "experience": ["U.S. Representative since 2014", "House Armed Services Committee", "New Jersey State Senator", "IBEW Union Electrician"],
+        "website": "https://norcross.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-02": [
+      {
+        "id": "rep-nj-02-001",
+        "name": "Jeff Van Drew",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Rutgers University and D.D.S. from Fairleigh Dickinson University. Practiced dentistry. Dental degree is health science credential. Switched party from Democrat to Republican in 2019. Dental training shows science education but legislative approach not distinctly evidence-based.",
+        "keyIssues": ["Economy", "Defense", "Law Enforcement", "Immigration"],
+        "education": ["D.D.S., Fairleigh Dickinson University", "B.S., Rutgers University"],
+        "experience": ["U.S. Representative since 2019", "Dentist", "New Jersey State Senator", "Cape May County Freeholder"],
+        "website": "https://vandrew.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-03": [
+      {
+        "id": "rep-nj-03-001",
+        "name": "Herb Conaway",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 68,
+        "nerdReason": "B.A. from Princeton University, M.D. from Jefferson Medical College, and J.D. from Rutgers Law School. Triple-credentialed with Princeton education, medical degree, and law degree — an exceptionally rare combination. U.S. Air Force Captain (Medical Corps). Career as practicing physician, clinical professor, and attorney. First Black physician with voting privileges in Congress. Applies both medical and legal analytical expertise to healthcare policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Veterans Affairs", "Education", "Economy"],
+        "education": ["J.D., Rutgers Law School", "M.D., Jefferson Medical College", "B.A., Princeton University"],
+        "experience": ["U.S. Representative since 2025", "Physician and Clinical Professor", "U.S. Air Force, Captain (Medical Corps)", "New Jersey State Assemblyman, 1998-2025", "Attorney"],
+        "website": "https://conaway.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-04": [
+      {
+        "id": "rep-nj-04-001",
+        "name": "Chris Smith",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Trenton State College. Career primarily in advocacy and Congress (serving since 1981). Deep expertise in human trafficking and religious liberty but approach driven by values rather than evidence-based analysis.",
+        "keyIssues": ["Human Rights", "Pro-Life", "Veterans Affairs", "Foreign Affairs"],
+        "education": ["B.A., Trenton State College (now TCNJ)"],
+        "experience": ["U.S. Representative since 1981", "House Foreign Affairs Committee", "Co-Chair, Congressional Anti-Trafficking Caucus", "Executive Director, New Jersey Right to Life"],
+        "website": "https://chrissmith.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-05": [
+      {
+        "id": "rep-nj-05-001",
+        "name": "Josh Gottheimer",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from University of Pennsylvania. Career as speechwriter for President Bill Clinton, Microsoft executive, and financial services professional. Known for methodical, bipartisan approach to fiscal policy. Co-chair of the Problem Solvers Caucus. Applies analytical business and financial expertise to tax and economic policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Tax Policy", "Bipartisanship", "Economy", "Healthcare"],
+        "education": ["B.A., University of Pennsylvania"],
+        "experience": ["U.S. Representative since 2017", "Co-Chair, Problem Solvers Caucus", "Speechwriter, President Bill Clinton", "Director, Microsoft", "Financial Services Professional"],
+        "website": "https://gottheimer.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-06": [
+      {
+        "id": "rep-nj-06-001",
+        "name": "Frank Pallone",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Middlebury College and J.D. from Rutgers Law School. Dean of the New Jersey delegation. Ranking Member of House Energy and Commerce Committee. Decades of deep expertise in healthcare, telecommunications, and environmental policy. Strong policy knowledge but approach is more legislative-institutional than analytically rigorous.",
+        "keyIssues": ["Healthcare", "Energy", "Environment", "Technology"],
+        "education": ["J.D., Rutgers Law School", "B.A., Middlebury College"],
+        "experience": ["U.S. Representative since 1988", "Ranking Member, House Energy and Commerce Committee", "New Jersey State Senator", "Attorney"],
+        "website": "https://pallone.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-07": [
+      {
+        "id": "rep-nj-07-001",
+        "name": "Thomas Kean Jr.",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Dartmouth College and M.A. from the Fletcher School at Tufts University (international relations). Son of former Governor Tom Kean. Dartmouth + Fletcher represents elite analytical training. Career in state legislature. Strong credentials but legislative approach not distinctly evidence-based or research-driven.",
+        "keyIssues": ["Economy", "Education", "National Security", "Environment"],
+        "education": ["M.A. International Relations, Fletcher School, Tufts University", "B.A., Dartmouth College"],
+        "experience": ["U.S. Representative since 2023", "New Jersey State Senate Minority Leader", "New Jersey State Senator", "New Jersey State Assemblyman"],
+        "website": "https://kean.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-08": [
+      {
+        "id": "rep-nj-08-001",
+        "name": "Rob Menendez",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of North Carolina at Chapel Hill and J.D. from Rutgers Law School. Son of former Senator Bob Menendez. Career as attorney. Legal training provides analytical skills but legislative record too limited to assess evidence-based governance approach.",
+        "keyIssues": ["Healthcare", "Economy", "Transportation", "Education"],
+        "education": ["J.D., Rutgers Law School", "B.A., University of North Carolina at Chapel Hill"],
+        "experience": ["U.S. Representative since 2023", "Commissioner, Port Authority of New York and New Jersey", "Attorney"],
+        "website": "https://menendez.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-09": [
+      {
+        "id": "rep-nj-09-001",
+        "name": "Nellie Pou",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Kean University. Career in community organizing and state legislature. New Jersey State Senate Majority Leader. Long political career but no analytical or evidence-based policy approach.",
+        "keyIssues": ["Healthcare", "Economy", "Education", "Immigration"],
+        "education": ["B.A., Kean University"],
+        "experience": ["U.S. Representative since 2025", "New Jersey State Senate Majority Leader", "New Jersey State Senator", "New Jersey State Assemblywoman"],
+        "website": "https://pou.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-10": [
+      {
+        "id": "rep-nj-10-001",
+        "name": "LaMonica McIver",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Lincoln University. Career in local government (Newark City Council) and community advocacy. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Healthcare", "Housing", "Education"],
+        "education": ["B.A., Lincoln University"],
+        "experience": ["U.S. Representative since 2024 (special election)", "Newark City Council", "Community Advocate"],
+        "website": "https://mciver.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NJ-11": [],
+    "NJ-12": [
+      {
+        "id": "rep-nj-12-001",
+        "name": "Bonnie Watson Coleman",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Thomas Edison State University. Career in state legislature (first Black woman elected to Congress from New Jersey). Deep legislative expertise in social policy. Experienced but approach not distinctly analytical or evidence-based.",
+        "keyIssues": ["Healthcare", "Criminal Justice", "Economy", "Education"],
+        "education": ["B.A., Thomas Edison State University"],
+        "experience": ["U.S. Representative since 2015", "House Appropriations Committee", "New Jersey State Assembly", "First Black woman elected to Congress from NJ"],
+        "website": "https://watsoncoleman.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

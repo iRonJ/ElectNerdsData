@@ -2,6 +2,180 @@
   "state": "MA",
   "stateName": "Massachusetts",
   "stateFips": "25",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ma-001",
+      "name": "Elizabeth Warren",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 85,
+      "nerdReason": "B.A. from University of Houston and J.D. from Rutgers University School of Law. Harvard Law School professor for nearly two decades (Leo Gottlieb Professor of Law). One of the nation's top experts on bankruptcy and consumer financial law — among the three most-cited scholars in those fields from 2005-2009. Authored over 100 articles and 10 books grounded in empirical research. Architect of the Consumer Financial Protection Bureau. Embodies the application of rigorous academic research to legislative policy.",
+      "notNerdReason": null,
+      "keyIssues": ["Consumer Protection", "Financial Regulation", "Healthcare", "Education"],
+      "education": ["J.D., Rutgers University School of Law", "B.A., University of Houston"],
+      "experience": ["U.S. Senator since 2013", "Leo Gottlieb Professor of Law, Harvard Law School", "Professor at UPenn, Michigan, Texas, Houston, Rutgers law schools", "Architect, Consumer Financial Protection Bureau", "2020 Presidential Candidate"],
+      "website": "https://www.warren.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ma-002",
+      "name": "Ed Markey",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 58,
+      "nerdReason": "B.A. from Boston College and J.D. from Boston College Law School. Author of the Green New Deal resolution. Decades of deep climate, energy, and telecommunications policy expertise on the Commerce and Energy committees. Known for methodical, research-backed approach to climate and technology policy. One of Congress's leading voices on evidence-based environmental legislation.",
+      "notNerdReason": null,
+      "keyIssues": ["Climate", "Telecommunications", "Consumer Protection", "Foreign Policy"],
+      "education": ["J.D., Boston College Law School", "B.A., Boston College"],
+      "experience": ["U.S. Senator since 2013", "U.S. Representative, MA-07/MA-05, 1976-2013", "Co-author, Green New Deal Resolution", "Former Chair, House Climate Crisis Select Committee"],
+      "website": "https://www.markey.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "MA-01": [
+      {
+        "id": "rep-ma-01-001",
+        "name": "Richard Neal",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from American International College and M.P.A. from University of Hartford. Long tenure in Congress and former Chairman of House Ways and Means Committee. Deep expertise in tax policy and trade. Experienced legislative craftsman but approach is more institutional than analytically rigorous.",
+        "keyIssues": ["Tax Policy", "Trade", "Healthcare", "Economy"],
+        "education": ["M.P.A., University of Hartford", "B.A., American International College"],
+        "experience": ["U.S. Representative since 1989", "Former Chairman, House Ways and Means Committee", "Mayor of Springfield, MA", "High School Teacher"],
+        "website": "https://neal.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MA-02": [
+      {
+        "id": "rep-ma-02-001",
+        "name": "Jim McGovern",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and M.P.A. from American University. Deep expertise in hunger and nutrition policy. Former Chairman of House Rules Committee. Uses data on food insecurity and nutrition research but overall approach is more advocacy-driven than analytically rigorous.",
+        "keyIssues": ["Hunger/Nutrition", "Rules/Procedure", "Human Rights", "Agriculture"],
+        "education": ["M.P.A., American University", "B.A., American University"],
+        "experience": ["U.S. Representative since 1997", "Former Chairman, House Rules Committee", "Ranking Member, House Rules Committee", "Senior Aide to Rep. Joe Moakley"],
+        "website": "https://mcgovern.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MA-03": [
+      {
+        "id": "rep-ma-03-001",
+        "name": "Lori Trahan",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Georgetown University. Career as tech company executive and congressional staffer. Business and technology sector experience but approach is more operational than analytically driven. Active on children's online safety policy.",
+        "keyIssues": ["Technology", "Children's Safety", "Education", "Economy"],
+        "education": ["B.A., Georgetown University"],
+        "experience": ["U.S. Representative since 2019", "Chief of Staff to Rep. Marty Meehan", "Technology Company Executive", "Businesswoman"],
+        "website": "https://trahan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MA-04": [
+      {
+        "id": "rep-ma-04-001",
+        "name": "Jake Auchincloss",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 70,
+        "nerdReason": "A.B. in government and economics (with honors) from Harvard University and M.B.A. in finance from MIT Sloan School of Management. Marine Corps officer deployed to Afghanistan and Panama (currently Major in Reserve). Combines elite academic analytical training from Harvard and MIT with military strategic thinking. Known in Congress for technology and AI policy expertise. Engineering-adjacent finance education at MIT Sloan.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "AI Policy", "Defense", "Climate"],
+        "education": ["M.B.A. Finance, MIT Sloan School of Management", "A.B. Government and Economics (honors), Harvard University"],
+        "experience": ["U.S. Representative since 2021", "U.S. Marine Corps, Major (Reserve)", "Deployed to Afghanistan and Panama", "Newton City Councilor", "Private Sector Technology"],
+        "website": "https://auchincloss.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MA-05": [
+      {
+        "id": "rep-ma-05-001",
+        "name": "Katherine Clark",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from St. Lawrence University, J.D. from Cornell Law School, and M.P.A. from University of Massachusetts Boston. Three post-secondary degrees including elite law school. House Democratic Whip (second-highest ranking Democrat). Career as prosecutor and state legislator. Combines legal analytical training with public administration expertise and legislative leadership.",
+        "notNerdReason": null,
+        "keyIssues": ["Education", "Childcare", "Healthcare", "Economy"],
+        "education": ["M.P.A., University of Massachusetts Boston", "J.D., Cornell Law School", "B.A., St. Lawrence University"],
+        "experience": ["U.S. Representative since 2013", "House Democratic Whip", "Massachusetts State Senator", "Massachusetts State Representative", "Prosecutor"],
+        "website": "https://katherineclark.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MA-06": [
+      {
+        "id": "rep-ma-06-001",
+        "name": "Seth Moulton",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 75,
+        "nerdReason": "B.S. in physics from Harvard College, M.B.A. from Harvard Business School, and M.P.A. from Harvard Kennedy School. Three Harvard degrees including a physics undergraduate degree — one of the strongest academic resumes in Congress. Marine Corps officer with four tours in Iraq. Applies analytical thinking from physics training, business education, and military strategy to defense, technology, and transportation policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Transportation", "Veterans Affairs", "Technology"],
+        "education": ["M.P.A., Harvard Kennedy School", "M.B.A., Harvard Business School", "B.S. Physics, Harvard College"],
+        "experience": ["U.S. Representative since 2015", "U.S. Marine Corps, 4 tours in Iraq", "2020 Presidential Candidate", "Transportation and Infrastructure Committee"],
+        "website": "https://moulton.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MA-07": [
+      {
+        "id": "rep-ma-07-001",
+        "name": "Ayanna Pressley",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "Attended Boston University but did not complete a degree. Career in political organizing and constituent services (senior aide to Sen. John Kerry, Boston City Council). Passionate advocate but approach driven by lived experience and activism rather than analytical frameworks.",
+        "keyIssues": ["Criminal Justice", "Housing", "Healthcare", "Education"],
+        "education": ["Boston University (attended)"],
+        "experience": ["U.S. Representative since 2019", "Boston City Council (first woman of color elected at-large)", "Senior Aide to Sen. John Kerry"],
+        "website": "https://pressley.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MA-08": [
+      {
+        "id": "rep-ma-08-001",
+        "name": "Stephen Lynch",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.S. from Wentworth Institute of Technology, J.D. from Boston College Law School, and M.A. from Harvard University (Kennedy School). Three degrees spanning technical education, law, and public policy. Career from ironworker union president to attorney to congressman. Wentworth provides technical foundation. Harvard Kennedy School provides policy analysis training. Unusual working-class-to-intellectual trajectory.",
+        "notNerdReason": null,
+        "keyIssues": ["Financial Services", "Postal Service", "Labor", "National Security"],
+        "education": ["M.A., Harvard University (Kennedy School)", "J.D., Boston College Law School", "B.S., Wentworth Institute of Technology"],
+        "experience": ["U.S. Representative since 2001", "President, Ironworkers Local 7", "Massachusetts State Senator", "Attorney"],
+        "website": "https://lynch.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MA-09": [
+      {
+        "id": "rep-ma-09-001",
+        "name": "Bill Keating",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Boston College, M.B.A. from Boston College, and J.D. from Suffolk University Law School. Three degrees show intellectual commitment. Career as district attorney and state legislator. Legal and prosecutorial background. Solid policy engagement but not distinctly analytical or research-driven.",
+        "keyIssues": ["Foreign Affairs", "Armed Services", "Economy", "Environment"],
+        "education": ["J.D., Suffolk University Law School", "M.B.A., Boston College", "B.A., Boston College"],
+        "experience": ["U.S. Representative since 2011", "Norfolk County District Attorney", "Massachusetts State Senator", "Massachusetts State Representative"],
+        "website": "https://keating.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

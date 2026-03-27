@@ -2,6 +2,68 @@
   "state": "HI",
   "stateName": "Hawaii",
   "stateFips": "15",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-hi-001",
+      "name": "Mazie Hirono",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 55,
+      "nerdReason": "B.A. in psychology from University of Hawaii at Manoa and J.D. from Georgetown University Law Center (focused on clinical and public interest law). Immigrated from Japan as a child. Career as attorney, state legislator, and lieutenant governor. Deep policy expertise on immigration, education, and civil rights built over decades. Known for methodical preparation and detailed questioning in Senate hearings.",
+      "notNerdReason": null,
+      "keyIssues": ["Immigration", "Healthcare", "Education", "Environment"],
+      "education": ["J.D., Georgetown University Law Center", "B.A. Psychology, University of Hawaii at Manoa"],
+      "experience": ["U.S. Senator since 2013", "U.S. Representative, HI-02, 2007-2013", "Lieutenant Governor of Hawaii, 1994-2002", "Hawaii State Representative, 1980-1994", "Attorney, Hawaii Attorney General's Office"],
+      "website": "https://www.hirono.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-hi-002",
+      "name": "Brian Schatz",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 58,
+      "nerdReason": "B.A. in philosophy from Pomona College with study abroad in Kenya. Career in education (taught at Punahou School), nonprofit leadership, and state politics. Known in the Senate for deep engagement with climate science, technology policy, and data-driven approaches to housing and healthcare. Philosophy degree reflects analytical reasoning training. Consistently cites research in climate and tech policy debates.",
+      "notNerdReason": null,
+      "keyIssues": ["Climate", "Technology", "Housing", "Healthcare"],
+      "education": ["B.A. Philosophy, Pomona College"],
+      "experience": ["U.S. Senator since 2012", "Lieutenant Governor of Hawaii, 2010-2012", "Hawaii State Representative, 1998-2006", "Chair, Democratic Party of Hawaii", "CEO, Helping Hands Hawaii", "Teacher, Punahou School"],
+      "website": "https://www.schatz.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "HI-01": [
+      {
+        "id": "rep-hi-01-001",
+        "name": "Ed Case",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. in psychology from Williams College and J.D. from UC Hastings College of Law. Career as corporate attorney (Senior VP and Chief Legal Officer at Outrigger). Williams College graduate with rigorous liberal arts foundation. Legal and corporate experience demonstrates analytical skills applied to business and policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Environment", "Native Hawaiian Affairs", "Defense", "Economy"],
+        "education": ["J.D., UC Hastings College of Law", "B.A. Psychology, Williams College"],
+        "experience": ["U.S. Representative (current term since 2019; also served 2003-2007)", "Senior VP and Chief Legal Officer, Outrigger Hotels", "Hawaii State Representative, 1994-2002", "Attorney"],
+        "website": "https://case.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "HI-02": [
+      {
+        "id": "rep-hi-02-001",
+        "name": "Jill Tokuda",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. in international relations with a minor in Japanese studies from George Washington University (magna cum laude). As Hawaii State Senate Ways and Means Chair, balanced the state's $14 billion budget. Co-directed CyberHawaii, supporting IT/cybersecurity workforce development. Budget and fiscal expertise demonstrates strong quantitative and analytical skills applied to governance.",
+        "notNerdReason": null,
+        "keyIssues": ["Agriculture", "Defense", "Cybersecurity", "Education"],
+        "education": ["B.A. International Relations (minor Japanese Studies), George Washington University (magna cum laude)"],
+        "experience": ["U.S. Representative since 2023", "Hawaii State Senator, 2006-2018 (Ways and Means Chair)", "Executive Director, Nisei Veterans Memorial Center", "Co-Director, CyberHawaii"],
+        "website": "https://tokuda.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

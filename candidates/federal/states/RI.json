@@ -2,6 +2,68 @@
   "state": "RI",
   "stateName": "Rhode Island",
   "stateFips": "44",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ri-001",
+      "name": "Jack Reed",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 68,
+      "nerdReason": "B.S. from U.S. Military Academy at West Point, M.P.P. from Harvard Kennedy School, and J.D. from Harvard Law School. Army Ranger and 82nd Airborne officer. Three elite degrees combining military analytical discipline with Harvard policy and legal training. Chairman of the Senate Armed Services Committee. Brings decades of defense policy expertise grounded in military experience and academic rigor.",
+      "notNerdReason": null,
+      "keyIssues": ["Defense", "Education", "Banking", "Healthcare"],
+      "education": ["J.D., Harvard Law School", "M.P.P., Harvard Kennedy School", "B.S., U.S. Military Academy at West Point"],
+      "experience": ["U.S. Senator since 1997", "Chairman, Senate Armed Services Committee", "U.S. Representative, RI-02, 1991-1997", "U.S. Army, Ranger and 82nd Airborne (10 years)", "Attorney"],
+      "website": "https://www.reed.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ri-002",
+      "name": "Sheldon Whitehouse",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 65,
+      "nerdReason": "B.A. from Yale University and J.D. from University of Virginia School of Law. Career as U.S. Attorney, Rhode Island Attorney General, and state government official. Known as the Senate's most methodical advocate for climate science, delivering over 290 'Time to Wake Up' floor speeches on climate change citing peer-reviewed research and scientific data. Consistently uses evidence and data in judicial and environmental policy arguments.",
+      "notNerdReason": null,
+      "keyIssues": ["Climate", "Judiciary", "Oceans", "Dark Money"],
+      "education": ["J.D., University of Virginia School of Law", "B.A., Yale University"],
+      "experience": ["U.S. Senator since 2007", "Chairman, Senate Budget Committee", "U.S. Attorney for Rhode Island", "Rhode Island Attorney General", "290+ 'Time to Wake Up' climate speeches"],
+      "website": "https://www.whitehouse.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "RI-01": [
+      {
+        "id": "rep-ri-01-001",
+        "name": "Gabe Amo",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 68,
+        "nerdReason": "B.A. from Brown University and M.Phil. from Oxford University as a Rhodes Scholar. White House domestic policy advisor under President Biden. First person of color elected to represent Rhode Island in Congress. Rhodes Scholar credential represents exceptional academic achievement and analytical capability. Brings White House policy analysis experience to legislative work.",
+        "notNerdReason": null,
+        "keyIssues": ["Housing", "Economy", "Education", "Infrastructure"],
+        "education": ["M.Phil., Oxford University (Rhodes Scholar)", "B.A., Brown University"],
+        "experience": ["U.S. Representative since 2023", "White House Domestic Policy Advisor", "HUD Official", "Advisor to Gov. Gina Raimondo"],
+        "website": "https://amo.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "RI-02": [
+      {
+        "id": "rep-ri-02-001",
+        "name": "Seth Magaziner",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 60,
+        "nerdReason": "B.A. from Brown University and M.B.A. from Yale School of Management. Career as Rhode Island State Treasurer managing state pension and investment portfolios requiring deep quantitative analysis. Brown + Yale MBA represents elite analytical education. Applied financial and investment expertise to state governance before Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Economy", "Education", "Healthcare", "Climate"],
+        "education": ["M.B.A., Yale School of Management", "B.A., Brown University"],
+        "experience": ["U.S. Representative since 2023", "Rhode Island General Treasurer, 2015-2023", "Investment Analyst", "Education Nonprofit Founder"],
+        "website": "https://magaziner.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

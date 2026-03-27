@@ -2,6 +2,148 @@
   "state": "SC",
   "stateName": "South Carolina",
   "stateFips": "45",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-sc-001",
+      "name": "Lindsey Graham",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 48,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from University of South Carolina and J.D. from University of South Carolina School of Law. Air Force JAG officer. Career as attorney, state legislator, and U.S. Representative before Senate. Deep expertise in judiciary and foreign affairs. Skilled legislative dealmaker but approach is more instinct-driven than evidence-based.",
+      "keyIssues": ["Judiciary", "Foreign Affairs", "Defense", "Immigration"],
+      "education": ["J.D., University of South Carolina School of Law", "B.A., University of South Carolina"],
+      "experience": ["U.S. Senator since 2003", "Senate Judiciary Committee", "U.S. Representative, SC-03, 1995-2003", "U.S. Air Force, JAG Officer", "Attorney"],
+      "website": "https://www.lgraham.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-sc-002",
+      "name": "Tim Scott",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 35,
+      "nerdReason": null,
+      "notNerdReason": "B.S. from Charleston Southern University. Career in insurance and financial services. First Black U.S. Senator from South Carolina since Reconstruction. Business background but policy approach is more values-driven than analytically rigorous.",
+      "keyIssues": ["Economy", "Banking", "Education", "Opportunity Zones"],
+      "education": ["B.S., Charleston Southern University"],
+      "experience": ["U.S. Senator since 2013", "Chairman, Senate Banking Committee", "U.S. Representative, SC-01, 2011-2013", "South Carolina State Representative", "Charleston County Council", "Insurance and Financial Services"],
+      "website": "https://www.scott.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "SC-01": [
+      {
+        "id": "rep-sc-01-001",
+        "name": "Nancy Mace",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from The Citadel (first woman to graduate) and M.A. from University of Georgia. Career as business consultant and state legislator. The Citadel provides military-style analytical discipline. However, governance approach is more media-focused than evidence-based.",
+        "keyIssues": ["Government Reform", "Economy", "Veterans Affairs", "Technology"],
+        "education": ["M.A., University of Georgia", "B.A., The Citadel (first woman to graduate)"],
+        "experience": ["U.S. Representative since 2021", "South Carolina State Representative", "Business Consultant", "IT Specialist"],
+        "website": "https://mace.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "SC-02": [
+      {
+        "id": "rep-sc-02-001",
+        "name": "Joe Wilson",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Washington and Lee University and J.D. from University of South Carolina School of Law. Career as attorney and state senator. Long-tenured in Congress. Legal background but approach is not distinctly analytical.",
+        "keyIssues": ["Defense", "Foreign Affairs", "Veterans Affairs", "Education"],
+        "education": ["J.D., University of South Carolina School of Law", "B.A., Washington and Lee University"],
+        "experience": ["U.S. Representative since 2001", "House Armed Services Committee", "South Carolina State Senator", "Army Reserve, Colonel (ret.)", "Attorney"],
+        "website": "https://joewilson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "SC-03": [
+      {
+        "id": "rep-sc-03-001",
+        "name": "Sheri Biggs",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "Nurse practitioner by career. Healthcare background provides clinical analytical skills. New member of Congress (2025). Healthcare credentials are STEM-adjacent but legislative record too new to assess evidence-based governance approach.",
+        "keyIssues": ["Healthcare", "Veterans Affairs", "Economy", "Agriculture"],
+        "education": ["Nursing Degree (Nurse Practitioner certification)"],
+        "experience": ["U.S. Representative since 2025", "Nurse Practitioner", "Healthcare Professional"],
+        "website": "https://biggs.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "SC-04": [
+      {
+        "id": "rep-sc-04-001",
+        "name": "William Timmons",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from George Washington University and J.D. from University of South Carolina School of Law. Career as attorney and state senator. Legal training provides analytical skills but governance approach not distinctly evidence-based.",
+        "keyIssues": ["Financial Services", "Economy", "Defense", "Veterans Affairs"],
+        "education": ["J.D., University of South Carolina School of Law", "B.A., George Washington University"],
+        "experience": ["U.S. Representative since 2019", "House Financial Services Committee", "South Carolina State Senator", "Attorney"],
+        "website": "https://timmons.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "SC-05": [
+      {
+        "id": "rep-sc-05-001",
+        "name": "Ralph Norman",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Presbyterian College. Career in real estate development and state legislature. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Government Spending", "Defense", "Immigration"],
+        "education": ["B.A., Presbyterian College"],
+        "experience": ["U.S. Representative since 2017", "South Carolina State Representative", "Real Estate Developer"],
+        "website": "https://norman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "SC-06": [
+      {
+        "id": "rep-sc-06-001",
+        "name": "Jim Clyburn",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from South Carolina State University. Career as civil rights leader, teacher, and state government official. Former House Majority Whip (highest-ranking Black member of Congress in history). Decades of deep legislative expertise. Institutional knowledge is exceptional but approach is more relationship-driven than analytically rigorous.",
+        "keyIssues": ["Civil Rights", "Healthcare", "Infrastructure", "Education"],
+        "education": ["B.A., South Carolina State University"],
+        "experience": ["U.S. Representative since 1993", "House Majority Whip (former)", "South Carolina Human Affairs Commissioner", "Civil Rights Leader", "Teacher"],
+        "website": "https://clyburn.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "SC-07": [
+      {
+        "id": "rep-sc-07-001",
+        "name": "Russell Fry",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Winthrop University and J.D. from Charleston School of Law. Career as attorney and state legislator. Legal training provides basic analytical skills but governance approach not distinctly evidence-based.",
+        "keyIssues": ["Economy", "Defense", "Immigration", "Agriculture"],
+        "education": ["J.D., Charleston School of Law", "B.A., Winthrop University"],
+        "experience": ["U.S. Representative since 2023", "South Carolina State Representative", "Attorney"],
+        "website": "https://fry.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

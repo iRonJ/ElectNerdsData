@@ -2,6 +2,164 @@
   "state": "WI",
   "stateName": "Wisconsin",
   "stateFips": "55",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-wi-001",
+      "name": "Tammy Baldwin",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 55,
+      "nerdReason": "B.A. (double major in government and mathematics) from Smith College and J.D. from University of Wisconsin Law School. Mathematics degree provides quantitative analytical foundation rare among legislators. Career as attorney. First openly gay U.S. Senator. Deep policy expertise on healthcare, trade, and manufacturing built over decades in Congress.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Trade", "Manufacturing", "Veterans Affairs"],
+      "education": ["J.D., University of Wisconsin Law School", "B.A. Government and Mathematics, Smith College"],
+      "experience": ["U.S. Senator since 2013", "U.S. Representative, WI-02, 1999-2013", "Dane County Board Supervisor", "Attorney"],
+      "website": "https://www.baldwin.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-wi-002",
+      "name": "Ron Johnson",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 32,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in business and accounting from University of Minnesota and M.B.A. from University of Minnesota. Career as CEO of PACUR (polyester/plastics manufacturing). Business and accounting education provides quantitative skills. However, legislative approach frequently contradicts established scientific consensus on healthcare and climate. MBA credentials not matched by evidence-based governance.",
+      "keyIssues": ["Economy", "Homeland Security", "Government Reform", "Commerce"],
+      "education": ["M.B.A., University of Minnesota", "B.A. Business and Accounting, University of Minnesota"],
+      "experience": ["U.S. Senator since 2011", "Chairman, Senate Homeland Security Committee", "CEO, PACUR (manufacturing), 30+ years"],
+      "website": "https://www.ronjohnson.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "WI-01": [
+      {
+        "id": "rep-wi-01-001",
+        "name": "Bryan Steil",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Georgetown University and J.D. from University of Wisconsin Law School. Career as attorney, manufacturing company executive (Charter NEX Films), and aide to Paul Ryan. Georgetown + Wisconsin Law shows intellectual engagement but legislative approach is more politically conventional than evidence-based.",
+        "keyIssues": ["Economy", "Education", "Government Reform", "Labor"],
+        "education": ["J.D., University of Wisconsin Law School", "B.A., Georgetown University"],
+        "experience": ["U.S. Representative since 2019", "Chairman, House Administration Committee", "Attorney", "Executive, Charter NEX Films", "Aide to Speaker Paul Ryan"],
+        "website": "https://steil.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WI-02": [
+      {
+        "id": "rep-wi-02-001",
+        "name": "Mark Pocan",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in journalism from University of Wisconsin-Madison. Career as small business owner (printing company) and state legislator. No analytical or evidence-based policy approach beyond standard progressive advocacy.",
+        "keyIssues": ["Labor", "Education", "Healthcare", "Economy"],
+        "education": ["B.A. Journalism, University of Wisconsin-Madison"],
+        "experience": ["U.S. Representative since 2013", "House Appropriations Committee", "Wisconsin State Assembly", "Small Business Owner"],
+        "website": "https://pocan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WI-03": [
+      {
+        "id": "rep-wi-03-001",
+        "name": "Derrick Van Orden",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "Attended Winona State University (did not complete degree). Career as Navy SEAL with 26 years of service. Author. Military special operations background but no academic credentials or evidence-based policy approach.",
+        "keyIssues": ["Defense", "Veterans Affairs", "Agriculture", "Economy"],
+        "education": ["Winona State University (attended)"],
+        "experience": ["U.S. Representative since 2023", "U.S. Navy SEAL, 26 years", "Author"],
+        "website": "https://vanorden.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WI-04": [
+      {
+        "id": "rep-wi-04-001",
+        "name": "Gwen Moore",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Marquette University. Career in social work, community organizing, and state legislature. Policy driven by personal experience and community advocacy rather than analytical or research-based frameworks.",
+        "keyIssues": ["Economy", "Social Services", "Healthcare", "Housing"],
+        "education": ["B.A., Marquette University"],
+        "experience": ["U.S. Representative since 2005", "House Ways and Means Committee", "Wisconsin State Senator", "Wisconsin State Assembly", "Social Worker"],
+        "website": "https://gwenmoore.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WI-05": [
+      {
+        "id": "rep-wi-05-001",
+        "name": "Scott Fitzgerald",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Wisconsin-Oshkosh. Career as newspaper publisher, Army officer, and state legislator (Wisconsin Senate Majority Leader). No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Education", "Government Reform", "Defense"],
+        "education": ["B.A., University of Wisconsin-Oshkosh"],
+        "experience": ["U.S. Representative since 2021", "Wisconsin Senate Majority Leader", "Wisconsin State Senator", "U.S. Army Reserve", "Newspaper Publisher"],
+        "website": "https://fitzgerald.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WI-06": [
+      {
+        "id": "rep-wi-06-001",
+        "name": "Glenn Grothman",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and J.D. from University of Wisconsin-Madison. Career as attorney and state legislator. Wisconsin Law School provides analytical training but governance approach driven by ideology rather than evidence.",
+        "keyIssues": ["Government Spending", "Education", "Immigration", "Economy"],
+        "education": ["J.D., University of Wisconsin-Madison", "B.A., University of Wisconsin-Madison"],
+        "experience": ["U.S. Representative since 2015", "Wisconsin State Senator", "Wisconsin State Assembly", "Attorney"],
+        "website": "https://grothman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WI-07": [
+      {
+        "id": "rep-wi-07-001",
+        "name": "Tom Tiffany",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from University of Wisconsin-River Falls. Career in railroad and oil industry, outdoor recreation. State legislator. No analytical or evidence-based policy background.",
+        "keyIssues": ["Natural Resources", "Agriculture", "Energy", "Economy"],
+        "education": ["B.S., University of Wisconsin-River Falls"],
+        "experience": ["U.S. Representative since 2020", "Wisconsin State Senator", "Wisconsin State Assembly", "Dam Tender, Wisconsin Valley Improvement Company"],
+        "website": "https://tiffany.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WI-08": [
+      {
+        "id": "rep-wi-08-001",
+        "name": "Tony Wied",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "New member of Congress (2025). Career as business owner. Limited public record of analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Agriculture", "Defense", "Education"],
+        "education": ["Business education"],
+        "experience": ["U.S. Representative since 2025", "Business Owner"],
+        "website": "https://wied.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

@@ -2,6 +2,308 @@
   "state": "PA",
   "stateName": "Pennsylvania",
   "stateFips": "42",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-pa-001",
+      "name": "John Fetterman",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 55,
+      "nerdReason": "B.A. from Albright College, M.A. from Connecticut College, and M.P.A. from Harvard Kennedy School. Mayor of Braddock, PA for 13 years, applying community development policy in one of Pennsylvania's most distressed towns. Harvard Kennedy School training provides rigorous policy analysis methodology. Known for evidence-based, data-driven approach to economic revitalization and drug policy reform.",
+      "notNerdReason": null,
+      "keyIssues": ["Economy", "Labor", "Healthcare", "Agriculture"],
+      "education": ["M.P.A., Harvard Kennedy School", "M.A., Connecticut College", "B.A., Albright College"],
+      "experience": ["U.S. Senator since 2023", "Lieutenant Governor of Pennsylvania", "Mayor of Braddock, PA, 2005-2019", "Community Development Advocate"],
+      "website": "https://www.fetterman.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-pa-002",
+      "name": "Dave McCormick",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 72,
+      "nerdReason": "B.S. from U.S. Military Academy at West Point and Ph.D. in economics and international affairs from Princeton University's Woodrow Wilson School. U.S. Army Ranger with combat service in Gulf War. CEO of Bridgewater Associates (the world's largest hedge fund). West Point + Princeton PhD in economics represents exceptional academic and analytical credentials. Combines elite military training with doctoral-level economic research.",
+      "notNerdReason": null,
+      "keyIssues": ["Economy", "National Security", "Finance", "Manufacturing"],
+      "education": ["Ph.D. Economics and International Affairs, Princeton University (Woodrow Wilson School)", "B.S., U.S. Military Academy at West Point"],
+      "experience": ["U.S. Senator since 2025", "CEO, Bridgewater Associates", "U.S. Army Ranger (Gulf War veteran)", "Undersecretary of the Treasury", "CEO, FreeMarkets Inc."],
+      "website": "https://www.mccormick.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "PA-01": [
+      {
+        "id": "rep-pa-01-001",
+        "name": "Brian Fitzpatrick",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Penn State University and J.D. from Penn State Dickinson School of Law. Career as FBI Special Agent (11 years) and CPA. FBI investigative work requires analytical and evidence-based skills. Known as a bipartisan member who cites data on climate and energy policy. Solid credentials but approach not distinctly research-driven.",
+        "keyIssues": ["Environment", "Foreign Affairs", "Economy", "Bipartisanship"],
+        "education": ["J.D., Penn State Dickinson School of Law", "B.S., Penn State University"],
+        "experience": ["U.S. Representative since 2017", "FBI Special Agent, 11 years", "Co-Chair, Problem Solvers Caucus", "Pennsylvania State House", "CPA"],
+        "website": "https://fitzpatrick.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-02": [
+      {
+        "id": "rep-pa-02-001",
+        "name": "Brendan Boyle",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Georgetown University and M.P.A. from Harvard Kennedy School. Pennsylvania state legislator. Georgetown + Harvard Kennedy School represents elite analytical education in policy. Ranking Member of the House Budget Committee — overseeing the most complex fiscal policy in Congress. Applies rigorous policy analysis to budget and tax policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Budget", "Tax Policy", "Economy", "Workers' Rights"],
+        "education": ["M.P.A., Harvard Kennedy School", "B.A., Georgetown University"],
+        "experience": ["U.S. Representative since 2015", "Ranking Member, House Budget Committee", "Pennsylvania State Representative", "Pennsylvania State Senator"],
+        "website": "https://brendanboyle.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-03": [
+      {
+        "id": "rep-pa-03-001",
+        "name": "Dwight Evans",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from La Salle University. Career as state legislator (36 years in Pennsylvania House). Deep community and economic development expertise built through long legislative tenure. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Education", "Healthcare", "Small Business"],
+        "education": ["B.A., La Salle University"],
+        "experience": ["U.S. Representative since 2016", "Pennsylvania State Representative, 36 years", "Chair, Pennsylvania House Appropriations Committee"],
+        "website": "https://evans.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-04": [
+      {
+        "id": "rep-pa-04-001",
+        "name": "Madeleine Dean",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from La Salle University and J.D. from Widener University School of Law. Career as attorney, college professor, and state legislator. Served as an impeachment manager. Legal training and legislative expertise. Solid but approach not distinctly analytical beyond standard policy work.",
+        "keyIssues": ["Judiciary", "Healthcare", "Education", "Gun Safety"],
+        "education": ["J.D., Widener University School of Law", "B.A., La Salle University"],
+        "experience": ["U.S. Representative since 2019", "Impeachment Manager (Trump impeachments)", "Pennsylvania State Representative", "Professor, La Salle University", "Attorney"],
+        "website": "https://dean.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-05": [
+      {
+        "id": "rep-pa-05-001",
+        "name": "Mary Gay Scanlon",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Amherst College and J.D. from University of Pennsylvania Law School. Career as attorney and education advocate. Amherst College provides rigorous analytical liberal arts education. UPenn Law is an elite institution. Deep expertise in education and criminal justice policy. Vice Chair of House Judiciary Committee.",
+        "notNerdReason": null,
+        "keyIssues": ["Judiciary", "Education", "Criminal Justice", "Climate"],
+        "education": ["J.D., University of Pennsylvania Law School", "B.A., Amherst College"],
+        "experience": ["U.S. Representative since 2018", "Vice Chair, House Judiciary Committee", "Attorney", "Education Advocate"],
+        "website": "https://scanlon.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-06": [
+      {
+        "id": "rep-pa-06-001",
+        "name": "Chrissy Houlahan",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 70,
+        "nerdReason": "B.S. in industrial engineering from Stanford University and M.B.A. from University of California, Berkeley (Haas School of Business). U.S. Air Force officer. Industrial engineering from Stanford represents top-tier STEM education directly applied in industry. Haas MBA adds quantitative business analysis. Career as engineer, entrepreneur, and teacher. Brings genuine engineering analytical rigor to defense, STEM education, and innovation policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "STEM Education", "Economy", "Environment"],
+        "education": ["M.B.A., UC Berkeley (Haas School of Business)", "B.S. Industrial Engineering, Stanford University"],
+        "experience": ["U.S. Representative since 2019", "U.S. Air Force Officer", "Industrial Engineer", "CEO, ArteYoga", "High School Science Teacher"],
+        "website": "https://houlahan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-07": [
+      {
+        "id": "rep-pa-07-001",
+        "name": "Ryan Mackenzie",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "Career in Pennsylvania state legislature. New member of Congress (2025). Limited public record of analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Defense", "Agriculture", "Education"],
+        "education": ["College education"],
+        "experience": ["U.S. Representative since 2025", "Pennsylvania State Representative"],
+        "website": "https://mackenzie.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-08": [
+      {
+        "id": "rep-pa-08-001",
+        "name": "Rob Bresnahan",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "Career as construction company executive. New member of Congress (2025). Business background. Limited public record of analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Small Business", "Agriculture", "Infrastructure"],
+        "education": ["Business education"],
+        "experience": ["U.S. Representative since 2025", "Construction Company Executive"],
+        "website": "https://bresnahan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-09": [
+      {
+        "id": "rep-pa-09-001",
+        "name": "Dan Meuser",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.S. from Cornell University and M.B.A. from Wharton School at University of Pennsylvania. Career as CEO of Pride Mobility Products (mobility equipment). Cornell + Wharton MBA represents elite analytical training. Business leadership requiring quantitative analysis and data-driven decision-making. Applies economic and business expertise to fiscal policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Economy", "Financial Services", "Agriculture", "Veterans Affairs"],
+        "education": ["M.B.A., University of Pennsylvania (Wharton)", "B.S., Cornell University"],
+        "experience": ["U.S. Representative since 2019", "CEO, Pride Mobility Products", "Pennsylvania Secretary of Revenue", "House Financial Services Committee"],
+        "website": "https://meuser.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-10": [
+      {
+        "id": "rep-pa-10-001",
+        "name": "Scott Perry",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in aerospace engineering from Penn State University and M.B.A. from Penn State. Army Brigadier General (retired) and helicopter pilot with combat service. Genuine STEM credentials (aerospace engineering). However, was a key promoter of election fraud claims following the 2020 election — a direct contradiction of evidence-based governance. Legislative behavior undermines the analytical credibility his credentials suggest.",
+        "keyIssues": ["Defense", "Homeland Security", "Foreign Affairs", "Economy"],
+        "education": ["M.B.A., Penn State University", "B.S. Aerospace Engineering, Penn State University"],
+        "experience": ["U.S. Representative since 2013", "Former Chair, House Freedom Caucus", "U.S. Army, Brigadier General (ret.), Helicopter Pilot", "Pennsylvania State Representative"],
+        "website": "https://perry.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-11": [
+      {
+        "id": "rep-pa-11-001",
+        "name": "Lloyd Smucker",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Washington and Lee University. Career as construction company executive and state senator. Business background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Tax Policy", "Agriculture", "Small Business"],
+        "education": ["B.S., Washington and Lee University"],
+        "experience": ["U.S. Representative since 2017", "House Ways and Means Committee", "Pennsylvania State Senator", "Construction Company Executive"],
+        "website": "https://smucker.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-12": [
+      {
+        "id": "rep-pa-12-001",
+        "name": "Summer Lee",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Penn State University and J.D. from Howard University School of Law. Career in community organizing and state legislature. Deep policy engagement on labor and civil rights but approach is more advocacy-driven than analytically rigorous.",
+        "keyIssues": ["Labor", "Housing", "Economy", "Criminal Justice"],
+        "education": ["J.D., Howard University School of Law", "B.A., Penn State University"],
+        "experience": ["U.S. Representative since 2023", "Pennsylvania State Representative", "Community Organizer"],
+        "website": "https://summerlee.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-13": [
+      {
+        "id": "rep-pa-13-001",
+        "name": "John Joyce",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.S. from Penn State University and M.D. from Penn State College of Medicine. Career as physician and surgeon. Medical degree provides rigorous scientific and analytical foundation. Applies medical expertise to healthcare policy. Serves on House Energy and Commerce Committee.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Agriculture", "Economy", "Veterans Affairs"],
+        "education": ["M.D., Penn State College of Medicine", "B.S., Penn State University"],
+        "experience": ["U.S. Representative since 2019", "House Energy and Commerce Committee", "Physician and Surgeon", "Pennsylvania State Republican Committee"],
+        "website": "https://johnjoyce.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-14": [
+      {
+        "id": "rep-pa-14-001",
+        "name": "Guy Reschenthaler",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Washington and Jefferson College and J.D. from Duquesne University School of Law. Career as U.S. Navy JAG officer and attorney. Legal and military background. Pennsylvania state judge. Solid analytical credentials but approach not distinctly evidence-based.",
+        "keyIssues": ["Judiciary", "Defense", "Economy", "Veterans Affairs"],
+        "education": ["J.D., Duquesne University School of Law", "B.A., Washington and Jefferson College"],
+        "experience": ["U.S. Representative since 2019", "House Republican Whip", "Pennsylvania State Judge", "U.S. Navy JAG Officer", "Attorney"],
+        "website": "https://reschenthaler.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-15": [
+      {
+        "id": "rep-pa-15-001",
+        "name": "Glenn Thompson",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Penn State University (nutrition) and M.S. from Penn State. Career as recreational therapist and state legislator. Chairman of House Agriculture Committee. Healthcare and rehabilitation background provides some clinical analytical skills. Deep agriculture policy expertise. Solid but approach not distinctly research-driven.",
+        "keyIssues": ["Agriculture", "Education", "Healthcare", "Energy"],
+        "education": ["M.S., Penn State University", "B.S. Nutrition, Penn State University"],
+        "experience": ["U.S. Representative since 2009", "Chairman, House Agriculture Committee", "Recreational Therapist", "Healthcare Professional"],
+        "website": "https://glenn.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-16": [
+      {
+        "id": "rep-pa-16-001",
+        "name": "Mike Kelly",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Notre Dame. Career as car dealership owner (Kelly Automotive Group). Business background with Notre Dame foundation. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Manufacturing", "Tax Policy", "Veterans Affairs"],
+        "education": ["B.A., University of Notre Dame"],
+        "experience": ["U.S. Representative since 2011", "House Ways and Means Committee", "Car Dealership Owner (Kelly Automotive Group)"],
+        "website": "https://kelly.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "PA-17": [
+      {
+        "id": "rep-pa-17-001",
+        "name": "Chris Deluzio",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. from the United States Naval Academy and J.D. from University of California, Los Angeles (UCLA) School of Law. U.S. Navy Reserve officer. Career as election security and democracy attorney. Naval Academy provides rigorous analytical foundation. UCLA Law is an elite institution. Applies legal and national security expertise to election security and workers' rights policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Workers' Rights", "Election Security", "Manufacturing", "Defense"],
+        "education": ["J.D., UCLA School of Law", "B.A., U.S. Naval Academy"],
+        "experience": ["U.S. Representative since 2023", "U.S. Navy Reserve Officer", "Election Security Attorney", "Policy Director, Cyber and Infrastructure Security"],
+        "website": "https://deluzio.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

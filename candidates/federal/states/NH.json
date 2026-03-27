@@ -2,6 +2,68 @@
   "state": "NH",
   "stateName": "New Hampshire",
   "stateFips": "33",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-nh-001",
+      "name": "Jeanne Shaheen",
+      "party": "Democratic",
+      "isNerd": false,
+      "nerdScore": 50,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from Shippensburg University and M.S.S. from University of Mississippi. Career as high school teacher, then governor of New Hampshire, then senator. Deep legislative expertise across foreign affairs, energy, and small business. Solid policy knowledge but approach is more experiential and diplomatic than analytically rigorous.",
+      "keyIssues": ["Foreign Affairs", "Energy", "Small Business", "Education"],
+      "education": ["M.S.S., University of Mississippi", "B.A., Shippensburg University"],
+      "experience": ["U.S. Senator since 2009", "Governor of New Hampshire, 1997-2003", "New Hampshire State Senator", "High School Teacher"],
+      "website": "https://www.shaheen.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-nh-002",
+      "name": "Maggie Hassan",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 55,
+      "nerdReason": "B.A. from Brown University and J.D. from Northeastern University School of Law. Former governor of New Hampshire. Career as attorney specializing in education law. Brown University provides rigorous liberal arts analytical training. Deep policy expertise in healthcare, education, and cybersecurity. Known for bipartisan, methodical approach to technology and security policy.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Education", "Cybersecurity", "Economy"],
+      "education": ["J.D., Northeastern University School of Law", "B.A., Brown University"],
+      "experience": ["U.S. Senator since 2017", "Governor of New Hampshire, 2013-2017", "New Hampshire State Senator", "Education Attorney"],
+      "website": "https://www.hassan.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "NH-01": [
+      {
+        "id": "rep-nh-01-001",
+        "name": "Chris Pappas",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Harvard University. Career as restaurant owner and state legislator. Harvard degree provides intellectual foundation but career path is more entrepreneurial and community-focused than analytically driven.",
+        "keyIssues": ["Veterans Affairs", "Small Business", "Transportation", "Economy"],
+        "education": ["B.A., Harvard University"],
+        "experience": ["U.S. Representative since 2019", "New Hampshire State Representative", "New Hampshire Executive Council", "Restaurant Owner"],
+        "website": "https://pappas.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NH-02": [
+      {
+        "id": "rep-nh-02-001",
+        "name": "Maggie Goodlander",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 75,
+        "nerdReason": "B.A. in history from Yale University and J.D. from Yale Law School. Clerked for Chief Judge Merrick Garland on the D.C. Circuit and for U.S. Supreme Court Justice Stephen Breyer. Navy Reserve intelligence officer. Deputy Assistant Attorney General at DOJ Antitrust Division. Professor of constitutional law at University of New Hampshire and Dartmouth. Combines Supreme Court-level legal analysis with military intelligence, antitrust policy expertise, and academic scholarship. One of the most intellectually credentialed new members of Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Antitrust", "National Security", "Constitution", "Economy"],
+        "education": ["J.D., Yale Law School", "B.A. History, Yale University"],
+        "experience": ["U.S. Representative since 2025", "Deputy Asst. Attorney General, DOJ Antitrust Division", "Supreme Court Law Clerk to Justice Stephen Breyer", "D.C. Circuit Law Clerk to Chief Judge Merrick Garland", "U.S. Navy Reserve, Intelligence Officer", "Professor, University of New Hampshire and Dartmouth"],
+        "website": "https://goodlander.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

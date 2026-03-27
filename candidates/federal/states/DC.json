@@ -3,5 +3,22 @@
   "stateName": "District of Columbia",
   "stateFips": "11",
   "senators": [],
-  "house": {}
+  "house": {
+    "DC-01": [
+      {
+        "id": "rep-dc-01-001",
+        "name": "Eleanor Holmes Norton",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 72,
+        "nerdReason": "B.A. from Antioch College, M.A. and J.D. from Yale University. Georgetown University Law professor (on leave). First female chair of the EEOC. ACLU assistant legal director. Combines rigorous legal scholarship with decades of civil rights policy expertise. Academic and analytical approach to governance rooted in constitutional law and equal protection scholarship.",
+        "notNerdReason": null,
+        "keyIssues": ["DC Statehood", "Civil Rights", "Transportation", "Federal Workforce"],
+        "education": ["J.D., Yale Law School", "M.A., Yale University", "B.A., Antioch College"],
+        "experience": ["Delegate to U.S. House since 1991 (non-voting)", "Professor, Georgetown University Law Center", "Chair, Equal Employment Opportunity Commission, 1977-1981", "Assistant Legal Director, ACLU", "Civil Rights Activist, SNCC"],
+        "website": "https://norton.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

@@ -2,6 +2,484 @@
   "state": "FL",
   "stateName": "Florida",
   "stateFips": "12",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-fl-001",
+      "name": "Rick Scott",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 42,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from University of Missouri-Kansas City and J.D. from SMU. Navy radar technician. Built Columbia/HCA into the largest for-profit healthcare company. Business acumen and scale of operation show executive analytical skills, but approach to governance is more business-instinct than data-driven. Healthcare fraud settlement under his leadership raises questions about evidence-based decision-making.",
+      "keyIssues": ["Healthcare", "Economy", "Immigration", "Fiscal Policy"],
+      "education": ["J.D., Southern Methodist University", "B.A., University of Missouri-Kansas City"],
+      "experience": ["U.S. Senator since 2019", "Governor of Florida, 2011-2019", "CEO, Columbia/HCA Healthcare", "U.S. Navy, Radar Technician"],
+      "website": "https://www.rickscott.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-fl-002",
+      "name": "Ashley Moody",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 40,
+      "notNerdReason": "B.A. and M.S. in accounting from University of Florida, J.D. from UF Law, and LL.M. in international law from Stetson. Four post-secondary degrees across accounting, law, and international law. Became youngest judge in Florida at 31. Methodical legal and prosecutorial career demonstrates strong analytical rigor. Master's in accounting shows quantitative foundation.",
+      "nerdReason": null,
+      "keyIssues": ["Law Enforcement", "Immigration", "Drug Policy", "Consumer Protection"],
+      "education": ["LL.M. International Law, Stetson University College of Law", "J.D., University of Florida School of Law", "M.S. Accounting, University of Florida", "B.A., University of Florida"],
+      "experience": ["U.S. Senator since 2025 (appointed)", "Florida Attorney General, 2019-2025", "Circuit Court Judge, Hillsborough County", "Federal Prosecutor, U.S. Attorney's Office", "Attorney, Holland & Knight"],
+      "website": "https://www.moody.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "FL-01": [
+      {
+        "id": "rep-fl-01-001",
+        "name": "Jimmy Patronis",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "A.A. in restaurant management from Gulf Coast Community College and B.A. in political science from Florida State University. Career in family restaurant business and state government (FL CFO). No analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Insurance", "Veterans Affairs", "Defense"],
+        "education": ["B.A. Political Science, Florida State University", "A.A. Restaurant Management, Gulf Coast Community College"],
+        "experience": ["U.S. Representative since 2025 (special election)", "Florida Chief Financial Officer, 2017-2025", "Florida State Representative", "Family Restaurant Business Owner"],
+        "website": "https://patronis.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-02": [
+      {
+        "id": "rep-fl-02-001",
+        "name": "Neal Dunn",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 68,
+        "nerdReason": "B.S. in interdisciplinary sciences from Washington and Lee University and M.D. from George Washington University School of Medicine. Practiced as a urologist for over 25 years. U.S. Army surgeon (Major). Medical training and decades of clinical practice demonstrate deep scientific and analytical expertise applied to healthcare policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Veterans Affairs", "Agriculture", "Defense"],
+        "education": ["M.D., George Washington University School of Medicine", "B.S. Interdisciplinary Sciences, Washington and Lee University"],
+        "experience": ["U.S. Representative since 2017", "Urologist, 25+ years", "U.S. Army, Major (surgeon)", "President, Florida Medical Association"],
+        "website": "https://dunn.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-03": [
+      {
+        "id": "rep-fl-03-001",
+        "name": "Kat Cammack",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science from Metropolitan State University of Denver. Career as congressional staffer (deputy chief of staff to Rep. Ted Yoho). Grew up on a cattle ranch. No analytical or technical background beyond political operations.",
+        "keyIssues": ["Agriculture", "Veterans Affairs", "Border Security", "Energy"],
+        "education": ["B.A. Political Science, Metropolitan State University of Denver"],
+        "experience": ["U.S. Representative since 2021", "Deputy Chief of Staff to Rep. Ted Yoho", "Small Business Owner", "Cattle Rancher"],
+        "website": "https://cammack.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-04": [
+      {
+        "id": "rep-fl-04-001",
+        "name": "Aaron Bean",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Jacksonville University. Career in state legislature and family business. No notable analytical, technical, or evidence-based policy approach.",
+        "keyIssues": ["Education", "Economy", "Veterans Affairs", "Healthcare"],
+        "education": ["B.S., Jacksonville University"],
+        "experience": ["U.S. Representative since 2023", "Florida State Senator, 2012-2022", "Florida State Representative", "Businessman"],
+        "website": "https://bean.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-05": [
+      {
+        "id": "rep-fl-05-001",
+        "name": "John Rutherford",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Florida State University, graduate of FBI National Academy. 12 years as Jacksonville Sheriff. Law enforcement leadership requires data-driven crime reduction strategies, but overall approach is more operational than analytically rigorous.",
+        "keyIssues": ["Law Enforcement", "Veterans Affairs", "Defense", "Immigration"],
+        "education": ["B.A., Florida State University", "FBI National Academy Graduate"],
+        "experience": ["U.S. Representative since 2017", "Sheriff, Jacksonville/Duval County, 2003-2015", "Jacksonville Sheriff's Office, 30+ years"],
+        "website": "https://rutherford.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-06": [
+      {
+        "id": "rep-fl-06-001",
+        "name": "Randy Fine",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.A. in government from Harvard University and M.B.A. from Harvard Business School. Elite academic credentials demonstrate strong analytical and quantitative foundation. Business background in healthcare and technology before entering politics. Harvard Business School training emphasizes data-driven decision-making.",
+        "notNerdReason": null,
+        "keyIssues": ["Economy", "Education", "Healthcare", "Defense"],
+        "education": ["M.B.A., Harvard Business School", "B.A. Government, Harvard University"],
+        "experience": ["U.S. Representative since 2025 (special election)", "Florida State Representative, 2016-2024", "Healthcare and Technology Businessman"],
+        "website": "https://fine.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-07": [
+      {
+        "id": "rep-fl-07-001",
+        "name": "Cory Mills",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "U.S. Army combat veteran and defense contractor. No publicly documented college degree. Career in military and private defense sector. Operational and tactical expertise but no analytical or evidence-based policy approach.",
+        "keyIssues": ["Defense", "Veterans Affairs", "Border Security", "Economy"],
+        "education": ["U.S. Army training and military education"],
+        "experience": ["U.S. Representative since 2023", "U.S. Army, Combat Veteran (Iraq, Afghanistan)", "Defense Contractor", "CEO, PACEM Defense"],
+        "website": "https://mills.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-08": [
+      {
+        "id": "rep-fl-08-001",
+        "name": "Mike Haridopolos",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.A. in history from Stetson University, M.A. in history from University of Arkansas, and Ph.D. from University of Arkansas. A doctorate in any field demonstrates deep commitment to research, analytical methodology, and scholarly rigor. Career as a college professor of U.S. history and political science before entering politics. Former president of the Florida State Senate.",
+        "notNerdReason": null,
+        "keyIssues": ["Space and Technology", "Education", "Economy", "Defense"],
+        "education": ["Ph.D. History, University of Arkansas", "M.A. History, University of Arkansas", "B.A. History, Stetson University"],
+        "experience": ["U.S. Representative since 2025", "Florida Senate President, 2010-2012", "College Professor, Brevard Community College", "Instructor, University of Florida"],
+        "website": "https://haridopolos.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-09": [
+      {
+        "id": "rep-fl-09-001",
+        "name": "Darren Soto",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Rutgers University and J.D. from George Washington University Law School. Career as attorney and state legislator with strong focus on technology, energy, and space policy. Serves on the Energy and Commerce Committee. Known for policy depth on blockchain, clean energy, and NASA-related issues.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "Energy", "Space", "Puerto Rico"],
+        "education": ["J.D., George Washington University Law School", "B.A., Rutgers University"],
+        "experience": ["U.S. Representative since 2017", "Florida State Senator", "Florida State Representative", "Attorney"],
+        "website": "https://soto.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-10": [
+      {
+        "id": "rep-fl-10-001",
+        "name": "Maxwell Frost",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "Attended Valencia College. Youngest member of Congress (Gen Z). Career in activism and political organizing (March for Our Lives, ACLU). Passionate advocate but approach is driven by grassroots activism rather than analytical or research-based frameworks.",
+        "keyIssues": ["Gun Safety", "Housing", "Climate", "Transportation"],
+        "education": ["Valencia College (attended)"],
+        "experience": ["U.S. Representative since 2023", "National Organizing Director, March for Our Lives", "Organizer, ACLU of Florida", "Campaign Organizer"],
+        "website": "https://frost.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-11": [
+      {
+        "id": "rep-fl-11-001",
+        "name": "Daniel Webster",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.S. in Electrical Engineering from Georgia Institute of Technology. One of very few members of Congress with an engineering degree. Career in air conditioning and heating business before entering politics, applying technical knowledge practically. Rose to Speaker of the Florida House. Engineering background provides genuine analytical and problem-solving foundation.",
+        "notNerdReason": null,
+        "keyIssues": ["Transportation", "Science and Technology", "Economy", "Energy"],
+        "education": ["B.S. Electrical Engineering, Georgia Institute of Technology"],
+        "experience": ["U.S. Representative since 2011", "Speaker, Florida House of Representatives", "Florida State Senator", "HVAC Business Owner"],
+        "website": "https://webster.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-12": [
+      {
+        "id": "rep-fl-12-001",
+        "name": "Gus Bilirakis",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Florida and J.D. from Stetson University College of Law. Career as attorney and state legislator. Serves on Energy and Commerce Committee with focus on health policy. Solid policy engagement but primarily legal and political background without deep analytical rigor.",
+        "keyIssues": ["Healthcare", "Veterans Affairs", "Energy", "Technology"],
+        "education": ["J.D., Stetson University College of Law", "B.A., University of Florida"],
+        "experience": ["U.S. Representative since 2007", "Florida State Representative", "Attorney", "Son of former Rep. Michael Bilirakis"],
+        "website": "https://bilirakis.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-13": [
+      {
+        "id": "rep-fl-13-001",
+        "name": "Anna Paulina Luna",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in biology from University of West Florida. Air Force veteran. Biology degree provides some STEM foundation but limited evidence of applying scientific background in legislative work. Policy focus driven by ideology rather than evidence-based analysis.",
+        "keyIssues": ["Veterans Affairs", "Economy", "Border Security", "Defense"],
+        "education": ["B.A. Biology, University of West Florida"],
+        "experience": ["U.S. Representative since 2023", "U.S. Air Force Veteran", "Activist and Advocate"],
+        "website": "https://luna.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-14": [
+      {
+        "id": "rep-fl-14-001",
+        "name": "Kathy Castor",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Emory University and J.D. from Florida State University. Career as attorney focused on environmental and consumer protection. Chaired the House Select Committee on the Climate Crisis, producing a detailed, data-driven climate action plan. Deep policy expertise in climate and energy backed by research and analysis.",
+        "notNerdReason": null,
+        "keyIssues": ["Climate", "Energy", "Healthcare", "Education"],
+        "education": ["J.D., Florida State University College of Law", "B.A. Political Science, Emory University"],
+        "experience": ["U.S. Representative since 2007", "Former Chair, House Select Committee on Climate Crisis", "Hillsborough County Commissioner", "Attorney, environmental and consumer protection"],
+        "website": "https://castor.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-15": [
+      {
+        "id": "rep-fl-15-001",
+        "name": "Laurel Lee",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from University of Florida and J.D. from University of Florida Levin College of Law. Federal prosecutor and circuit court judge. Served as Florida Secretary of State overseeing election security and cybersecurity initiatives. Legal career demonstrates strong analytical methodology. Election administration role required engagement with data systems and technology.",
+        "notNerdReason": null,
+        "keyIssues": ["Homeland Security", "Cybersecurity", "Judiciary", "Immigration"],
+        "education": ["J.D., University of Florida Levin College of Law", "B.A., University of Florida"],
+        "experience": ["U.S. Representative since 2023", "Florida Secretary of State, 2019-2022", "Circuit Court Judge, Hillsborough County", "Federal Prosecutor"],
+        "website": "https://laurellee.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-16": [
+      {
+        "id": "rep-fl-16-001",
+        "name": "Vern Buchanan",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.B.A. from Cleary University and M.B.A. from University of Detroit. Successful businessman (auto dealerships, Ritz-Carlton franchise). Business education and entrepreneurial success show practical analytical skills but governance approach is more business-oriented than research-driven.",
+        "keyIssues": ["Economy", "Tax Policy", "Veterans Affairs", "Trade"],
+        "education": ["M.B.A., University of Detroit", "B.B.A., Cleary University"],
+        "experience": ["U.S. Representative since 2007", "Chairman, House Ways and Means Committee", "Auto Dealership Owner", "Michigan Air National Guard"],
+        "website": "https://buchanan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-17": [
+      {
+        "id": "rep-fl-17-001",
+        "name": "Greg Steube",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Florida and J.D. from University of Florida Levin College of Law. U.S. Army veteran (JAG officer, Iraq). Legal and military background. Policy positions driven by ideology rather than data or evidence-based frameworks.",
+        "keyIssues": ["Gun Rights", "Immigration", "Veterans Affairs", "Judiciary"],
+        "education": ["J.D., University of Florida Levin College of Law", "B.A., University of Florida"],
+        "experience": ["U.S. Representative since 2019", "Florida State Senator", "Florida State Representative", "U.S. Army, JAG Officer (Iraq)", "Attorney"],
+        "website": "https://steube.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-18": [
+      {
+        "id": "rep-fl-18-001",
+        "name": "Scott Franklin",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.S. from U.S. Naval Academy and M.B.A. from Embry-Riddle Aeronautical University. 26-year career as a Navy pilot and officer. Naval Academy education provides rigorous technical and engineering foundation. Embry-Riddle is a leading aerospace institution. Military aviation requires exceptional analytical skills, precision, and data-driven decision-making.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Economy", "Veterans Affairs", "Agriculture"],
+        "education": ["M.B.A., Embry-Riddle Aeronautical University", "B.S., U.S. Naval Academy"],
+        "experience": ["U.S. Representative since 2021", "U.S. Navy, 26 years (pilot and officer)", "Business Owner", "Lakeland City Commissioner"],
+        "website": "https://franklin.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-19": [
+      {
+        "id": "rep-fl-19-001",
+        "name": "Byron Donalds",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in finance from Florida State University. Career in banking, finance, and insurance. Financial background provides quantitative foundation but legislative approach is more ideologically driven than analytically rigorous.",
+        "keyIssues": ["Economy", "Education", "Government Reform", "Fiscal Policy"],
+        "education": ["B.S. Finance, Florida State University"],
+        "experience": ["U.S. Representative since 2021", "Florida State Representative", "Financial Advisor and Insurance Agent", "Banking Professional"],
+        "website": "https://donalds.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-20": [
+      {
+        "id": "rep-fl-20-001",
+        "name": "Sheila Cherfilus-McCormick",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Howard University and J.D. from St. Thomas University School of Law. CEO of a healthcare company. Legal and healthcare management background shows business analytical skills but not distinctly research-driven or evidence-based governance.",
+        "keyIssues": ["Healthcare", "Economy", "Immigration", "Gun Safety"],
+        "education": ["J.D., St. Thomas University School of Law", "B.A., Howard University"],
+        "experience": ["U.S. Representative since 2022 (special election)", "CEO, Trinity Healthcare Services", "Attorney"],
+        "website": "https://cherfilus-mccormick.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-21": [
+      {
+        "id": "rep-fl-21-001",
+        "name": "Brian Mast",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. in economics from Harvard Extension School. U.S. Army explosive ordnance disposal technician — one of the most technically demanding military specialties, requiring deep analytical and scientific knowledge. Lost both legs in Afghanistan clearing IEDs. Post-injury, worked as an explosive specialist for DHS and NNSA. Purple Heart and Bronze Star recipient. Combines technical military expertise with analytical economics education.",
+        "notNerdReason": null,
+        "keyIssues": ["Veterans Affairs", "Environment", "Foreign Affairs", "Defense"],
+        "education": ["B.A. Economics, Harvard University Extension School"],
+        "experience": ["U.S. Representative since 2017", "U.S. Army, Explosive Ordnance Disposal Technician", "Explosive Specialist, Dept. of Homeland Security", "Analyst, National Nuclear Security Administration", "Purple Heart and Bronze Star recipient"],
+        "website": "https://mast.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-22": [
+      {
+        "id": "rep-fl-22-001",
+        "name": "Lois Frankel",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. from Boston University and J.D. from Georgetown University Law Center. Career as attorney, state legislator, and mayor of West Palm Beach. Georgetown Law graduate. Long legislative track record with deep policy expertise in women's rights and foreign affairs. Methodical approach to policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Women's Rights", "Foreign Affairs", "Healthcare", "Economy"],
+        "education": ["J.D., Georgetown University Law Center", "B.A., Boston University"],
+        "experience": ["U.S. Representative since 2013", "Mayor, West Palm Beach, 2003-2011", "Florida State Representative", "Attorney"],
+        "website": "https://frankel.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-23": [
+      {
+        "id": "rep-fl-23-001",
+        "name": "Jared Moskowitz",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from George Washington University and J.D. from Nova Southeastern University. Served as director of the Florida Division of Emergency Management, managing multi-billion dollar disaster response operations requiring data-driven logistics and analytical planning. Deep expertise in crisis management, public health response, and FEMA coordination demonstrates analytical rigor applied to governance.",
+        "notNerdReason": null,
+        "keyIssues": ["Emergency Management", "Gun Safety", "Climate", "Homeland Security"],
+        "education": ["J.D., Nova Southeastern University", "B.A., George Washington University"],
+        "experience": ["U.S. Representative since 2023", "Director, Florida Division of Emergency Management", "Florida State Representative", "Vice Mayor, Parkland, FL", "Attorney"],
+        "website": "https://moskowitz.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-24": [
+      {
+        "id": "rep-fl-24-001",
+        "name": "Frederica Wilson",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Fisk University and M.S. from University of Miami. Career as educator and school administrator. Education policy expertise built on practical experience rather than research-driven approach. Deep commitment to education but not a distinctly analytical policy voice.",
+        "keyIssues": ["Education", "Workforce Development", "Healthcare", "Immigration"],
+        "education": ["M.S., University of Miami", "B.S., Fisk University"],
+        "experience": ["U.S. Representative since 2011", "Florida State Senator", "Florida State Representative", "Elementary School Principal", "Educator"],
+        "website": "https://wilson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-25": [
+      {
+        "id": "rep-fl-25-001",
+        "name": "Debbie Wasserman Schultz",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. and M.A. in political science from University of Florida. Former chair of the Democratic National Committee. Deep policy expertise across healthcare, education, and appropriations built over decades in Congress. Known for meticulous organizational and strategic approach. Serves on Appropriations Committee with detailed oversight of federal spending.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Education", "Appropriations", "Climate"],
+        "education": ["M.A. Political Science, University of Florida", "B.A. Political Science, University of Florida"],
+        "experience": ["U.S. Representative since 2005", "Former Chair, Democratic National Committee", "Florida State Senator", "Florida State Representative"],
+        "website": "https://wassermanschultz.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-26": [
+      {
+        "id": "rep-fl-26-001",
+        "name": "Mario Diaz-Balart",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "Attended University of South Florida but did not graduate. Career entirely in state and federal politics. Deep experience in government but no academic credentials or analytical policy background. Long-tenured appropriator with practical political skills.",
+        "keyIssues": ["Appropriations", "Cuba Policy", "Transportation", "Immigration"],
+        "education": ["University of South Florida (attended, no degree)"],
+        "experience": ["U.S. Representative since 2003", "Florida State Senator", "Florida State Representative", "Former marketing representative"],
+        "website": "https://mariodiazbalart.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-27": [
+      {
+        "id": "rep-fl-27-001",
+        "name": "Maria Elvira Salazar",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in communications from University of Miami. Career as Emmy Award-winning TV journalist. Strong communication skills and international affairs knowledge but approach is more narrative-driven than analytical. No technical or research background.",
+        "keyIssues": ["Immigration", "Cuba/Latin America Policy", "Economy", "Small Business"],
+        "education": ["B.A. Communications, University of Miami"],
+        "experience": ["U.S. Representative since 2021", "TV Journalist, Univision and Telemundo (Emmy Award-winning)", "Media Correspondent"],
+        "website": "https://salazar.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "FL-28": [
+      {
+        "id": "rep-fl-28-001",
+        "name": "Carlos Gimenez",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Barry University and M.P.A. from Florida International University. Career as firefighter rising to fire chief, then mayor of Miami-Dade County (largest county in FL). MPA provides public administration analytical skills. Emergency management and county leadership require data-informed decisions but overall approach is more operational than research-driven.",
+        "keyIssues": ["Homeland Security", "Immigration", "Economy", "Transportation"],
+        "education": ["M.P.A., Florida International University", "B.A., Barry University"],
+        "experience": ["U.S. Representative since 2021", "Mayor, Miami-Dade County, 2011-2020", "Miami-Dade Fire Chief", "Firefighter, 25+ years"],
+        "website": "https://gimenez.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

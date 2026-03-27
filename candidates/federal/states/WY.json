@@ -2,6 +2,52 @@
   "state": "WY",
   "stateName": "Wyoming",
   "stateFips": "56",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-wy-001",
+      "name": "John Barrasso",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 62,
+      "nerdReason": "M.D. from Georgetown University School of Medicine. Practiced as a board-certified orthopedic surgeon for 24 years. Former president of the Wyoming Medical Society and named Wyoming Physician of the Year. Medical expertise informs his healthcare policy positions.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Energy", "Public Lands"],
+      "education": ["M.D., Georgetown University School of Medicine", "B.S., Georgetown University"],
+      "experience": ["U.S. Senator since 2007", "Senate Republican Conference Chair", "Orthopedic Surgeon, 24 years", "President, Wyoming Medical Society"],
+      "website": "https://www.barrasso.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-wy-002",
+      "name": "Cynthia Lummis",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 52,
+      "nerdReason": null,
+      "notNerdReason": "Holds two B.S. degrees in animal science and biology, showing science education. However, her career has been primarily in law, ranching, and politics. Her cryptocurrency and blockchain policy advocacy shows tech engagement, but application of scientific background in legislation is limited.",
+      "keyIssues": ["Cryptocurrency Policy", "Energy", "Agriculture", "Fiscal Policy"],
+      "education": ["J.D., University of Wyoming", "B.S. Biology, University of Wyoming", "B.S. Animal Science, University of Wyoming"],
+      "experience": ["U.S. Senator since 2021", "U.S. Representative, WY At-Large, 2009-2017", "Wyoming State Treasurer, 1999-2007", "Wyoming State Legislature, 1979-1995"],
+      "website": "https://www.lummis.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "WY-01": [
+      {
+        "id": "rep-wy-01-001",
+        "name": "Harriet Hageman",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "J.D. and B.S. in business administration. Career focused on natural resources litigation and water rights law. No STEM or technical background. Policy positions emphasize reducing federal regulatory authority rather than evidence-based governance.",
+        "keyIssues": ["Federal Lands", "Water Rights", "Agriculture"],
+        "education": ["J.D., University of Wyoming College of Law", "B.S. Business Administration, University of Wyoming"],
+        "experience": ["U.S. Representative since 2023", "Natural Resources Attorney, 34 years", "Law Clerk, U.S. Court of Appeals, 10th Circuit", "Co-founder, Wyoming Conservation Alliance"],
+        "website": "https://hageman.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

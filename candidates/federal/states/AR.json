@@ -2,6 +2,100 @@
   "state": "AR",
   "stateName": "Arkansas",
   "stateFips": "05",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ar-001",
+      "name": "Tom Cotton",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 40,
+      "nerdReason": null,
+      "notNerdReason": "A.B. and J.D. from Harvard. Career in law and military service (Army Infantry Officer, Bronze Star, combat tours in Iraq and Afghanistan). Strong academic credentials but all in law and political science. Policy focus on defense and foreign affairs rather than evidence-based or data-driven governance.",
+      "keyIssues": ["National Defense", "Foreign Policy", "Immigration", "Veterans Affairs"],
+      "education": ["J.D., Harvard Law School", "A.B., Harvard University"],
+      "experience": ["U.S. Senator since 2015", "U.S. Representative, AR-04, 2013-2015", "U.S. Army Infantry Officer (Iraq, Afghanistan)", "Law Clerk, U.S. Court of Appeals", "Attorney, Gibson Dunn & Crutcher"],
+      "website": "https://www.cotton.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ar-002",
+      "name": "John Boozman",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 55,
+      "nerdReason": null,
+      "notNerdReason": "Doctor of Optometry from Southern College of Optometry. Practiced clinical optometry for over 20 years and co-founded a regional eye clinic. Health sciences professional degree is STEM-adjacent. Established low-vision programs at Arkansas School for the Blind. However, legislative career has focused on agriculture and veterans rather than science or evidence-based policy.",
+      "keyIssues": ["Agriculture", "Veterans Affairs", "Healthcare", "Infrastructure"],
+      "education": ["O.D., Southern College of Optometry", "University of Arkansas (pre-optometry coursework)"],
+      "experience": ["U.S. Senator since 2011", "U.S. Representative, AR-03, 2001-2011", "Co-founder, Boozman-Hof Regional Eye Clinic", "Optometrist, 20+ years"],
+      "website": "https://www.boozman.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "AR-01": [
+      {
+        "id": "rep-ar-01-001",
+        "name": "Rick Crawford",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in agriculture business and economics. U.S. Army explosive ordnance disposal technician, which is highly technical work. However, post-military career was in agricultural media and radio. Now chairs the House Intelligence Committee. Technical military skills but no STEM education or evidence-based policy track record.",
+        "keyIssues": ["Agriculture", "Intelligence", "Defense", "Infrastructure"],
+        "education": ["B.S. Agriculture Business and Economics, Arkansas State University"],
+        "experience": ["U.S. Representative since 2011", "Chairman, House Intelligence Committee", "U.S. Army, Explosive Ordnance Disposal Technician", "Owner, AgWatch Network (farm news)", "News Anchor and Agri-reporter, KAIT-TV"],
+        "website": "https://crawford.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AR-02": [
+      {
+        "id": "rep-ar-02-001",
+        "name": "French Hill",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in economics from Vanderbilt. Extensive career in banking, Treasury, and economic policy. Served as Deputy Assistant Secretary of the Treasury and coordinated White House economic policy. Strong quantitative and financial expertise but no STEM degree. Economics knowledge is applied practically but not in a scientific or research-driven manner.",
+        "keyIssues": ["Financial Services", "Economy", "Foreign Affairs", "Technology"],
+        "education": ["B.A. Economics, Vanderbilt University", "Certified Corporate Director, UCLA Anderson School of Management"],
+        "experience": ["U.S. Representative since 2015", "Chairman and CEO, Delta Trust & Bank", "Executive Secretary, President's Economic Policy Council", "Deputy Assistant Secretary of the Treasury for Corporate Finance"],
+        "website": "https://hill.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AR-03": [
+      {
+        "id": "rep-ar-03-001",
+        "name": "Steve Womack",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in communications from Arkansas Tech University. Career in radio station management, military (National Guard Colonel), and financial consulting. No STEM or technical background. No notable evidence-based policy focus.",
+        "keyIssues": ["Budget", "Defense", "Veterans Affairs", "Economy"],
+        "education": ["B.A. Communications, Arkansas Tech University"],
+        "experience": ["U.S. Representative since 2011", "Colonel, Arkansas National Guard (ret.)", "Mayor of Rogers, Arkansas", "Financial Consultant, Merrill Lynch", "Radio Station Manager"],
+        "website": "https://womack.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AR-04": [
+      {
+        "id": "rep-ar-04-001",
+        "name": "Bruce Westerman",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 78,
+        "nerdReason": "B.S. in Biological and Agricultural Engineering from University of Arkansas and M.S. in Forestry from Yale University. Practiced as a professional engineer and forester for 22 years before Congress. Chairs the House Natural Resources Committee where he applies his technical expertise to forest management, conservation, and environmental policy. One of the few members of Congress with a genuine engineering degree.",
+        "notNerdReason": null,
+        "keyIssues": ["Natural Resources", "Forestry", "Energy", "Infrastructure"],
+        "education": ["M.F., Yale University School of Forestry", "B.S. Biological and Agricultural Engineering, University of Arkansas"],
+        "experience": ["U.S. Representative since 2015", "Chairman, House Natural Resources Committee", "Engineer/Forester, Mid-South Engineering, 22 years", "Arkansas House of Representatives, Majority Leader"],
+        "website": "https://westerman.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

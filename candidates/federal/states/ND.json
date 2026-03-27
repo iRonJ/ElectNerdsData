@@ -2,6 +2,52 @@
   "state": "ND",
   "stateName": "North Dakota",
   "stateFips": "38",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-nd-001",
+      "name": "John Hoeven",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 50,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in economics and history from Dartmouth, MBA from Northwestern. Extensive banking career including CEO of Bank of North Dakota. Strong financial and economic expertise but no STEM or scientific background. Policy focus on agriculture and energy is pragmatic but not notably data-driven.",
+      "keyIssues": ["Agriculture", "Energy", "Infrastructure", "Fiscal Policy"],
+      "education": ["M.B.A., Northwestern University", "B.A. Economics and History, Dartmouth College"],
+      "experience": ["U.S. Senator since 2011", "Governor of North Dakota, 2000-2010", "President and CEO, Bank of North Dakota, 1993-2000", "Executive VP, First Western Bank & Trust"],
+      "website": "https://www.hoeven.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-nd-002",
+      "name": "Kevin Cramer",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 38,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from Concordia College and M.A. in management from University of Mary. Career in state government, party politics, and utility regulation. Served on North Dakota Public Service Commission but background is administrative rather than technical. No STEM education or notable evidence-based policy advocacy.",
+      "keyIssues": ["Energy", "Agriculture", "Veterans Affairs", "Defense"],
+      "education": ["M.A. Management, University of Mary", "B.A., Concordia College"],
+      "experience": ["U.S. Senator since 2019", "U.S. Representative, ND At-Large, 2013-2019", "North Dakota Public Service Commissioner, 2003-2012", "State Economic Development Director under Gov. Schafer"],
+      "website": "https://www.cramer.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "ND-01": [
+      {
+        "id": "rep-nd-01-001",
+        "name": "Julie Fedorchak",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in journalism from University of North Dakota. No STEM degree. However, served 12 years on the North Dakota Public Service Commission regulating utilities and energy, and served as president of NARUC. Deep energy regulatory expertise demonstrates data-engagement but core background is communications, not technical.",
+        "keyIssues": ["Energy", "Agriculture", "Infrastructure", "Economy"],
+        "education": ["B.A. Journalism, University of North Dakota"],
+        "experience": ["U.S. Representative since 2025", "North Dakota Public Service Commissioner, 2012-2025", "President, National Association of Regulatory Utility Commissioners", "State Director for U.S. Senator John Hoeven", "Communications Director for Gov. Ed Schafer"],
+        "website": "https://fedorchak.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

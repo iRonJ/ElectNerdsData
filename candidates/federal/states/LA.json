@@ -2,6 +2,132 @@
   "state": "LA",
   "stateName": "Louisiana",
   "stateFips": "22",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-la-001",
+      "name": "Bill Cassidy",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 72,
+      "nerdReason": "B.S. from LSU and M.D. from LSU School of Medicine. Practiced as a gastroenterologist for decades. Associate professor at LSU Medical School, teaching medical students and residents. Founded the Greater Baton Rouge Community Clinic for uninsured patients. Now chairs the Senate HELP Committee. Combines deep clinical medical expertise with academic medicine and direct healthcare policy application.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Energy", "Economy", "Infrastructure"],
+      "education": ["M.D., LSU School of Medicine", "B.S., Louisiana State University"],
+      "experience": ["U.S. Senator since 2015", "Chairman, Senate HELP Committee", "U.S. Representative, LA-06, 2009-2015", "Gastroenterologist", "Associate Professor, LSU School of Medicine", "Founder, Greater Baton Rouge Community Clinic"],
+      "website": "https://www.cassidy.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-la-002",
+      "name": "John Kennedy",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 72,
+      "nerdReason": "B.A. magna cum laude (Phi Beta Kappa) from Vanderbilt University in philosophy, political science, and economics. J.D. from University of Virginia School of Law (executive editor of Virginia Law Review, Order of the Coif). B.C.L. with first class honours from Oxford University (Magdalen College). Triple-elite education across Vanderbilt, UVA Law, and Oxford. Extraordinary academic credentials demonstrating deep analytical rigor across philosophy, law, and legal scholarship.",
+      "notNerdReason": null,
+      "keyIssues": ["Judiciary", "Fiscal Policy", "Banking", "Appropriations"],
+      "education": ["B.C.L. (First Class Honours), Oxford University (Magdalen College)", "J.D., University of Virginia School of Law (Executive Editor, Virginia Law Review)", "B.A. Philosophy/Political Science/Economics (magna cum laude, Phi Beta Kappa), Vanderbilt University"],
+      "experience": ["U.S. Senator since 2017", "Louisiana State Treasurer, 2000-2017", "Special Counsel to Governor Buddy Roemer", "Attorney"],
+      "website": "https://www.kennedy.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "LA-01": [
+      {
+        "id": "rep-la-01-001",
+        "name": "Steve Scalise",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.S. in computer science from Louisiana State University. Worked as a software engineer and technology marketing executive before entering politics. Computer science degree provides strong analytical, logical, and technical foundation. Now serves as House Majority Leader. One of the few members of Congress with a CS degree.",
+        "notNerdReason": null,
+        "keyIssues": ["Energy", "Economy", "Healthcare", "Technology"],
+        "education": ["B.S. Computer Science (minor Political Science), Louisiana State University"],
+        "experience": ["U.S. Representative since 2008", "House Majority Leader", "Software Engineer", "Technology Marketing Executive", "Louisiana State Senator", "Louisiana State Representative"],
+        "website": "https://scalise.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "LA-02": [
+      {
+        "id": "rep-la-02-001",
+        "name": "Troy Carter",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Xavier University of Louisiana. Career in state and local politics. No analytical, technical, or evidence-based policy background.",
+        "keyIssues": ["Economy", "Infrastructure", "Criminal Justice", "Education"],
+        "education": ["B.A., Xavier University of Louisiana"],
+        "experience": ["U.S. Representative since 2021", "Louisiana State Senator", "Louisiana State Representative", "New Orleans City Council"],
+        "website": "https://troycarter.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "LA-03": [
+      {
+        "id": "rep-la-03-001",
+        "name": "Clay Higgins",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 15,
+        "nerdReason": null,
+        "notNerdReason": "No college degree. Career as police officer and sheriff's deputy who became known for his 'Crime Stoppers' TV segments. Military service. No academic credentials or analytical policy background.",
+        "keyIssues": ["Border Security", "Law Enforcement", "Defense", "Energy"],
+        "education": ["Some college coursework"],
+        "experience": ["U.S. Representative since 2017", "Reserve City Marshal, St. Landry Parish", "Police Officer", "U.S. Military Service"],
+        "website": "https://clayhiggins.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "LA-04": [
+      {
+        "id": "rep-la-04-001",
+        "name": "Mike Johnson",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Louisiana State University and J.D. from LSU Law Center. Career as constitutional law attorney. Now Speaker of the U.S. House of Representatives. Legal training provides analytical skills and constitutional expertise. However, policy approach driven by constitutional philosophy rather than evidence-based analysis. Deep procedural knowledge as Speaker.",
+        "keyIssues": ["Constitutional Law", "Judiciary", "Defense", "Economy"],
+        "education": ["J.D., LSU Paul M. Hebert Law Center", "B.A., Louisiana State University"],
+        "experience": ["U.S. Representative since 2017", "Speaker of the House since 2023", "Constitutional Law Attorney", "Louisiana State Representative"],
+        "website": "https://mikejohnson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "LA-05": [
+      {
+        "id": "rep-la-05-001",
+        "name": "Julia Letlow",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.A. and M.A. in speech communications from University of Louisiana at Monroe and Ph.D. in communications from University of South Florida. A doctorate demonstrates deep research methodology and analytical rigor. Academic career spanning ULM, Tulane University School of Medicine, and University of South Florida. Served as director of education and clinical instructor at Tulane Medical School. Combines scholarly communications research with healthcare education expertise.",
+        "notNerdReason": null,
+        "keyIssues": ["Education", "Agriculture", "Healthcare", "Economy"],
+        "education": ["Ph.D. Communications, University of South Florida", "M.A. Speech Communications, University of Louisiana at Monroe", "B.A. Speech Communications, University of Louisiana at Monroe"],
+        "experience": ["U.S. Representative since 2021", "Director of Education, Tulane University School of Medicine", "Clinical Instructor of Anesthesiology, Tulane", "Executive Director of External Affairs, ULM"],
+        "website": "https://letlow.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "LA-06": [
+      {
+        "id": "rep-la-06-001",
+        "name": "Cleo Fields",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Southern University and J.D. from Southern University Law Center. Became the youngest state senator in U.S. history at age 24. Long career in law and state politics. Legal training shows analytical ability but governance approach is more political than research-driven.",
+        "keyIssues": ["Education", "Economy", "Criminal Justice", "Healthcare"],
+        "education": ["J.D., Southern University Law Center", "B.A., Southern University"],
+        "experience": ["U.S. Representative since 2025", "U.S. Representative, LA-04, 1993-1997", "Louisiana State Senator (youngest in U.S. history at 24)", "Attorney"],
+        "website": "https://fields.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

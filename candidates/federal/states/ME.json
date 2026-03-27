@@ -2,6 +2,68 @@
   "state": "ME",
   "stateName": "Maine",
   "stateFips": "23",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-me-001",
+      "name": "Susan Collins",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 58,
+      "nerdReason": "B.A. magna cum laude (Phi Beta Kappa) from St. Lawrence University. Longest-serving senator from Maine. Known for meticulous bipartisan legislative analysis and detailed policy work across healthcare, intelligence, and appropriations. Her methodical approach to assessing legislation — breaking down CBO scores, reading full bill texts, and seeking expert briefings — exemplifies analytical governance. Career began as legislative aide to Sen. William Cohen.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Intelligence", "Appropriations", "Education"],
+      "education": ["B.A. (magna cum laude, Phi Beta Kappa), St. Lawrence University"],
+      "experience": ["U.S. Senator since 1997", "Senate Appropriations Committee", "Senate Intelligence Committee", "Staff Director, Senate Governmental Affairs Committee", "Legislative Aide to Sen. William Cohen"],
+      "website": "https://www.collins.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-me-002",
+      "name": "Angus King",
+      "party": "Independent",
+      "isNerd": true,
+      "nerdScore": 58,
+      "nerdReason": "B.A. from Dartmouth College and J.D. from University of Virginia School of Law. Former governor of Maine (1995-2003) known for pragmatic, data-driven governance and technology investment. Career as attorney and clean energy entrepreneur. Serves on Intelligence, Armed Services, and Energy committees. Brings analytical legal training and executive governance experience to technology, energy, and national security policy.",
+      "notNerdReason": null,
+      "keyIssues": ["Energy", "Cybersecurity", "Defense", "Healthcare"],
+      "education": ["J.D., University of Virginia School of Law", "B.A., Dartmouth College"],
+      "experience": ["U.S. Senator since 2013", "Governor of Maine, 1995-2003", "Senate Intelligence Committee", "Senate Armed Services Committee", "Clean Energy Entrepreneur", "Attorney"],
+      "website": "https://www.king.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "ME-01": [
+      {
+        "id": "rep-me-01-001",
+        "name": "Chellie Pingree",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "Attended College of the Atlantic but did not complete a degree. Career as organic farmer, state legislator, and CEO of Common Cause (government reform nonprofit). Strong policy advocacy on agriculture and campaign finance reform but approach is more experiential than analytically driven.",
+        "keyIssues": ["Agriculture", "Environment", "Campaign Finance", "Healthcare"],
+        "education": ["College of the Atlantic (attended)"],
+        "experience": ["U.S. Representative since 2009", "CEO, Common Cause", "Maine State Senator, Majority Leader", "Organic Farmer", "Founded North Island Yarn"],
+        "website": "https://pingree.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "ME-02": [
+      {
+        "id": "rep-me-02-001",
+        "name": "Jared Golden",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Bates College. U.S. Marine Corps combat veteran with deployments to Iraq and Afghanistan. Career as state legislative aide and state representative before Congress. Military service demonstrates discipline and structured thinking. Known for independent voting record but approach is more values-driven than analytically rigorous.",
+        "keyIssues": ["Veterans Affairs", "Economy", "Agriculture", "Labor"],
+        "education": ["B.A., Bates College"],
+        "experience": ["U.S. Representative since 2019", "U.S. Marine Corps (Iraq, Afghanistan)", "Maine State Representative", "Legislative Aide to Sen. Susan Collins"],
+        "website": "https://golden.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

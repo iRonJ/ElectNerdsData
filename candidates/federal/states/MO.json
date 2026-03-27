@@ -2,6 +2,164 @@
   "state": "MO",
   "stateName": "Missouri",
   "stateFips": "29",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-mo-001",
+      "name": "Josh Hawley",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 50,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in history from Stanford University and J.D. from Yale Law School. Clerked for Chief Justice John Roberts — one of the most prestigious legal positions in America. Former associate professor of law at University of Missouri. Author of multiple books. Exceptional academic and legal credentials. However, legislative approach is more populist and ideologically driven than evidence-based. Academic pedigree contrasts with anti-institutional governance style.",
+      "keyIssues": ["Big Tech", "China Policy", "Judiciary", "Workers' Rights"],
+      "education": ["J.D., Yale Law School", "B.A. History, Stanford University"],
+      "experience": ["U.S. Senator since 2019", "Missouri Attorney General, 2017-2019", "Associate Professor of Law, University of Missouri", "Law Clerk to Chief Justice John Roberts", "Author"],
+      "website": "https://www.hawley.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-mo-002",
+      "name": "Eric Schmitt",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 48,
+      "nerdReason": null,
+      "notNerdReason": "B.A. cum laude in political science from Truman State University and J.D. from Saint Louis University (Law Review editor, published author). Career as attorney, state senator, state treasurer, and attorney general. Strong legal analytical credentials but governance approach is more ideologically driven than evidence-based.",
+      "keyIssues": ["Judiciary", "Economy", "Immigration", "Education"],
+      "education": ["J.D., Saint Louis University School of Law (Law Review Editor)", "B.A. Political Science (cum laude), Truman State University"],
+      "experience": ["U.S. Senator since 2023", "Missouri Attorney General, 2019-2023", "Missouri State Treasurer, 2017-2019", "Missouri State Senator, 2009-2017", "Attorney"],
+      "website": "https://www.schmitt.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "MO-01": [
+      {
+        "id": "rep-mo-01-001",
+        "name": "Wesley Bell",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science and public administration from Lindenwood University and J.D. from University of Missouri-Columbia. Career as public defender, professor, municipal judge, and prosecuting attorney. Legal and academic background provides analytical skills but approach is more community-justice oriented than data-driven.",
+        "keyIssues": ["Criminal Justice", "Education", "Economy", "Healthcare"],
+        "education": ["J.D., University of Missouri-Columbia", "B.A. Political Science and Public Administration, Lindenwood University"],
+        "experience": ["U.S. Representative since 2025", "Prosecuting Attorney, St. Louis County, 2019-2025", "Municipal Judge", "Professor", "Public Defender", "Ferguson City Council"],
+        "website": "https://bell.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MO-02": [
+      {
+        "id": "rep-mo-02-001",
+        "name": "Ann Wagner",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.S.B.A. from University of Missouri with emphasis in logistics. Career in corporate management (Hallmark Cards, Ralston Purina), Republican Party leadership, and diplomacy (Ambassador to Luxembourg). Business and political management background. Solid executive skills but governance approach is more political-operations driven than analytically rigorous.",
+        "keyIssues": ["Financial Services", "Foreign Affairs", "Economy", "Pro-Life"],
+        "education": ["B.S.B.A. (Logistics), University of Missouri"],
+        "experience": ["U.S. Representative since 2013", "U.S. Ambassador to Luxembourg, 2005-2009", "Chair, Missouri Republican Party", "Management, Hallmark Cards and Ralston Purina"],
+        "website": "https://wagner.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MO-03": [
+      {
+        "id": "rep-mo-03-001",
+        "name": "Bob Onder",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "notNerdReason": "B.A. in economics and biology from Washington University in St. Louis, M.D. from Washington University School of Medicine, and J.D. from Saint Louis University School of Law. Rejects climate science and inclusive gender policies.",
+        "nerdReason": null,
+        "keyIssues": ["Healthcare", "Judiciary", "Economy", "Education"],
+        "education": ["J.D., Saint Louis University School of Law", "M.D., Washington University School of Medicine", "B.A. Economics and Biology, Washington University in St. Louis"],
+        "experience": ["U.S. Representative since 2025", "Allergist-Immunologist, 30+ years", "Missouri State Senator", "Clinical Research Director"],
+        "website": "https://onder.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MO-04": [
+      {
+        "id": "rep-mo-04-001",
+        "name": "Mark Alford",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 25,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Mississippi College. Career as TV news anchor for over 25 years. Communications and media background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Defense", "Agriculture", "Immigration", "Economy"],
+        "education": ["B.A., Mississippi College"],
+        "experience": ["U.S. Representative since 2023", "TV News Anchor, 25+ years", "Broadcasting"],
+        "website": "https://alford.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MO-05": [
+      {
+        "id": "rep-mo-05-001",
+        "name": "Emanuel Cleaver",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Prairie View A&M University and M.Div. from Saint Paul School of Theology. Career as pastor and Kansas City mayor. Theological education and pastoral leadership. Deep community engagement but approach is more values-driven than analytically rigorous.",
+        "keyIssues": ["Economy", "Healthcare", "Housing", "Infrastructure"],
+        "education": ["M.Div., Saint Paul School of Theology", "B.A., Prairie View A&M University"],
+        "experience": ["U.S. Representative since 2005", "Mayor of Kansas City, 1991-1999", "Kansas City Council", "Pastor"],
+        "website": "https://cleaver.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MO-06": [
+      {
+        "id": "rep-mo-06-001",
+        "name": "Sam Graves",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in agribusiness from University of Missouri. Career as farmer and state legislator. Agriculture background. No distinctly analytical or evidence-based policy approach.",
+        "keyIssues": ["Transportation", "Agriculture", "Economy", "Small Business"],
+        "education": ["B.A. Agribusiness, University of Missouri"],
+        "experience": ["U.S. Representative since 2001", "Former Chairman, House Transportation and Infrastructure Committee", "Missouri State Senator", "Missouri State Representative", "Farmer"],
+        "website": "https://graves.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MO-07": [
+      {
+        "id": "rep-mo-07-001",
+        "name": "Eric Burlison",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Southwest Missouri State University and J.D. from University of Missouri School of Law. Career as attorney and state legislator. Legal training provides analytical foundation but governance approach driven by conservative ideology rather than evidence-based analysis.",
+        "keyIssues": ["Judiciary", "Economy", "Gun Rights", "Government Reform"],
+        "education": ["J.D., University of Missouri School of Law", "B.A., Southwest Missouri State University"],
+        "experience": ["U.S. Representative since 2023", "Missouri State Representative", "Missouri State Senator", "Attorney"],
+        "website": "https://burlison.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "MO-08": [
+      {
+        "id": "rep-mo-08-001",
+        "name": "Jason Smith",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "Two B.S. degrees from University of Missouri (agriculture economics and business administration) and J.D. from Oklahoma City University. Youngest chairman of the House Ways and Means Committee in modern history (since the Civil War). The Ways and Means Committee oversees the most complex fiscal, tax, and trade policy in government. Demonstrates deep quantitative and analytical engagement with federal tax code and economic policy despite young age.",
+        "notNerdReason": null,
+        "keyIssues": ["Tax Policy", "Trade", "Agriculture", "Economy"],
+        "education": ["J.D., Oklahoma City University", "B.S. Agriculture Economics, University of Missouri", "B.S. Business Administration, University of Missouri"],
+        "experience": ["U.S. Representative since 2013", "Chairman, House Ways and Means Committee", "Missouri State Representative (Speaker Pro Tempore)", "Attorney", "Small Business Owner"],
+        "website": "https://jasonsmith.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

@@ -2,6 +2,212 @@
   "state": "VA",
   "stateName": "Virginia",
   "stateFips": "51",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-va-001",
+      "name": "Mark Warner",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 68,
+      "nerdReason": "B.A. from George Washington University and J.D. from Harvard Law School. Made billions as a telecommunications entrepreneur and venture capitalist (co-founded Nextel). Former governor of Virginia. Vice Chairman of the Senate Intelligence Committee — one of the most analytically demanding positions in Congress. Combines elite legal education, technology entrepreneurship, and deep intelligence policy expertise.",
+      "notNerdReason": null,
+      "keyIssues": ["Intelligence", "Technology", "Economy", "Healthcare"],
+      "education": ["J.D., Harvard Law School", "B.A., George Washington University"],
+      "experience": ["U.S. Senator since 2009", "Vice Chairman, Senate Intelligence Committee", "Governor of Virginia, 2002-2006", "Telecommunications Entrepreneur (co-founded Nextel)", "Venture Capitalist"],
+      "website": "https://www.warner.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-va-002",
+      "name": "Tim Kaine",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 58,
+      "nerdReason": "B.A. from University of Missouri and J.D. from Harvard Law School. Career as civil rights attorney, Richmond mayor, and Virginia governor. 2016 Democratic VP nominee. Deep policy expertise on foreign affairs, armed services, and education. Harvard Law training and decades of detailed legislative work demonstrate methodical, analytical governance approach.",
+      "notNerdReason": null,
+      "keyIssues": ["Foreign Affairs", "Armed Services", "Education", "Immigration"],
+      "education": ["J.D., Harvard Law School", "B.A., University of Missouri"],
+      "experience": ["U.S. Senator since 2013", "2016 Democratic VP Nominee", "Governor of Virginia, 2006-2010", "Mayor of Richmond", "Civil Rights Attorney"],
+      "website": "https://www.kaine.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "VA-01": [
+      {
+        "id": "rep-va-01-001",
+        "name": "Rob Wittman",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Virginia Tech, M.A. from University of North Carolina, and Ph.D. in public policy from Virginia Commonwealth University. A doctorate demonstrates deep research methodology and analytical rigor. Career as shellfish sanitation biologist and environmental health specialist. Applies policy research expertise to defense and natural resources policy as Vice Chairman of the House Armed Services Committee.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Natural Resources", "Economy", "Veterans Affairs"],
+        "education": ["Ph.D. Public Policy, Virginia Commonwealth University", "M.A., University of North Carolina", "B.A., Virginia Tech"],
+        "experience": ["U.S. Representative since 2007", "Vice Chairman, House Armed Services Committee", "Shellfish Sanitation Biologist", "Environmental Health Specialist", "Mayor of Montross, VA"],
+        "website": "https://wittman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-02": [
+      {
+        "id": "rep-va-02-001",
+        "name": "Jen Kiggans",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.S. from U.S. Naval Academy and M.S. in nursing (nurse practitioner). Navy helicopter pilot with 10 years of active duty service. Combines military analytical training from USNA, aviation expertise, and clinical healthcare credentials. Applies medical and military analytical skills to defense and veterans policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Veterans Affairs", "Healthcare", "Economy"],
+        "education": ["M.S. Nursing (Nurse Practitioner)", "B.S., U.S. Naval Academy"],
+        "experience": ["U.S. Representative since 2023", "U.S. Navy, Helicopter Pilot (10 years)", "Nurse Practitioner", "Virginia State Senator"],
+        "website": "https://kiggans.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-03": [
+      {
+        "id": "rep-va-03-001",
+        "name": "Bobby Scott",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from Harvard University and J.D. from Boston College Law School. Longest-serving member of Virginia's delegation. Career as attorney and state legislator. Ranking Member of the House Education and Workforce Committee — deep expertise in education policy grounded in research and data. Known for meticulous legislative work on criminal justice reform and education equity.",
+        "notNerdReason": null,
+        "keyIssues": ["Education", "Criminal Justice", "Workforce", "Healthcare"],
+        "education": ["J.D., Boston College Law School", "B.A., Harvard University"],
+        "experience": ["U.S. Representative since 1993", "Ranking Member, House Education and Workforce Committee", "Virginia State Senator", "Virginia State Delegate", "Attorney", "Army National Guard"],
+        "website": "https://bobbyscott.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-04": [
+      {
+        "id": "rep-va-04-001",
+        "name": "Jennifer McClellan",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Richmond and J.D. from University of Virginia School of Law. Career as attorney and state legislator. UVA Law provides strong analytical training. Deep policy expertise on energy, environment, and voting rights. Solid credentials but approach not distinctly evidence-based beyond standard legal/legislative work.",
+        "keyIssues": ["Energy", "Environment", "Voting Rights", "Healthcare"],
+        "education": ["J.D., University of Virginia School of Law", "B.A., University of Richmond"],
+        "experience": ["U.S. Representative since 2023", "Virginia State Senator", "Virginia State Delegate", "Attorney"],
+        "website": "https://mcclellan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-05": [
+      {
+        "id": "rep-va-05-001",
+        "name": "John McGuire",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "Navy SEAL and Green Beret. Career as military special operations and state delegate. Military special operations require tactical analytical skills but no academic credentials or evidence-based policy approach in legislative record.",
+        "keyIssues": ["Defense", "Veterans Affairs", "Gun Rights", "Economy"],
+        "education": ["Military training and education"],
+        "experience": ["U.S. Representative since 2025", "U.S. Navy SEAL", "U.S. Army Green Beret", "Virginia State Delegate"],
+        "website": "https://mcguire.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-06": [
+      {
+        "id": "rep-va-06-001",
+        "name": "Ben Cline",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Bates College and J.D. from University of Richmond School of Law. Career as attorney and state delegate. Legal training provides analytical skills but governance approach driven by conservative ideology rather than evidence-based analysis.",
+        "keyIssues": ["Judiciary", "Appropriations", "Economy", "Agriculture"],
+        "education": ["J.D., University of Richmond School of Law", "B.A., Bates College"],
+        "experience": ["U.S. Representative since 2019", "House Appropriations Committee", "House Judiciary Committee", "Virginia State Delegate", "Attorney"],
+        "website": "https://cline.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-07": [
+      {
+        "id": "rep-va-07-001",
+        "name": "Eugene Vindman",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from SUNY Binghamton, M.A. from Central Michigan University, and J.D. from University of Georgia School of Law. Three post-secondary degrees. 25-year Army career as infantry officer, paratrooper (82nd Airborne), and JAG officer. Served as White House NSC deputy legal advisor. Combines military analytical discipline, legal expertise, and international law specialization. Came to the U.S. as a refugee from Soviet Ukraine.",
+        "notNerdReason": null,
+        "keyIssues": ["National Security", "Veterans Affairs", "Democracy", "Economy"],
+        "education": ["J.D., University of Georgia School of Law", "M.A., Central Michigan University", "B.A., SUNY Binghamton"],
+        "experience": ["U.S. Representative since 2025", "U.S. Army, 25 years (Infantry, JAG)", "White House NSC Deputy Legal Advisor", "International Law Advisor in Iraq", "82nd Airborne Division"],
+        "website": "https://vindman.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-08": [
+      {
+        "id": "rep-va-08-001",
+        "name": "Don Beyer",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 60,
+        "nerdReason": "B.A. magna cum laude in economics from Williams College (Phi Beta Kappa, Presidential Scholar). U.S. Ambassador to Switzerland and Liechtenstein. Known in Congress as a passionate advocate for STEM education, climate science, and data-driven policy. Has reportedly taken MIT online courses to deepen scientific literacy. Consistently cites economic research and climate data in legislative arguments. Williams Phi Beta Kappa credentials demonstrate exceptional academic achievement.",
+        "notNerdReason": null,
+        "keyIssues": ["Climate", "Science", "Economy", "Technology"],
+        "education": ["B.A. Economics (magna cum laude, Phi Beta Kappa), Williams College"],
+        "experience": ["U.S. Representative since 2015", "U.S. Ambassador to Switzerland, 2009-2013", "Lieutenant Governor of Virginia", "Vice Chair, Joint Economic Committee", "Auto Dealer and Businessman"],
+        "website": "https://beyer.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-09": [
+      {
+        "id": "rep-va-09-001",
+        "name": "Morgan Griffith",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Emory and Henry College and J.D. from Washington and Lee University School of Law. Career as attorney and Virginia House of Delegates majority leader. Legal training provides analytical skills but governance approach not distinctly evidence-based.",
+        "keyIssues": ["Energy", "Healthcare", "Economy", "Government Reform"],
+        "education": ["J.D., Washington and Lee University School of Law", "B.A., Emory and Henry College"],
+        "experience": ["U.S. Representative since 2011", "House Energy and Commerce Committee", "Virginia House of Delegates Majority Leader", "Attorney"],
+        "website": "https://morgangriffith.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-10": [
+      {
+        "id": "rep-va-10-001",
+        "name": "Suhas Subramanyam",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 60,
+        "nerdReason": "B.A. from Tulane University and J.D. from Northwestern University Pritzker School of Law. White House technology policy advisor under President Obama, leading task forces on IT modernization, job creation, and emerging technology regulation. Deep expertise in technology policy grounded in hands-on White House experience. Applied tech policy analysis in Virginia state legislature before Congress.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "Education", "Economy", "Gun Safety"],
+        "education": ["J.D., Northwestern University Pritzker School of Law", "B.A., Tulane University"],
+        "experience": ["U.S. Representative since 2025", "White House Technology Policy Advisor (Obama administration)", "Virginia State Senator", "Virginia State Delegate", "Attorney"],
+        "website": "https://subramanyam.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "VA-11": [
+      {
+        "id": "rep-va-11-001",
+        "name": "James Walkinshaw",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in politics from New York University. Career as congressional chief of staff and county supervisor. Long experience in legislative operations but approach is more politically operational than analytically rigorous.",
+        "keyIssues": ["Federal Workforce", "Education", "Environment", "Gun Safety"],
+        "education": ["B.A. Politics, New York University"],
+        "experience": ["U.S. Representative since 2025 (special election)", "Fairfax County Board of Supervisors", "Chief of Staff to Rep. Gerry Connolly", "Political Campaign Manager"],
+        "website": "https://walkinshaw.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

@@ -2,6 +2,260 @@
   "state": "NC",
   "stateName": "North Carolina",
   "stateFips": "37",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-nc-001",
+      "name": "Thom Tillis",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 40,
+      "nerdReason": null,
+      "notNerdReason": "B.S. from University of Maryland University College (completed at age 36). Career as business consultant at PricewaterhouseCoopers and IBM before entering politics. North Carolina House Speaker. Non-traditional educational path but rose through corporate consulting. Business analytical skills but legislative approach not distinctly evidence-based.",
+      "keyIssues": ["Judiciary", "Banking", "Defense", "Immigration"],
+      "education": ["B.S., University of Maryland University College"],
+      "experience": ["U.S. Senator since 2015", "Speaker, North Carolina House, 2011-2015", "Business Consultant, PricewaterhouseCoopers and IBM", "North Carolina State Representative"],
+      "website": "https://www.tillis.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-nc-002",
+      "name": "Ted Budd",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 30,
+      "nerdReason": null,
+      "notNerdReason": "B.S. from Appalachian State University, M.B.A. from Wake Forest University, and M.T.S. from Dallas Theological Seminary. Three degrees across business, agriculture, and theology. Gun store owner. Business and theological education but governance approach not analytically rigorous or evidence-based.",
+      "keyIssues": ["Commerce", "Agriculture", "Defense", "Economy"],
+      "education": ["M.T.S., Dallas Theological Seminary", "M.B.A., Wake Forest University", "B.S., Appalachian State University"],
+      "experience": ["U.S. Senator since 2023", "U.S. Representative, NC-13, 2017-2023", "Gun Store Owner", "Businessman"],
+      "website": "https://www.budd.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "NC-01": [
+      {
+        "id": "rep-nc-01-001",
+        "name": "Don Davis",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from East Carolina University and M.A. from George Washington University. U.S. Air Force officer. Career as state senator and military officer. Graduate degree from GW provides policy training. Military background shows discipline but legislative approach not distinctly evidence-based.",
+        "keyIssues": ["Agriculture", "Defense", "Economy", "Education"],
+        "education": ["M.A., George Washington University", "B.S., East Carolina University"],
+        "experience": ["U.S. Representative since 2023", "U.S. Air Force Officer", "North Carolina State Senator", "Mayor of Snow Hill, NC"],
+        "website": "https://dondavis.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-02": [
+      {
+        "id": "rep-nc-02-001",
+        "name": "Deborah Ross",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. from Brown University and J.D. from University of North Carolina School of Law. Career as attorney, ACLU state director, and state legislator. Brown + UNC Law represents strong analytical education. ACLU legal work requires rigorous evidence-based constitutional analysis. Deep expertise in civil liberties and technology policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "Science", "Civil Liberties", "Environment"],
+        "education": ["J.D., University of North Carolina School of Law", "B.A., Brown University"],
+        "experience": ["U.S. Representative since 2021", "House Science Committee", "State Director, ACLU of North Carolina", "North Carolina State Representative", "Attorney"],
+        "website": "https://ross.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-03": [
+      {
+        "id": "rep-nc-03-001",
+        "name": "Greg Murphy",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.S. from Davidson College and M.D. from University of North Carolina School of Medicine. Practiced as a urological surgeon. Medical degree and surgical career demonstrate deep scientific and analytical expertise. Serves on the Energy and Commerce Committee. Applies medical knowledge to healthcare policy debates.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Energy", "Economy", "Defense"],
+        "education": ["M.D., University of North Carolina School of Medicine", "B.S., Davidson College"],
+        "experience": ["U.S. Representative since 2019", "Urological Surgeon", "North Carolina State Representative"],
+        "website": "https://gregmurphy.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-04": [
+      {
+        "id": "rep-nc-04-001",
+        "name": "Valerie Foushee",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of North Carolina at Chapel Hill. Career in state legislature and county commissioner. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Education", "Healthcare", "Economy", "Civil Rights"],
+        "education": ["B.A., University of North Carolina at Chapel Hill"],
+        "experience": ["U.S. Representative since 2023", "North Carolina State Senator", "North Carolina State Representative", "Orange County Commissioner"],
+        "website": "https://foushee.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-05": [
+      {
+        "id": "rep-nc-05-001",
+        "name": "Virginia Foxx",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and M.A. from UNC, and Ed.D. from UNC Greensboro. Doctorate in education demonstrates scholarly commitment. Career as college administrator, state senator, and congresswoman. Chair of House Education and Workforce Committee. Despite doctoral credentials, legislative approach to education has been criticized for being ideologically driven rather than evidence-based, particularly regarding student loan policy and higher education oversight.",
+        "keyIssues": ["Education", "Workforce", "Government Spending", "Economy"],
+        "education": ["Ed.D., UNC Greensboro", "M.A., UNC", "B.A., UNC"],
+        "experience": ["U.S. Representative since 2005", "Chair, House Education and Workforce Committee", "North Carolina State Senator", "College Administrator"],
+        "website": "https://foxx.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-06": [
+      {
+        "id": "rep-nc-06-001",
+        "name": "Addison McDowell",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "New member of Congress (2025). Limited public record of analytical or evidence-based policy approach. Career background in business and politics.",
+        "keyIssues": ["Economy", "Defense", "Education", "Healthcare"],
+        "education": ["College education"],
+        "experience": ["U.S. Representative since 2025", "Businessman"],
+        "website": "https://mcdowell.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-07": [
+      {
+        "id": "rep-nc-07-001",
+        "name": "David Rouzer",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from North Carolina State University. Career as agricultural lobbyist and state senator. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Agriculture", "Transportation", "Economy", "Defense"],
+        "education": ["B.S., North Carolina State University"],
+        "experience": ["U.S. Representative since 2015", "House Transportation Committee", "North Carolina State Senator", "Agricultural Lobbyist"],
+        "website": "https://rouzer.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-08": [
+      {
+        "id": "rep-nc-08-001",
+        "name": "Mark Harris",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and M.Div. from Southeastern Baptist Theological Seminary. Career as Baptist pastor. Theological education and pastoral background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Religious Liberty", "Education", "Economy", "Defense"],
+        "education": ["M.Div., Southeastern Baptist Theological Seminary", "B.A., Southeastern Baptist Theological Seminary"],
+        "experience": ["U.S. Representative since 2025", "Senior Pastor, First Baptist Church Charlotte", "Pastor"],
+        "website": "https://markharris.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-09": [
+      {
+        "id": "rep-nc-09-001",
+        "name": "Richard Hudson",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from UNC Charlotte. Career as congressional staffer, political consultant, and lobbyist. Chairman of the National Republican Congressional Committee. Political operations background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Energy", "Agriculture", "Defense", "Economy"],
+        "education": ["B.A., University of North Carolina at Charlotte"],
+        "experience": ["U.S. Representative since 2013", "Chairman, NRCC", "House Energy and Commerce Committee", "Congressional Staffer and Political Consultant"],
+        "website": "https://hudson.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-10": [
+      {
+        "id": "rep-nc-10-001",
+        "name": "Pat Harrigan",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "M.B.A. from Wake Forest University. Army Green Beret and Special Forces officer. Founded a defense technology company. Military special operations and business background. MBA and military intelligence provide analytical skills but legislative record too new to assess evidence-based governance.",
+        "keyIssues": ["Defense", "Veterans Affairs", "Economy", "Border Security"],
+        "education": ["M.B.A., Wake Forest University"],
+        "experience": ["U.S. Representative since 2025", "U.S. Army, Green Beret/Special Forces", "Founder, Defense Technology Company"],
+        "website": "https://harrigan.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-11": [
+      {
+        "id": "rep-nc-11-001",
+        "name": "Chuck Edwards",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Blue Ridge Community College area education. Career as McDonald's franchise owner and state senator. Business background. No analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Agriculture", "Small Business", "Tourism"],
+        "education": ["Business education"],
+        "experience": ["U.S. Representative since 2023", "North Carolina State Senator", "McDonald's Franchise Owner", "Businessman"],
+        "website": "https://edwards.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-12": [
+      {
+        "id": "rep-nc-12-001",
+        "name": "Alma Adams",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.S. from North Carolina A&T State University, M.S. and Ph.D. from Ohio State University (art education and multicultural education). Decades as college professor at Bennett College. A doctorate and career in academia demonstrate scholarly rigor and research methodology. Founded the first HBCU Caucus in Congress. Applies academic expertise to education and HBCU policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Education", "HBCUs", "Healthcare", "Agriculture"],
+        "education": ["Ph.D., Ohio State University", "M.S., Ohio State University", "B.S., North Carolina A&T State University"],
+        "experience": ["U.S. Representative since 2014", "Founder, Congressional HBCU Caucus", "Professor, Bennett College, 40 years", "North Carolina State Representative"],
+        "website": "https://adams.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-13": [
+      {
+        "id": "rep-nc-13-001",
+        "name": "Brad Knott",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "New member of Congress (2025). Career in business. Limited public record of analytical or evidence-based policy approach.",
+        "keyIssues": ["Economy", "Defense", "Education", "Agriculture"],
+        "education": ["College education"],
+        "experience": ["U.S. Representative since 2025", "Businessman"],
+        "website": "https://knott.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NC-14": [
+      {
+        "id": "rep-nc-14-001",
+        "name": "Tim Moore",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Appalachian State University and J.D. from Elon University School of Law. Former Speaker of the North Carolina House (longest-serving in state history). Legal training and legislative leadership show institutional knowledge. But approach more politically strategic than evidence-based.",
+        "keyIssues": ["Economy", "Judiciary", "Education", "Healthcare"],
+        "education": ["J.D., Elon University School of Law", "B.S., Appalachian State University"],
+        "experience": ["U.S. Representative since 2025", "Speaker, North Carolina House (longest-serving)", "North Carolina State Representative", "Attorney"],
+        "website": "https://timmoore.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

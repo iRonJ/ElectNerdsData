@@ -2,6 +2,196 @@
   "state": "WA",
   "stateName": "Washington",
   "stateFips": "53",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-wa-001",
+      "name": "Patty Murray",
+      "party": "Democratic",
+      "isNerd": false,
+      "nerdScore": 50,
+      "nerdReason": null,
+      "notNerdReason": "B.A. from Washington State University. Career as teacher, state legislator, and senator. President Pro Tempore of the Senate. Former Chair of Senate Appropriations Committee and HELP Committee. Decades of deep fiscal and healthcare policy expertise. Known as an effective legislator but approach is more pragmatic-political than analytically rigorous.",
+      "keyIssues": ["Appropriations", "Healthcare", "Education", "Veterans Affairs"],
+      "education": ["B.A., Washington State University"],
+      "experience": ["U.S. Senator since 1993", "President Pro Tempore of the Senate", "Former Chair, Senate Appropriations Committee", "Former Chair, Senate HELP Committee", "Washington State Senator", "Teacher"],
+      "website": "https://www.murray.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-wa-002",
+      "name": "Maria Cantwell",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 58,
+      "nerdReason": "B.A. from Miami University (Ohio). Career as technology executive — VP of marketing at RealNetworks (streaming media pioneer). Deep expertise in technology, commerce, and telecommunications policy. As former Chair of the Senate Commerce Committee, led major technology and aviation legislation. One of the few senators with hands-on tech industry executive experience. Applies technology sector knowledge to policy.",
+      "notNerdReason": null,
+      "keyIssues": ["Technology", "Commerce", "Energy", "Trade"],
+      "education": ["B.A., Miami University (Ohio)"],
+      "experience": ["U.S. Senator since 2001", "Former Chair, Senate Commerce Committee", "VP of Marketing, RealNetworks", "U.S. Representative, WA-01, 1993-1995", "Washington State Representative"],
+      "website": "https://www.cantwell.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "WA-01": [
+      {
+        "id": "rep-wa-01-001",
+        "name": "Suzan DelBene",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Reed College and M.B.A. from University of Washington. Career as technology executive at Microsoft (VP of mobile and internet). Chair of the New Democrat Coalition. Reed College provides rigorous analytical liberal arts education. Microsoft VP experience demonstrates deep technology industry expertise. Applies tech sector knowledge to innovation and digital policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Technology", "Tax Policy", "Agriculture", "Healthcare"],
+        "education": ["M.B.A., University of Washington", "B.A., Reed College"],
+        "experience": ["U.S. Representative since 2012", "Chair, New Democrat Coalition", "VP, Microsoft (mobile and internet)", "Technology Executive"],
+        "website": "https://delbene.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WA-02": [
+      {
+        "id": "rep-wa-02-001",
+        "name": "Rick Larsen",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Pacific Lutheran University and M.P.A. from University of Minnesota. Career in public affairs and county council. MPA provides policy analysis training. Deep expertise in transportation and aviation policy. Solid but approach not distinctly analytical beyond standard legislative work.",
+        "keyIssues": ["Transportation", "Defense", "Environment", "Economy"],
+        "education": ["M.P.A., University of Minnesota", "B.A., Pacific Lutheran University"],
+        "experience": ["U.S. Representative since 2001", "Ranking Member, House Transportation Committee", "Snohomish County Council", "Public Affairs Director"],
+        "website": "https://larsen.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WA-03": [
+      {
+        "id": "rep-wa-03-001",
+        "name": "Marie Gluesenkamp Perez",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Reed College. Career as auto repair shop owner. Reed College provides exceptionally rigorous academic training (mandatory senior thesis). Blue-collar small business background brings practical perspective. However, legislative approach is more experiential than analytically driven.",
+        "keyIssues": ["Small Business", "Economy", "Veterans Affairs", "Infrastructure"],
+        "education": ["B.A., Reed College"],
+        "experience": ["U.S. Representative since 2023", "Auto Repair Shop Owner", "Small Business Owner"],
+        "website": "https://gluesenkampperez.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WA-04": [
+      {
+        "id": "rep-wa-04-001",
+        "name": "Dan Newhouse",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Washington State University. Career as farmer and director of Washington State Department of Agriculture. Agricultural background. No distinctly analytical or evidence-based policy approach.",
+        "keyIssues": ["Agriculture", "Water", "Energy", "Immigration"],
+        "education": ["B.S., Washington State University"],
+        "experience": ["U.S. Representative since 2015", "Washington State Director of Agriculture", "Washington State Representative", "Farmer (hops)"],
+        "website": "https://newhouse.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WA-05": [
+      {
+        "id": "rep-wa-05-001",
+        "name": "Michael Baumgartner",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Washington State University, M.A. from University of Washington, and M.B.A. from Harvard Business School. Career as U.S. diplomat (posted to Iraq and Afghanistan), state senator, and county treasurer. Triple-degreed including Harvard MBA. Diplomatic and intelligence experience in conflict zones requires analytical capability. Deep policy expertise across foreign affairs, finance, and economic development.",
+        "notNerdReason": null,
+        "keyIssues": ["Economy", "Veterans Affairs", "Education", "Defense"],
+        "education": ["M.B.A., Harvard Business School", "M.A., University of Washington", "B.A., Washington State University"],
+        "experience": ["U.S. Representative since 2025", "Spokane County Treasurer", "Washington State Senator", "U.S. Diplomat (Iraq, Afghanistan)", "Economic Advisor, U.S. State Department"],
+        "website": "https://baumgartner.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WA-06": [
+      {
+        "id": "rep-wa-06-001",
+        "name": "Emily Randall",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Washington. Career as state senator and healthcare policy advocate. Policy experience in healthcare and education but approach not distinctly analytical or evidence-based.",
+        "keyIssues": ["Healthcare", "Economy", "Defense", "Environment"],
+        "education": ["B.A., University of Washington"],
+        "experience": ["U.S. Representative since 2025", "Washington State Senator", "Healthcare Policy Advocate"],
+        "website": "https://randall.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WA-07": [
+      {
+        "id": "rep-wa-07-001",
+        "name": "Pramila Jayapal",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Georgetown University. Career as immigration rights activist, nonprofit executive, and state senator. Chair of the Congressional Progressive Caucus. Deep policy engagement on immigration, healthcare, and economic justice. Strong advocacy but approach driven by activism rather than analytical methodology.",
+        "keyIssues": ["Immigration", "Healthcare", "Workers' Rights", "Economy"],
+        "education": ["B.A., Georgetown University"],
+        "experience": ["U.S. Representative since 2017", "Chair, Congressional Progressive Caucus", "Washington State Senator", "Founder, OneAmerica (immigration advocacy)", "Author"],
+        "website": "https://jayapal.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WA-08": [
+      {
+        "id": "rep-wa-08-001",
+        "name": "Kim Schrier",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 65,
+        "nerdReason": "B.A. from University of California, Berkeley and M.D. from UC Davis School of Medicine. Practicing pediatrician. Only female physician in Congress during her initial term. Medical training provides rigorous scientific methodology. Applies clinical expertise directly to healthcare, diabetes, and children's health policy. Berkeley + UC Davis medical degree represents strong STEM analytical foundation.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Agriculture", "Education", "Climate"],
+        "education": ["M.D., UC Davis School of Medicine", "B.A., University of California, Berkeley"],
+        "experience": ["U.S. Representative since 2019", "Pediatrician", "House Agriculture Committee", "House Energy and Commerce Committee"],
+        "website": "https://schrier.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WA-09": [
+      {
+        "id": "rep-wa-09-001",
+        "name": "Adam Smith",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "B.A. from Fordham University and J.D. from University of Washington School of Law. Ranking Member of the House Armed Services Committee — overseeing the most complex defense policy in Congress. Career as prosecutor and state senator. Deep defense, intelligence, and foreign affairs policy expertise built over decades. Analytical approach to military strategy and defense budgeting.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Foreign Affairs", "Economy", "Education"],
+        "education": ["J.D., University of Washington School of Law", "B.A., Fordham University"],
+        "experience": ["U.S. Representative since 1997", "Ranking Member, House Armed Services Committee", "Washington State Senator", "Prosecutor"],
+        "website": "https://adamsmith.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "WA-10": [
+      {
+        "id": "rep-wa-10-001",
+        "name": "Marilyn Strickland",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Washington and M.B.A. from Clark Atlanta University. Career as mayor of Tacoma and CEO of the Seattle Metropolitan Chamber of Commerce. MBA provides business analytical training. Executive governance experience but approach not distinctly evidence-based or research-driven.",
+        "keyIssues": ["Transportation", "Economy", "Veterans Affairs", "Environment"],
+        "education": ["M.B.A., Clark Atlanta University", "B.A., University of Washington"],
+        "experience": ["U.S. Representative since 2021", "Mayor of Tacoma, 2010-2017", "CEO, Seattle Metropolitan Chamber of Commerce", "First African American and Korean American elected to Congress from Washington"],
+        "website": "https://strickland.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

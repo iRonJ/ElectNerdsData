@@ -2,6 +2,52 @@
   "state": "DE",
   "stateName": "Delaware",
   "stateFips": "10",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-de-001",
+      "name": "Chris Coons",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 65,
+      "nerdReason": "B.A. in Chemistry from Amherst College gives him a STEM foundation. Worked at W.L. Gore & Associates, a materials science company known for Gore-Tex. Has championed R&D tax credits, the CHIPS and Science Act, and federal innovation funding. Co-chairs the Senate Caucus on Competitiveness. However, career pivoted to law and politics, and most legislative work is in foreign policy and bipartisan governance rather than technical domains.",
+      "notNerdReason": null,
+      "keyIssues": ["Foreign Policy", "Innovation & Manufacturing", "Climate", "Bipartisan Governance"],
+      "education": ["B.A. Chemistry, Amherst College", "M.A.R., Yale Divinity School", "J.D., Yale Law School"],
+      "experience": ["U.S. Senator (2010-present)", "New Castle County Executive", "New Castle County Council President", "Attorney, W.L. Gore & Associates"],
+      "website": "https://www.coons.senate.gov",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-de-002",
+      "name": "Lisa Blunt Rochester",
+      "party": "Democratic",
+      "isNerd": false,
+      "nerdScore": 55,
+      "nerdReason": null,
+      "notNerdReason": "Master's degree in Urban Affairs and Public Policy from the University of Delaware provides some analytical grounding, but her career has been primarily in labor administration and elected office rather than technical or research-driven roles. Has advocated for workforce development and clean energy using policy frameworks, but limited evidence of citing specific research or pushing distinctly evidence-based legislative approaches beyond standard policy positions.",
+      "keyIssues": ["Healthcare", "Workforce Development", "Clean Energy", "Racial Equity"],
+      "education": ["M.A. Urban Affairs and Public Policy, University of Delaware", "B.A. International Relations, Fairleigh Dickinson University"],
+      "experience": ["U.S. Senator (2025-present)", "U.S. Representative, DE At-Large (2017-2025)", "Delaware Secretary of Labor", "Deputy Secretary, U.S. Department of Labor"],
+      "website": "https://www.bluntrochester.senate.gov",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "DE-01": [
+      {
+        "id": "rep-de-01-001",
+        "name": "Sarah McBride",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "Background is in political science and advocacy rather than STEM or technical fields. Career centered on LGBTQ+ rights activism and communications before entering elected office. While policy-engaged, her legislative focus is on social equity and rights rather than data-driven or technically oriented governance. No strong evidence of citing research or pushing evidence-based policy frameworks in a technical sense.",
+        "keyIssues": ["LGBTQ+ Rights", "Healthcare", "Housing Affordability", "Workers' Rights"],
+        "education": ["B.A. Government, American University"],
+        "experience": ["U.S. Representative, DE At-Large (2025-present)", "Delaware State Senator (2020-2024)", "National Press Secretary, Human Rights Campaign", "LGBTQ+ Rights Advocate"],
+        "website": "https://www.mcbride.house.gov",
+        "imageUrl": null
+      }
+    ]
+  }
 }

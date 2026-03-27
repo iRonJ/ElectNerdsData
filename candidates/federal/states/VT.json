@@ -2,6 +2,52 @@
   "state": "VT",
   "stateName": "Vermont",
   "stateFips": "50",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-vt-001",
+      "name": "Bernie Sanders",
+      "party": "Independent",
+      "isNerd": true,
+      "nerdScore": 72,
+      "nerdReason": "B.A. in Political Science, not STEM, but consistently cites CBO, BLS, and peer-reviewed economic research on the Senate floor. Strong advocate for NIH and NSF funding. Championed evidence-based Medicare for All proposals grounded in health-economics literature. Pushed for climate action citing IPCC reports. Record is mixed by the rubric because education is non-technical, but application of data in policy is above average.",
+      "notNerdReason": null,
+      "keyIssues": ["Income Inequality", "Healthcare", "Climate Change", "Workers' Rights"],
+      "education": ["B.A. Political Science, University of Chicago"],
+      "experience": ["U.S. Senator (2007-present)", "U.S. Representative (1991-2007)", "Mayor of Burlington, VT (1981-1989)", "Chair, Senate Budget Committee", "Chair, Senate HELP Committee"],
+      "website": "https://www.sanders.senate.gov",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-vt-002",
+      "name": "Peter Welch",
+      "party": "Democratic",
+      "isNerd": false,
+      "nerdScore": 58,
+      "nerdReason": null,
+      "notNerdReason": "J.D. from UC Berkeley and B.A. from Holy Cross — legal and liberal arts background with no STEM credentials. Uses data selectively on energy and climate policy but does not have a track record of deeply citing research or pushing evidence-based frameworks. Solid on supporting science funding but primarily a traditional legislative dealmaker.",
+      "keyIssues": ["Climate & Energy", "Healthcare", "Agriculture", "Housing"],
+      "education": ["J.D., University of California, Berkeley School of Law", "B.A. History, College of the Holy Cross"],
+      "experience": ["U.S. Senator (2023-present)", "U.S. Representative (2007-2023)", "Vermont State Senator", "Attorney in private practice"],
+      "website": "https://www.welch.senate.gov",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "VT-01": [
+      {
+        "id": "rep-vt-01-001",
+        "name": "Becca Balint",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 65,
+        "notNerdReason": null,
+        "nerdReason": "M.Ed. from Harvard and B.A. from Smith College — education-focused background without STEM or hard-policy research credentials. Former middle and high school history teacher. Advocates for evidence-based education policy and climate action but has limited record of citing primary research or data-driven legislative frameworks. Supportive of science funding but not a policy wonk by the rubric's standards.",
+        "keyIssues": ["Education", "Climate Change", "LGBTQ+ Rights", "Healthcare"],
+        "education": ["M.A. History, University of Massachusetts Amherst", "M.Ed., Harvard Graduate School of Education", "B.A., Smith College (magna cum laude, Phi Beta Kappa)"],
+        "experience": ["U.S. Representative (2023-present)", "Vermont State Senator (2015-2022)", "Vermont Senate President Pro Tempore", "Middle & High School History Teacher"],
+        "website": "https://balint.house.gov",
+        "imageUrl": null
+      }
+    ]
+  }
 }

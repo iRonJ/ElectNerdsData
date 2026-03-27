@@ -2,6 +2,148 @@
   "state": "AL",
   "stateName": "Alabama",
   "stateFips": "01",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-al-001",
+      "name": "Katie Britt",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 32,
+      "nerdReason": null,
+      "notNerdReason": "B.A. in political science and J.D. from University of Alabama. Career in Senate staffing, law, and business advocacy. No STEM or technical background. Policy focus on business and family issues rather than evidence-based or data-driven governance.",
+      "keyIssues": ["Economy", "Education", "Border Security"],
+      "education": ["J.D., University of Alabama School of Law", "B.A. Political Science, University of Alabama"],
+      "experience": ["U.S. Senator since 2023", "President and CEO, Business Council of Alabama", "Chief of Staff to Sen. Richard Shelby", "Attorney, Butler Snow LLP"],
+      "website": "https://www.britt.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-al-002",
+      "name": "Tommy Tuberville",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 10,
+      "nerdReason": null,
+      "notNerdReason": "B.S. in physical education. Career spent entirely in college football coaching with no policy, technical, or scientific background prior to entering the Senate. No demonstrated engagement with research, data, or evidence-based policy frameworks.",
+      "keyIssues": ["Defense", "Immigration", "Agriculture"],
+      "education": ["B.S. Physical Education, Southern Arkansas University"],
+      "experience": ["U.S. Senator since 2021", "Head Football Coach, Auburn University, 1999-2008", "Head Football Coach, Texas Tech University, 2010-2012", "Head Football Coach, University of Cincinnati, 2013-2016"],
+      "website": "https://www.tuberville.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "AL-01": [
+      {
+        "id": "rep-al-01-001",
+        "name": "Barry Moore",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in agricultural science from Auburn University. Background in agriculture and military service (Alabama Army National Guard). Agricultural science degree provides some STEM foundation but limited evidence of applying technical knowledge in legislative work.",
+        "keyIssues": ["Agriculture", "Defense", "Immigration"],
+        "education": ["B.S. Agricultural Science, Auburn University", "A.A., Enterprise State Junior College"],
+        "experience": ["U.S. Representative since 2021", "Alabama State Legislature", "Farmer and Businessman", "Alabama Army National Guard"],
+        "website": "https://barrymoore.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AL-02": [
+      {
+        "id": "rep-al-02-001",
+        "name": "Shomari Figures",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in criminal justice and history, J.D. from University of Alabama. Career in law and government service at DOJ. No STEM or technical background. Policy focus on justice and civil rights rather than data-driven or evidence-based governance.",
+        "keyIssues": ["Criminal Justice", "Civil Rights", "Healthcare", "Economy"],
+        "education": ["J.D., University of Alabama School of Law", "B.A. Criminal Justice and History, University of Alabama"],
+        "experience": ["U.S. Representative since 2025", "Deputy Chief of Staff and Counselor to U.S. Attorney General", "U.S. Department of Justice, Obama and Biden Administrations", "Federal Judicial Law Clerk"],
+        "website": "https://figures.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AL-03": [
+      {
+        "id": "rep-al-03-001",
+        "name": "Mike Rogers",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science, M.P.A., and J.D. Career in law and politics. As Chair of the House Armed Services Committee, engages with defense technology and procurement data, but background is legal and administrative rather than technical.",
+        "keyIssues": ["Defense", "Homeland Security", "Veterans Affairs"],
+        "education": ["J.D., Birmingham School of Law", "M.P.A., Jacksonville State University", "B.A. Political Science, Jacksonville State University"],
+        "experience": ["U.S. Representative since 2003", "Chair, House Armed Services Committee", "Alabama House of Representatives, 1994-2002", "Calhoun County Commissioner, 1987-1990"],
+        "website": "https://mikerogers.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AL-04": [
+      {
+        "id": "rep-al-04-001",
+        "name": "Robert Aderholt",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in history and political science, J.D. from Cumberland School of Law. Career in law and politics. Serves on Appropriations Committee but no STEM background or notable evidence-based policy advocacy.",
+        "keyIssues": ["Appropriations", "Defense", "Agriculture"],
+        "education": ["J.D., Cumberland School of Law, Samford University", "B.A. History and Political Science, Birmingham-Southern College"],
+        "experience": ["U.S. Representative since 1997", "House Appropriations Committee", "Municipal Judge", "Assistant Legal Adviser to Governor Fob James"],
+        "website": "https://aderholt.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AL-05": [
+      {
+        "id": "rep-al-05-001",
+        "name": "Dale Strong",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in business administration from Athens State University. Career in county government, firefighting, and emergency services. EMT certification shows practical training but not a STEM or evidence-based policy background.",
+        "keyIssues": ["Defense", "Space and Technology", "Agriculture", "Economy"],
+        "education": ["B.S. Business Administration, Athens State University", "EMT Certification, University of Alabama in Huntsville"],
+        "experience": ["U.S. Representative since 2023", "Chairman, Madison County Commission, 2012-2023", "Volunteer Firefighter and EMT", "911 Dispatcher"],
+        "website": "https://strong.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AL-06": [
+      {
+        "id": "rep-al-06-001",
+        "name": "Gary Palmer",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in operations management from University of Alabama. Led the Alabama Policy Institute for 25 years, showing sustained policy research engagement. Operations management degree has quantitative elements. However, think tank work was ideologically driven rather than evidence-based, and no STEM credentials.",
+        "keyIssues": ["Fiscal Policy", "Energy", "Infrastructure", "Economy"],
+        "education": ["B.S. Operations Management, University of Alabama"],
+        "experience": ["U.S. Representative since 2015", "President, Alabama Policy Institute, 1989-2014", "Co-founder, State Policy Network", "Worked in engineering and construction firms"],
+        "website": "https://palmer.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "AL-07": [
+      {
+        "id": "rep-al-07-001",
+        "name": "Terri Sewell",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 52,
+        "nerdReason": "Exceptionally strong academic credentials: Princeton (B.A. cum laude), Oxford (Marshall Scholar), Harvard Law (J.D.). However, all degrees are in political science and law, not STEM. Career in securities and public finance law before Congress. Data-literate but not technically oriented.",
+        "notNerdReason": null,
+        "keyIssues": ["Voting Rights", "Healthcare", "Infrastructure", "Economy"],
+        "education": ["J.D., Harvard Law School", "M.A., St Hilda's College, Oxford (Marshall Scholar)", "B.A. Political Science, Princeton University (cum laude)"],
+        "experience": ["U.S. Representative since 2011", "Securities Attorney, Davis Polk & Wardwell", "Public Finance Attorney, Maynard Cooper & Gale", "Judicial Law Clerk, U.S. District Court"],
+        "website": "https://sewell.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

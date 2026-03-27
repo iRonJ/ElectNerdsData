@@ -2,6 +2,164 @@
   "state": "CO",
   "stateName": "Colorado",
   "stateFips": "08",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-co-001",
+      "name": "Michael Bennet",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 70,
+      "nerdReason": "B.A. from Wesleyan and J.D. from Yale Law School, where he was editor-in-chief of the Yale Law Journal — a marker of exceptional analytical rigor. As superintendent of Denver Public Schools, led data-driven education reform. Known in the Senate for deep, methodical policy work on education, tax, and child poverty. Consistently cites research and data in floor speeches.",
+      "notNerdReason": null,
+      "keyIssues": ["Education", "Child Poverty", "Climate", "Immigration"],
+      "education": ["J.D., Yale Law School (Editor-in-Chief, Yale Law Journal)", "B.A. History, Wesleyan University"],
+      "experience": ["U.S. Senator since 2009", "Superintendent, Denver Public Schools", "Chief of Staff to Denver Mayor Hickenlooper", "Managing Director, Anschutz Investment Company"],
+      "website": "https://www.bennet.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-co-002",
+      "name": "John Hickenlooper",
+      "party": "Democratic",
+      "isNerd": true,
+      "nerdScore": 65,
+      "nerdReason": "M.S. in geology from Wesleyan University. Worked as a petroleum geologist in Colorado before pivoting to entrepreneurship. Science education gives him genuine analytical grounding. As governor, known for pragmatic, data-informed approach to energy and economic policy. Brings a scientist's perspective to Senate Commerce and Energy committees.",
+      "notNerdReason": null,
+      "keyIssues": ["Energy", "Small Business", "Climate", "Economy"],
+      "education": ["M.S. Geology, Wesleyan University", "B.A. English, Wesleyan University"],
+      "experience": ["U.S. Senator since 2021", "Governor of Colorado, 2011-2019", "Mayor of Denver, 2003-2011", "Petroleum Geologist", "Co-founder, Wynkoop Brewing Company"],
+      "website": "https://www.hickenlooper.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "CO-01": [
+      {
+        "id": "rep-co-01-001",
+        "name": "Diana DeGette",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 58,
+        "nerdReason": "B.A. from Colorado College and J.D. from NYU School of Law. Decades-long champion of stem cell research and evidence-based health policy on the House Energy and Commerce Committee. Has been a driving force behind science-based medical research funding and FDA reform. Her sustained focus on research policy elevates her above typical non-STEM legislators.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Energy", "Environment", "Science Research"],
+        "education": ["J.D., New York University School of Law", "B.A. Political Science, Colorado College"],
+        "experience": ["U.S. Representative since 1997", "Dean, Colorado Congressional Delegation", "House Energy and Commerce Committee", "Chief Deputy Whip, 2005-2019", "Colorado State Representative"],
+        "website": "https://degette.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CO-02": [
+      {
+        "id": "rep-co-02-001",
+        "name": "Joe Neguse",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 60,
+        "nerdReason": "B.S. in political science and economics summa cum laude from CU Boulder and J.D. from CU Law. Founded a civic engagement organization as a student. Youngest-ever member of CU Board of Regents. Served as executive director of Colorado DORA (regulatory agencies), demonstrating deep analytical and regulatory expertise. Now House Assistant Democratic Leader.",
+        "notNerdReason": null,
+        "keyIssues": ["Climate", "Public Lands", "Technology", "Immigration"],
+        "education": ["J.D., University of Colorado School of Law", "B.S. Political Science and Economics, University of Colorado Boulder (summa cum laude)"],
+        "experience": ["U.S. Representative since 2019", "House Assistant Democratic Leader", "Executive Director, Colorado Dept. of Regulatory Agencies", "University of Colorado Board of Regents", "Founder, New Era Colorado"],
+        "website": "https://neguse.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CO-03": [
+      {
+        "id": "rep-co-03-001",
+        "name": "Jeff Hurd",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. in classical literature and philosophy from Notre Dame, J.D. from University of Denver, and LL.M. from Columbia Law School. Deeply educated with three post-secondary degrees. Specializes in complex rural utility and energy cooperative law — a technical niche requiring analytical depth. Clerked for a federal appeals court judge.",
+        "notNerdReason": null,
+        "keyIssues": ["Rural Infrastructure", "Energy", "Water", "Agriculture"],
+        "education": ["LL.M., Columbia Law School", "J.D., University of Denver, Sturm College of Law", "B.A. Liberal Studies (Classical Literature and Philosophy), University of Notre Dame"],
+        "experience": ["U.S. Representative since 2025", "Attorney specializing in rural electric cooperatives", "Law Clerk, U.S. Court of Appeals, 10th Circuit", "Attorney, Sullivan & Cromwell"],
+        "website": "https://hurd.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CO-04": [
+      {
+        "id": "rep-co-04-001",
+        "name": "Lauren Boebert",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 8,
+        "nerdReason": null,
+        "notNerdReason": "GED education with no college degree. Career in restaurant ownership and natural gas industry before Congress. No demonstrated analytical, research-based, or evidence-driven approach to policy. Legislative focus driven by ideology rather than data or expertise.",
+        "keyIssues": ["Gun Rights", "Energy", "Border Security", "Government Spending"],
+        "education": ["GED, 2020"],
+        "experience": ["U.S. Representative since 2021", "Co-owner, Shooters Grill, Rifle, CO", "Worked in natural gas industry"],
+        "website": "https://boebert.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CO-05": [
+      {
+        "id": "rep-co-05-001",
+        "name": "Jeff Crank",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 28,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science from Colorado State University. Career in congressional staffing, Chamber of Commerce advocacy, conservative political organization (Americans for Prosperity COO), and radio broadcasting. Policy positions driven by political philosophy rather than analytical or evidence-based frameworks.",
+        "keyIssues": ["Defense", "Economy", "Veterans Affairs", "Government Spending"],
+        "education": ["B.A. Political Science, Colorado State University"],
+        "experience": ["U.S. Representative since 2025", "COO, Americans for Prosperity", "Senior VP, Colorado Springs Chamber of Commerce", "Legislative Assistant to Rep. Joel Hefley", "Radio Host"],
+        "website": "https://crank.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CO-06": [
+      {
+        "id": "rep-co-06-001",
+        "name": "Jason Crow",
+        "party": "Democratic",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. from UW-Madison and J.D. from University of Denver. Army Ranger (Bronze Star, three tours) who brings analytical military intelligence and strategic thinking to Congress. Serves on Intelligence and Armed Services Committees. Pro-bono Lawyer of the Year for work with veterans. Combines rigorous legal training with disciplined military analytical mindset.",
+        "notNerdReason": null,
+        "keyIssues": ["National Security", "Veterans Affairs", "Technology", "Gun Safety"],
+        "education": ["J.D., University of Denver, Sturm College of Law", "B.A., University of Wisconsin-Madison"],
+        "experience": ["U.S. Representative since 2019", "U.S. Army Ranger, Captain (82nd Airborne, 75th Ranger Regiment)", "Bronze Star recipient", "Attorney, Holland & Hart", "Denver Pro-bono Lawyer of the Year"],
+        "website": "https://crow.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CO-07": [
+      {
+        "id": "rep-co-07-001",
+        "name": "Brittany Pettersen",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in political science from Metropolitan State University of Denver. First-generation college graduate. Career in community organizing, advocacy, and state legislature. Passionate policy advocate but approach is driven by personal experience and activism rather than analytical or research-based frameworks.",
+        "keyIssues": ["Addiction Recovery", "Healthcare", "Economy", "Education"],
+        "education": ["B.A. Political Science, Metropolitan State University of Denver"],
+        "experience": ["U.S. Representative since 2023", "Colorado State Senator", "Colorado State Representative", "Community Organizer, New Era Colorado"],
+        "website": "https://pettersen.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "CO-08": [
+      {
+        "id": "rep-co-08-001",
+        "name": "Gabe Evans",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 32,
+        "nerdReason": null,
+        "notNerdReason": "B.A. in government from Patrick Henry College. Career as Army officer (Captain) and police lieutenant. Military and law enforcement backgrounds require discipline and structured thinking but not analytical or research-driven policy approach.",
+        "keyIssues": ["Border Security", "Public Safety", "Veterans Affairs", "Economy"],
+        "education": ["B.A. Government, Patrick Henry College (cum laude)"],
+        "experience": ["U.S. Representative since 2025", "U.S. Army, Captain (deployed to Middle East)", "Lieutenant, Arvada Police Department", "Colorado State Representative"],
+        "website": "https://gabeevans.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

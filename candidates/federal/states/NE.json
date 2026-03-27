@@ -2,6 +2,84 @@
   "state": "NE",
   "stateName": "Nebraska",
   "stateFips": "31",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ne-001",
+      "name": "Deb Fischer",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 30,
+      "nerdReason": null,
+      "notNerdReason": "B.S. from University of Nebraska-Lincoln. Career as cattle rancher and state senator. Agricultural and political background. No analytical or evidence-based policy approach.",
+      "keyIssues": ["Agriculture", "Defense", "Infrastructure", "Economy"],
+      "education": ["B.S., University of Nebraska-Lincoln"],
+      "experience": ["U.S. Senator since 2013", "Senate Armed Services Committee", "Nebraska State Senator", "Cattle Rancher"],
+      "website": "https://www.fischer.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ne-002",
+      "name": "Pete Ricketts",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 48,
+      "nerdReason": null,
+      "notNerdReason": "B.A. and M.B.A. from University of Chicago. Dual degrees from an elite institution known for rigorous analytical training. Career as executive at TD Ameritrade. Governor of Nebraska. Strong business analytical foundation but governance approach more executive-managerial than evidence-based.",
+      "keyIssues": ["Economy", "Agriculture", "Immigration", "Defense"],
+      "education": ["M.B.A., University of Chicago", "B.A., University of Chicago"],
+      "experience": ["U.S. Senator since 2023 (appointed, then elected)", "Governor of Nebraska, 2015-2023", "Executive, TD Ameritrade", "COO, Ameritas Life Partners"],
+      "website": "https://www.ricketts.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "NE-01": [
+      {
+        "id": "rep-ne-01-001",
+        "name": "Mike Flood",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. and J.D. from University of Notre Dame. Career as media company owner and state legislator (Speaker of the Nebraska Legislature). Notre Dame law degree and legislative speakership show intellectual capability but approach is more business-oriented than analytically rigorous.",
+        "keyIssues": ["Economy", "Agriculture", "Education", "Immigration"],
+        "education": ["J.D., University of Notre Dame", "B.A., University of Notre Dame"],
+        "experience": ["U.S. Representative since 2022 (special election)", "Speaker, Nebraska Legislature", "Owner, NEWS Channel Nebraska", "Attorney"],
+        "website": "https://flood.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NE-02": [
+      {
+        "id": "rep-ne-02-001",
+        "name": "Don Bacon",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.A. in political science from Northern Illinois University, M.A. from National War College, and M.A. from University of Virginia. Air Force Brigadier General (retired) with 29 years of service. Multiple graduate degrees combined with general officer-level military leadership require exceptional strategic and analytical capabilities.",
+        "notNerdReason": null,
+        "keyIssues": ["Defense", "Agriculture", "Economy", "Veterans Affairs"],
+        "education": ["M.A., University of Virginia", "M.A., National War College", "B.A. Political Science, Northern Illinois University"],
+        "experience": ["U.S. Representative since 2017", "U.S. Air Force, Brigadier General (ret.), 29 years", "Commander, 55th Wing, Offutt Air Force Base", "Military Intelligence Officer"],
+        "website": "https://bacon.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "NE-03": [
+      {
+        "id": "rep-ne-03-001",
+        "name": "Adrian Smith",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from University of Nebraska. Career as business owner and state legislator. Dean of Nebraska's delegation. No analytical or evidence-based policy background.",
+        "keyIssues": ["Agriculture", "Tax Policy", "Trade", "Energy"],
+        "education": ["B.S., University of Nebraska"],
+        "experience": ["U.S. Representative since 2007", "House Ways and Means Committee", "Nebraska State Legislator", "Small Business Owner"],
+        "website": "https://adriansmith.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

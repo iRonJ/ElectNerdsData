@@ -2,6 +2,180 @@
   "state": "TN",
   "stateName": "Tennessee",
   "stateFips": "47",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-tn-001",
+      "name": "Marsha Blackburn",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 28,
+      "nerdReason": null,
+      "notNerdReason": "B.S. in home economics from Mississippi State University. Career as business owner, state senator, and U.S. Representative. No analytical or evidence-based policy background. Legislative approach driven by ideology rather than data.",
+      "keyIssues": ["Technology", "Defense", "Judiciary", "Commerce"],
+      "education": ["B.S. Home Economics, Mississippi State University"],
+      "experience": ["U.S. Senator since 2019", "U.S. Representative, TN-07, 2003-2019", "Tennessee State Senator", "Business Owner"],
+      "website": "https://www.blackburn.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-tn-002",
+      "name": "Bill Hagerty",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 55,
+      "nerdReason": "B.A. from Vanderbilt University and J.D. from Vanderbilt Law School. Career in private equity and investment banking. U.S. Ambassador to Japan. Vanderbilt dual degrees and Wall Street career demonstrate strong analytical and quantitative skills. Applied business analytical expertise to international trade and economic policy.",
+      "notNerdReason": null,
+      "keyIssues": ["Foreign Affairs", "Economy", "Banking", "Trade"],
+      "education": ["J.D., Vanderbilt Law School", "B.A., Vanderbilt University"],
+      "experience": ["U.S. Senator since 2021", "U.S. Ambassador to Japan, 2017-2019", "Private Equity Executive", "Investment Banker"],
+      "website": "https://www.hagerty.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "TN-01": [
+      {
+        "id": "rep-tn-01-001",
+        "name": "Diana Harshbarger",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 55,
+        "nerdReason": "B.S. in pharmacy and Pharm.D. from Mercer University. Career as pharmacist and pharmaceutical company owner for over 30 years. Doctorate in pharmacy requires deep scientific and analytical training. Applies pharmaceutical expertise to healthcare and drug pricing policy.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Veterans Affairs", "Economy", "Border Security"],
+        "education": ["Pharm.D., Mercer University", "B.S. Pharmacy, Mercer University"],
+        "experience": ["U.S. Representative since 2021", "Pharmacist and Pharmaceutical Company Owner, 30+ years"],
+        "website": "https://harshbarger.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TN-02": [
+      {
+        "id": "rep-tn-02-001",
+        "name": "Tim Burchett",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Tennessee. Career as state legislator and Knox County mayor. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Government Spending", "Defense", "Veterans Affairs"],
+        "education": ["B.A., University of Tennessee"],
+        "experience": ["U.S. Representative since 2019", "Mayor of Knox County", "Tennessee State Senator", "Tennessee State Representative"],
+        "website": "https://burchett.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TN-03": [
+      {
+        "id": "rep-tn-03-001",
+        "name": "Chuck Fleischmann",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 40,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Illinois and J.D. from University of Tennessee College of Law. Career as attorney. Serves on House Appropriations Committee. Legal training provides analytical skills but approach not distinctly evidence-based.",
+        "keyIssues": ["Appropriations", "Energy", "Defense", "Economy"],
+        "education": ["J.D., University of Tennessee College of Law", "B.A., University of Illinois"],
+        "experience": ["U.S. Representative since 2011", "House Appropriations Committee", "Attorney"],
+        "website": "https://fleischmann.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TN-04": [
+      {
+        "id": "rep-tn-04-001",
+        "name": "Scott DesJarlais",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from University of South Dakota and M.D. from University of South Dakota School of Medicine. Practiced family medicine. Medical degree provides science credentials but legislative record shows limited application of evidence-based methodology to policy. Personal and professional controversies have undercut the analytical credibility his medical credentials would otherwise support.",
+        "keyIssues": ["Healthcare", "Immigration", "Economy", "Defense"],
+        "education": ["M.D., University of South Dakota School of Medicine", "B.S., University of South Dakota"],
+        "experience": ["U.S. Representative since 2011", "Family Medicine Physician", "U.S. Air Force"],
+        "website": "https://desjarlais.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TN-05": [
+      {
+        "id": "rep-tn-05-001",
+        "name": "Andy Ogles",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 22,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Middle Tennessee State University. Career as conservative advocacy group leader and Maury County mayor. No analytical or evidence-based policy background.",
+        "keyIssues": ["Economy", "Immigration", "Gun Rights", "Government Spending"],
+        "education": ["B.S., Middle Tennessee State University"],
+        "experience": ["U.S. Representative since 2023", "Mayor of Maury County", "Americans for Prosperity, Tennessee Director"],
+        "website": "https://ogles.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TN-06": [
+      {
+        "id": "rep-tn-06-001",
+        "name": "John Rose",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.S. from Tennessee Technological University. Career as farmer and businessman. No analytical or evidence-based policy background.",
+        "keyIssues": ["Agriculture", "Economy", "Education", "Defense"],
+        "education": ["B.S., Tennessee Technological University"],
+        "experience": ["U.S. Representative since 2019", "Farmer", "Tennessee Commissioner of Agriculture (former)", "Businessman"],
+        "website": "https://johnrose.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TN-07": [
+      {
+        "id": "rep-tn-07-001",
+        "name": "Matt Van Epps",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "nerdReason": null,
+        "notNerdReason": "New member of Congress (2025). Military veteran and businessman. Limited public record of analytical or evidence-based policy approach.",
+        "keyIssues": ["Defense", "Economy", "Veterans Affairs", "Immigration"],
+        "education": ["Military education and training"],
+        "experience": ["U.S. Representative since 2025", "Military Veteran", "Businessman"],
+        "website": "https://vanepps.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TN-08": [
+      {
+        "id": "rep-tn-08-001",
+        "name": "David Kustoff",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Memphis and J.D. from University of Memphis School of Law. Career as U.S. Attorney for the Western District of Tennessee and state GOP chairman. Legal and prosecutorial background provides analytical skills but approach not distinctly evidence-based.",
+        "keyIssues": ["Financial Services", "Economy", "Law Enforcement", "Agriculture"],
+        "education": ["J.D., University of Memphis School of Law", "B.A., University of Memphis"],
+        "experience": ["U.S. Representative since 2017", "House Financial Services Committee", "U.S. Attorney, Western District of Tennessee", "Chairman, Tennessee Republican Party"],
+        "website": "https://kustoff.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "TN-09": [
+      {
+        "id": "rep-tn-09-001",
+        "name": "Steve Cohen",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 48,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from Vanderbilt University and J.D. from University of Memphis School of Law. Career as attorney and state legislator. Constitutional convention delegate. Long-tenured in Congress on Judiciary and Transportation committees. Solid policy engagement but approach is more advocacy-driven than analytically rigorous.",
+        "keyIssues": ["Judiciary", "Transportation", "Civil Rights", "Healthcare"],
+        "education": ["J.D., University of Memphis School of Law", "B.A., Vanderbilt University"],
+        "experience": ["U.S. Representative since 2007", "House Judiciary Committee", "House Transportation Committee", "Tennessee State Senator, 24 years", "Constitutional Convention Delegate", "Attorney"],
+        "website": "https://cohen.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }

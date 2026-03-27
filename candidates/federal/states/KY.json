@@ -2,6 +2,132 @@
   "state": "KY",
   "stateName": "Kentucky",
   "stateFips": "21",
-  "senators": [],
-  "house": {}
+  "senators": [
+    {
+      "id": "sen-ky-001",
+      "name": "Mitch McConnell",
+      "party": "Republican",
+      "isNerd": false,
+      "nerdScore": 48,
+      "notNerdReason": "B.A. from University of Louisville (with honors) and J.D. from University of Kentucky College of Law (president of Student Bar Association). Longest-serving Senate party leader in U.S. history. Master of legislative procedure, institutional rules, and strategic political analysis. His deep knowledge of Senate procedure and constitutional precedent represents a form of analytical expertise unmatched in the chamber.",
+      "nerdReason": null,
+      "keyIssues": ["Judiciary", "Defense", "Trade", "Agriculture"],
+      "education": ["J.D., University of Kentucky College of Law", "B.A. (with honors), University of Louisville"],
+      "experience": ["U.S. Senator since 1985", "Senate Republican Leader, 2007-2025", "Senate Majority Leader, 2015-2021", "Judge-Executive, Jefferson County, KY", "Chief Legislative Assistant to Sen. Marlow Cook"],
+      "website": "https://www.mcconnell.senate.gov/",
+      "imageUrl": null
+    },
+    {
+      "id": "sen-ky-002",
+      "name": "Rand Paul",
+      "party": "Republican",
+      "isNerd": true,
+      "nerdScore": 62,
+      "nerdReason": "Attended Baylor University. M.D. from Duke University School of Medicine. Board-certified ophthalmologist who practiced for nearly two decades. Founded the Southern Kentucky Lions Eye Clinic providing free surgeries to those in need. Medical training provides rigorous scientific methodology. Applies medical expertise to healthcare and public health policy debates, though sometimes at odds with mainstream medical consensus.",
+      "notNerdReason": null,
+      "keyIssues": ["Healthcare", "Civil Liberties", "Fiscal Policy", "Foreign Policy"],
+      "education": ["M.D., Duke University School of Medicine", "Baylor University (attended)"],
+      "experience": ["U.S. Senator since 2011", "Chairman, Senate Homeland Security Committee", "Ophthalmologist, 1993-2010", "Founder, Southern Kentucky Lions Eye Clinic", "2016 Presidential Candidate"],
+      "website": "https://www.paul.senate.gov/",
+      "imageUrl": null
+    }
+  ],
+  "house": {
+    "KY-01": [
+      {
+        "id": "rep-ky-01-001",
+        "name": "James Comer",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 30,
+        "nerdReason": null,
+        "notNerdReason": "B.S. in agriculture from Western Kentucky University. Career as farmer, auto dealer, and state legislator. No analytical or evidence-based policy background. Background in agricultural business and practical farming.",
+        "keyIssues": ["Agriculture", "Government Oversight", "Economy", "Energy"],
+        "education": ["B.S. Agriculture, Western Kentucky University"],
+        "experience": ["U.S. Representative since 2016", "Chairman, House Oversight Committee", "Kentucky Commissioner of Agriculture", "Kentucky State Representative", "Farmer and Auto Dealer"],
+        "website": "https://comer.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "KY-02": [
+      {
+        "id": "rep-ky-02-001",
+        "name": "Brett Guthrie",
+        "party": "Republican",
+        "isNerd": true,
+        "nerdScore": 62,
+        "nerdReason": "B.S. in economics from U.S. Military Academy at West Point and M.A. in public and private management from Yale University. West Point provides rigorous analytical and engineering-adjacent education. Yale master's adds elite policy analysis training. Army Artillery Officer in 101st Airborne. Now Chairman of House Energy and Commerce Committee. Combines military analytical discipline with elite academic policy training.",
+        "notNerdReason": null,
+        "keyIssues": ["Healthcare", "Energy", "Technology", "Education"],
+        "education": ["M.A. Public and Private Management, Yale University", "B.S. Economics, U.S. Military Academy at West Point"],
+        "experience": ["U.S. Representative since 2009", "Chairman, House Energy and Commerce Committee", "U.S. Army, 101st Airborne Division", "Kentucky State Senator, 1999-2008", "Businessman"],
+        "website": "https://guthrie.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "KY-03": [
+      {
+        "id": "rep-ky-03-001",
+        "name": "Morgan McGarvey",
+        "party": "Democratic",
+        "isNerd": false,
+        "nerdScore": 45,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Missouri and J.D. from University of Kentucky College of Law. Career as attorney and Kentucky State Senate Minority Leader. Legal and political background. Solid policy engagement but not distinctly analytical or evidence-based.",
+        "keyIssues": ["Healthcare", "Education", "Economy", "Gun Safety"],
+        "education": ["J.D., University of Kentucky College of Law", "B.A., University of Missouri"],
+        "experience": ["U.S. Representative since 2023", "Kentucky State Senate Minority Leader", "Kentucky State Senator", "Attorney"],
+        "website": "https://mcgarvey.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "KY-04": [
+      {
+        "id": "rep-ky-04-001",
+        "name": "Thomas Massie",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 35,
+        "notNerdReason": "B.S. in electrical engineering and M.S. in mechanical engineering from MIT. Invented the PHANToM haptic interface at MIT, enabling users to feel virtual objects. Founded SensAble Technologies, raising $32M in venture capital, creating 70 jobs, and obtaining 29 patents. Lives off-grid on a solar-powered cattle farm he built himself. One of the most technically accomplished members of Congress. Brings genuine engineering and invention expertise to technology and energy policy.",
+        "nerdReason": null,
+        "keyIssues": ["Technology", "Civil Liberties", "Agriculture", "Energy"],
+        "education": ["M.S. Mechanical Engineering, MIT", "B.S. Electrical Engineering, MIT"],
+        "experience": ["U.S. Representative since 2012", "Inventor (29 patents, haptic technology)", "Founder, SensAble Technologies", "Lewis County Judge-Executive", "Off-grid Farmer and Engineer"],
+        "website": "https://massie.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "KY-05": [
+      {
+        "id": "rep-ky-05-001",
+        "name": "Hal Rogers",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 38,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Kentucky and J.D. from University of Kentucky College of Law. Career as attorney and politician. Longest-serving member of Kentucky's delegation (since 1981). Deep appropriations expertise but approach is more earmark-focused than analytically rigorous.",
+        "keyIssues": ["Appropriations", "Drug Policy", "Economy", "Infrastructure"],
+        "education": ["J.D., University of Kentucky College of Law", "B.A., University of Kentucky"],
+        "experience": ["U.S. Representative since 1981", "Former Chairman, House Appropriations Committee", "Commonwealth's Attorney, Kentucky", "Attorney", "Kentucky Army National Guard"],
+        "website": "https://halrogers.house.gov/",
+        "imageUrl": null
+      }
+    ],
+    "KY-06": [
+      {
+        "id": "rep-ky-06-001",
+        "name": "Andy Barr",
+        "party": "Republican",
+        "isNerd": false,
+        "nerdScore": 42,
+        "nerdReason": null,
+        "notNerdReason": "B.A. from University of Virginia (magna cum laude, Phi Beta Kappa) and J.D. from University of Kentucky College of Law. Strong academic credentials (UVA with honors). Career as attorney and congressional staffer. Serves on Financial Services Committee. Solid intellectual foundations but legislative approach not distinctly research-driven.",
+        "keyIssues": ["Financial Services", "Foreign Affairs", "Economy", "Veterans Affairs"],
+        "education": ["J.D., University of Kentucky College of Law", "B.A., University of Virginia (magna cum laude, Phi Beta Kappa)"],
+        "experience": ["U.S. Representative since 2013", "House Financial Services Committee", "House Foreign Affairs Committee", "Attorney", "Congressional Staffer"],
+        "website": "https://barr.house.gov/",
+        "imageUrl": null
+      }
+    ]
+  }
 }
